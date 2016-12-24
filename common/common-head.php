@@ -1,3 +1,9 @@
+<?php 
+    if(!isset($root)) {
+      // Root was not set in file that this was imported to, assume already at root
+      $root = "";
+    }
+?>
 <!-- Includes everything that is common between each page -->
 
 
@@ -6,30 +12,30 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Favicon -->
-    <link rel="shortcut icon" type="image/icon" href="img/favicon.png"/>
+    <link rel="shortcut icon" type="image/icon" href=<?php echo "'" . $root . "img/favicon.png'"; ?> />
 
     <!-- CSS
     ================================================== -->       
     <!-- Bootstrap css file-->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href=<?php echo "'" . $root . "css/bootstrap.min.css'"; ?> rel="stylesheet">
     <!-- Font awesome css file-->
-    <link href="css/font-awesome.min.css" rel="stylesheet">
+    <link href=<?php echo "'" . $root . "css/font-awesome.min.css'"; ?> rel="stylesheet">
     <!-- Superslide css file-->
-    <link rel="stylesheet" href="css/superslides.css">
+    <link rel="stylesheet" href=<?php echo "'" . $root . "css/superslides.css'"; ?>>
     <!-- Slick slider css file -->
-    <link href="css/slick.css" rel="stylesheet"> 
+    <link href=<?php echo "'" . $root . "css/slick.css'"; ?> rel="stylesheet"> 
     <!-- Circle counter cdn css file -->
     <link rel='stylesheet prefetch' href='https://cdn.rawgit.com/pguso/jquery-plugin-circliful/master/css/jquery.circliful.css'>  
     <!-- smooth animate css file -->
-    <link rel="stylesheet" href="css/animate.css"> 
+    <link rel="stylesheet" href=<?php echo "'" . $root . "css/animate.css'"; ?>> 
     <!-- preloader -->
-    <link rel="stylesheet" href="css/queryLoader.css" type="text/css" />
+    <link rel="stylesheet" href=<?php echo "'" . $root . "css/queryLoader.css'"; ?> type="text/css" />
     <!-- gallery slider css -->
-    <link type="text/css" media="all" rel="stylesheet" href="css/jquery.tosrus.all.css" />    
+    <link type="text/css" media="all" rel="stylesheet" href=<?php echo "'" . $root . "css/jquery.tosrus.all.css'"; ?> />    
     <!-- Default Theme css file -->
-    <link id="switcher" href="css/themes/lite-blue-theme.css" rel="stylesheet">
+    <link id="switcher" href=<?php echo "'" . $root . "css/themes/lite-blue-theme.css'"; ?> rel="stylesheet">
     <!-- Main structure css file -->
-    <link href="style.css" rel="stylesheet">
+    <link href=<?php echo "'" . $root . "style.css'"; ?> rel="stylesheet">
    
     <!-- Google fonts -->
     <link href='http://fonts.googleapis.com/css?family=Merriweather' rel='stylesheet' type='text/css'>   

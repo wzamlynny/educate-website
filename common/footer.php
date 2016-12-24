@@ -1,3 +1,9 @@
+<?php 
+    if(!isset($root)) {
+      // Root was not set in file that this was imported to, assume already at root
+      $root = "";
+    }
+?>
 <footer id="footer">
     <!-- Start footer top area -->
     <div class="footer_top">

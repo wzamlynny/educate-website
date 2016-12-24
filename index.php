@@ -12,7 +12,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
      <title>Educate the Future : Home</title>
 
-    <?php include('common-head.php'); ?>
+    <?php include('common/common-head.php'); ?>
  
   </head>
   <body>    
@@ -22,7 +22,7 @@
     <!-- END SCROLL TOP BUTTON -->
 
     <!--=========== BEGIN HEADER SECTION ================-->
-    <?php include('header.php'); ?>
+    <?php include('common/header.php'); ?>
     <!--=========== END HEADER SECTION ================--> 
 
     <!--=========== BEGIN SLIDER SECTION ================-->
@@ -78,7 +78,7 @@
         <!-- Start about us area -->
         <div class="col-lg-6 col-md-6 col-sm-6">
           <div class="aboutus_area wow fadeInLeft">
-            <h2 class="titile">About Us</h2>
+            <h2 class="title">About Us</h2>
             <p>Educate the Future was launched on February 13, 2016 as a non-profit movement to provide all children a free tutoring service during their time in K-12. We believe that education is one of the most meaningful and life changing experiences, and move to ensure that all children have an opportunity to succeed. Although we stand as a young organization, we are eager to continue working closely with the community and providing a wide array of services to families in need: free tutoring, school supplies, social events, workshops, etc. Areas of tutoring and availability range based on the current staffing of tutors, but all efforts to accommodate requests will be made for our aspiring scholars. We urge you to join us in this movement for higher quality educational opportunities.</p>
           </div>
         </div>
@@ -749,10 +749,10 @@
     <!--=========== END STUDENTS TESTIMONIAL SECTION ================-->    
     
     <!--=========== BEGIN FOOTER SECTION ================-->
-    <?php include('footer.php'); ?>
+    <?php include('common/footer.php'); ?>
     <!--=========== END FOOTER SECTION ================--> 
 
-    <?php include('common-js.php'); ?>
+    <?php include('common/common-js.php'); ?>
     <!--=============================================== 
     Template Design By WpFreeware Team.
     Author URI : http://www.wpfreeware.com/

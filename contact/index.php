@@ -1,3 +1,4 @@
+<?php $root = "../"; ?>
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -12,7 +13,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
      <title>Educate the Future : Contact</title>
 
-     <?php include('common-head.php'); ?>
+     <?php include('../common/common-head.php'); ?>
   
   </head>
   <body>
@@ -22,7 +23,7 @@
     <!-- END SCROLL TOP BUTTON -->
 
     <!--=========== BEGIN HEADER SECTION ================-->
-    <?php include('header.php'); ?>
+    <?php include('../common/header.php'); ?>
     <!--=========== END HEADER SECTION ================--> 
 
     <!--=========== BEGIN COURSE BANNER SECTION ================-->
@@ -86,10 +87,10 @@
     <!--=========== END GOOGLE MAP SECTION ================-->
     
     <!--=========== BEGIN FOOTER SECTION ================-->
-    <?php include('footer.php'); ?>
+    <?php include('../common/footer.php'); ?>
     <!--=========== END FOOTER SECTION ================--> 
 
-    <?php include('common-js.php'); ?>
+    <?php include('../common/common-js.php'); ?>
 
   <!--=============================================== 
     Template Design By WpFreeware Team.

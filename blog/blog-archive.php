@@ -1,3 +1,4 @@
+<?php $root = "../"; ?>
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -11,7 +12,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
      <title>Educate the Future : Blog Archive</title>
 
-    <?php include('common-head.php'); ?>
+    <?php include('../common/common-head.php'); ?>
   
   </head>
   <body>
@@ -21,7 +22,7 @@
     <!-- END SCROLL TOP BUTTON -->
 
     <!--=========== BEGIN HEADER SECTION ================-->
-    <?php include('header.php'); ?>
+    <?php include('../common/header.php'); ?>
     <!--=========== END HEADER SECTION ================--> 
 
     <!--=========== BEGIN COURSE BANNER SECTION ================-->
@@ -44,7 +45,7 @@
                   <div class="single_blog_archive wow fadeInUp">
                     <div class="blogimg_container">
                       <a href="#" class="blog_img">
-                        <img alt="img" src="img/blog.jpg">
+                        <img alt="img" src="../img/blog.jpg">
                       </a>
                     </div>
                     <h2 class="blog_title"><a href="blog-single.html"> Curabitur ac dictum nisl eu hendrerit ante</a></h2>
@@ -63,7 +64,7 @@
                   <div class="single_blog_archive wow fadeInUp">
                     <div class="blogimg_container">
                       <a href="#" class="blog_img">
-                        <img alt="img" src="img/blog.jpg">
+                        <img alt="img" src="../img/blog.jpg">
                       </a>
                     </div>
                     <h2 class="blog_title"><a href="blog-single.html"> Curabitur ac dictum nisl eu hendrerit ante</a></h2>
@@ -82,10 +83,10 @@
                   <div class="single_blog_archive wow fadeInUp">
                     <div class="blogimg_container">
                       <a href="#" class="blog_img">
-                        <img alt="img" src="img/blog.jpg">
+                        <img alt="img" src="../img/blog.jpg">
                       </a>
                     </div>
-                    <h2 class="blog_title"><a href="blog-single.html"> Curabitur ac dictum nisl eu hendrerit ante</a></h2>
+                    <h2 class="blog_title"><a href="../blog-single.html"> Curabitur ac dictum nisl eu hendrerit ante</a></h2>
                     <div class="blog_commentbox">
                       <p><i class="fa fa-user"></i>Richard Remus</p>
                       <p><i class="fa fa-calendar"></i>15 March 2015</p>
@@ -124,7 +125,7 @@
                     <div class="media">
                       <div class="media-left">
                         <a href="#" class="news_img">
-                          <img alt="img" src="img/news.jpg" class="media-object">
+                          <img alt="img" src="../img/news.jpg" class="media-object">
                         </a>
                       </div>
                       <div class="media-body">
@@ -137,7 +138,7 @@
                     <div class="media">
                       <div class="media-left">
                         <a href="#" class="news_img">
-                          <img alt="img" src="img/news.jpg" class="media-object">
+                          <img alt="img" src="../img/news.jpg" class="media-object">
                         </a>
                       </div>
                       <div class="media-body">
@@ -150,7 +151,7 @@
                     <div class="media">
                       <div class="media-left">
                         <a href="#" class="news_img">
-                          <img alt="img" src="img/news.jpg" class="media-object">
+                          <img alt="img" src="../img/news.jpg" class="media-object">
                         </a>
                       </div>
                       <div class="media-body">
@@ -190,7 +191,7 @@
               <!-- start single sidebar -->
               <div class="single_sidebar">
                 <h2>Sponsor Add <span class="fa fa-angle-double-right"></span></h2>
-                <a class="side_add" href="#"><img src="img/side-add.jpg" alt="img"></a>
+                <a class="side_add" href="#"><img src="../img/side-add.jpg" alt="img"></a>
               </div>
               <!-- End single sidebar -->
             </div>
@@ -202,10 +203,10 @@
     <!--=========== END COURSE BANNER SECTION ================-->
     
     <!--=========== BEGIN FOOTER SECTION ================-->
-    <?php include('footer.php'); ?>
+    <?php include('../common/footer.php'); ?>
     <!--=========== END FOOTER SECTION ================--> 
 
-    <?php include('common-js.php'); ?>
+    <?php include('../common/common-js.php'); ?>
     
     <!--=============================================== 
       Template Design By WpFreeware Team.
