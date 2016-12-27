@@ -12,7 +12,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
      <title>Educate the Future : Events Single</title>
 
-    <?php include('common/common-head.php'); ?>
+    <?php include('../common/common-head.php'); ?>
 
   </head>
   <body> 
@@ -22,7 +22,7 @@
     <!-- END SCROLL TOP BUTTON -->
 
     <!--=========== BEGIN HEADER SECTION ================-->
-    <?php include('common/header.php'); ?>
+    <?php include('../common/header.php'); ?>
     <!--=========== END HEADER SECTION ================--> 
 
     <!--=========== BEGIN COURSE BANNER SECTION ================-->
@@ -52,7 +52,7 @@
                       </div>
                     </div>
                     <!-- End events slider -->
-                    <h2 class="blog_title"><a href="blog-single.html"> Curabitur ac dictum nisl eu hendrerit ante</a></h2>
+                    <h2 class="blog_title"><a href="blog-single.php"> Curabitur ac dictum nisl eu hendrerit ante</a></h2>
                     <div class="blog_commentbox">
                       <p><i class="fa fa-clock-o"></i>Time: 7pm,15 March 2015</p>
                       <p><i class="fa fa-map-marker"></i>Location: London,UK</p>                      
@@ -98,7 +98,7 @@
                           <img src="img/blog.jpg" alt="img">
                         </a>
                       </div>
-                      <h2 class="blog_title"><a href="blog-single.html"> Curabitur ac dictum nisl eu hendrerit ante</a></h2>
+                      <h2 class="blog_title"><a href="blog-single.php"> Curabitur ac dictum nisl eu hendrerit ante</a></h2>
                       <div class="blog_commentbox">
                         <p><i class="fa fa-clock-o"></i>Time: 7pm,15 March 2015</p>
                         <p><i class="fa fa-map-marker"></i>Location: London,UK</p>                      
@@ -114,7 +114,7 @@
                           <img src="img/blog.jpg" alt="img">
                         </a>
                       </div>
-                      <h2 class="blog_title"><a href="blog-single.html"> Curabitur ac dictum nisl eu hendrerit ante</a></h2>
+                      <h2 class="blog_title"><a href="blog-single.php"> Curabitur ac dictum nisl eu hendrerit ante</a></h2>
                       <div class="blog_commentbox">
                         <p><i class="fa fa-clock-o"></i>Time: 7pm,15 March 2015</p>
                         <p><i class="fa fa-map-marker"></i>Location: London,UK</p>                      
@@ -219,10 +219,10 @@
     <!--=========== END COURSE BANNER SECTION ================-->
     
     <!--=========== BEGIN FOOTER SECTION ================-->
-    <?php include('common/footer.php'); ?>
+    <?php include('../common/footer.php'); ?>
     <!--=========== END FOOTER SECTION ================--> 
 
-    <?php include('common/common-js.php'); ?>
+    <?php include('../common/common-js.php'); ?>
     
     <!--=============================================== 
     Template Design By WpFreeware Team.

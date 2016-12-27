@@ -48,14 +48,14 @@
                         <img alt="img" src="../img/blog.jpg">
                       </a>
                     </div>
-                    <h2 class="blog_title"><a href="blog-single.html"> Curabitur ac dictum nisl eu hendrerit ante</a></h2>
+                    <h2 class="blog_title"><a href="blog-single.php"> Curabitur ac dictum nisl eu hendrerit ante</a></h2>
                     <div class="blog_commentbox">
                       <p><i class="fa fa-user"></i>Richard Remus</p>
                       <p><i class="fa fa-calendar"></i>15 March 2015</p>
                       <a href="#"><i class="fa fa-comments"></i>20 Comments</a>
                     </div>
                     <p class="blog_summary">Duis erat purus, tincidunt vel ullamcorper ut, consequat tempus nibh. Proin condimentum risus ligula, dignissim mollis tortor hendrerit vel. Aliquam...</p>
-                    <a class="blog_readmore" href="blog-single.html">Read More</a>
+                    <a class="blog_readmore" href="blog-single.php">Read More</a>
                   </div>
                 </div>
                 <!-- start single blog archive -->
@@ -67,14 +67,14 @@
                         <img alt="img" src="../img/blog.jpg">
                       </a>
                     </div>
-                    <h2 class="blog_title"><a href="blog-single.html"> Curabitur ac dictum nisl eu hendrerit ante</a></h2>
+                    <h2 class="blog_title"><a href="blog-single.php"> Curabitur ac dictum nisl eu hendrerit ante</a></h2>
                     <div class="blog_commentbox">
                       <p><i class="fa fa-user"></i>Richard Remus</p>
                       <p><i class="fa fa-calendar"></i>15 March 2015</p>
                       <a href="#"><i class="fa fa-comments"></i>20 Comments</a>
                     </div>
                     <p class="blog_summary">Duis erat purus, tincidunt vel ullamcorper ut, consequat tempus nibh. Proin condimentum risus ligula, dignissim mollis tortor hendrerit vel. Aliquam...</p>
-                    <a class="blog_readmore" href="blog-single.html">Read More</a>
+                    <a class="blog_readmore" href="blog-single.php">Read More</a>
                   </div>
                 </div>
                 <!-- start single blog archive -->
@@ -86,14 +86,14 @@
                         <img alt="img" src="../img/blog.jpg">
                       </a>
                     </div>
-                    <h2 class="blog_title"><a href="../blog-single.html"> Curabitur ac dictum nisl eu hendrerit ante</a></h2>
+                    <h2 class="blog_title"><a href="../blog-single.php"> Curabitur ac dictum nisl eu hendrerit ante</a></h2>
                     <div class="blog_commentbox">
                       <p><i class="fa fa-user"></i>Richard Remus</p>
                       <p><i class="fa fa-calendar"></i>15 March 2015</p>
                       <a href="#"><i class="fa fa-comments"></i>20 Comments</a>
                     </div>
                     <p class="blog_summary">Duis erat purus, tincidunt vel ullamcorper ut, consequat tempus nibh. Proin condimentum risus ligula, dignissim mollis tortor hendrerit vel. Aliquam...</p>
-                    <a class="blog_readmore" href="blog-single.html">Read More</a>
+                    <a class="blog_readmore" href="blog-single.php">Read More</a>
                   </div>
                 </div>
                 <!-- start single blog archive -->

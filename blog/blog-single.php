@@ -48,7 +48,7 @@
                         <img alt="img" src="../img/blog.jpg">
                       </a>
                     </div>
-                    <h2 class="blog_title"><a href="blog-single.html"> Curabitur ac dictum nisl eu hendrerit ante</a></h2>
+                    <h2 class="blog_title"><a href="blog-single.php"> Curabitur ac dictum nisl eu hendrerit ante</a></h2>
                     <div class="blog_commentbox">
                       <p><i class="fa fa-user"></i>Richard Remus</p>
                       <p><i class="fa fa-calendar"></i>15 March 2015</p>
@@ -95,7 +95,7 @@
                           <img src="../img/blog.jpg" alt="img">
                         </a>
                       </div>
-                      <h2 class="blog_title"><a href="blog-single.html"> Curabitur ac dictum nisl eu hendrerit ante</a></h2>
+                      <h2 class="blog_title"><a href="blog-single.php"> Curabitur ac dictum nisl eu hendrerit ante</a></h2>
                       <div class="blog_commentbox">
                         <p><i class="fa fa-user"></i>Richard Remus</p>
                         <p><i class="fa fa-calendar"></i>15 March 2015</p>
@@ -112,7 +112,7 @@
                           <img src="../img/blog.jpg" alt="img">
                         </a>
                       </div>
-                      <h2 class="blog_title"><a href="blog-single.html"> Curabitur ac dictum nisl eu hendrerit ante</a></h2>
+                      <h2 class="blog_title"><a href="blog-single.php"> Curabitur ac dictum nisl eu hendrerit ante</a></h2>
                       <div class="blog_commentbox">
                         <p><i class="fa fa-user"></i>Richard Remus</p>
                         <p><i class="fa fa-calendar"></i>15 March 2015</p>
