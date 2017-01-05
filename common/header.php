@@ -53,12 +53,12 @@
             </li>
 
             <li class='dropdown'>
-            <!-- LINK ON LOCATIONS WILL NOT WORK ?? -->
-              <a href=<?php echo "'" . $root . "locations'"; ?> class='dropdown-toggle' data-toggle='dropdown' role='button' aria-expanded='false'>Locations<span class='caret'></span></a>
+            <!-- LINK ON LOCATIONS - Disabled is not mobile friendly TODO -->
+              <a href=<?php echo "'" . $root . "locations'"; ?> class='dropdown-toggle disabled' data-toggle='dropdown' role='button' aria-expanded='false'>Locations<span class='caret'></span></a>
               <ul class='dropdown-menu' role='menu'>
-                <li><a href=<?php echo "'" . $root . "locations/hillside.php'"; ?> >Hillside</a></li>
-                <li><a href=<?php echo "'" . $root . "locations/elizabeth.php'"; ?> >Elizabeth</a></li>
-                <li><a href=<?php echo "'" . $root . "locations/union.php'"; ?> >Union</a></li>               
+                <li><a href=<?php echo "'" . $root . "locations/hillside.php'"; ?> >Hillside, NJ</a></li>
+                <li><a href=<?php echo "'" . $root . "locations/elizabeth.php'"; ?> >Elizabeth, NJ</a></li>
+                <li><a href=<?php echo "'" . $root . "locations/union.php'"; ?> >Union, NJ</a></li>               
               </ul>
             </li>
 

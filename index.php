@@ -99,7 +99,7 @@
                     <div class="media">
                       <div class="media-left">
                         <a class="news_img" href="#">
-                          <img class="media-object" src="img/news.jpg" alt="img">
+                          <img class="media-object" src="img/temporary.png" alt="img">
                         </a>
                       </div>
                       <div class="media-body">
@@ -112,7 +112,7 @@
                     <div class="media">
                       <div class="media-left">
                         <a class="news_img" href="#">
-                          <img class="media-object" src="img/news.jpg" alt="img">
+                          <img class="media-object" src="img/temporary.png" alt="img">
                         </a>
                       </div>
                       <div class="media-body">
@@ -125,7 +125,7 @@
                     <div class="media">
                       <div class="media-left">
                         <a class="news_img" href="#">
-                          <img class="media-object" src="img/news.jpg" alt="img">
+                          <img class="media-object" src="img/temporary.png" alt="img">
                         </a>
                       </div>
                       <div class="media-body">
@@ -145,7 +145,7 @@
                       <div class="media">
                         <div class="media-left">
                           <a class="news_img" href="#">
-                            <img class="media-object" src="img/news.jpg" alt="img">
+                            <img class="media-object" src="img/temporary.png" alt="img">
                           </a>
                         </div>
                         <div class="media-body">
@@ -158,7 +158,7 @@
                       <div class="media">
                         <div class="media-left">
                           <a class="news_img" href="#">
-                            <img class="media-object" src="img/notice.jpg" alt="img">
+                            <img class="media-object" src="img/temporary.png" alt="img">
                           </a>
                         </div>
                         <div class="media-body">
@@ -171,7 +171,7 @@
                       <div class="media">
                         <div class="media-left">
                           <a class="news_img" href="#">
-                            <img class="media-object" src="img/notice.jpg" alt="img">
+                            <img class="media-object" src="img/temporary.png" alt="img">
                           </a>
                         </div>
                         <div class="media-body">
@@ -186,7 +186,7 @@
                       <div class="media">
                         <div class="media-left">
                           <a class="news_img" href="#">
-                            <img class="media-object" src="img/notice.jpg" alt="img">
+                            <img class="media-object" src="img/temporary.png" alt="img">
                           </a>
                         </div>
                         <div class="media-body">
@@ -199,7 +199,7 @@
                       <div class="media">
                         <div class="media-left">
                           <a class="news_img" href="#">
-                            <img class="media-object" src="img/notice.jpg" alt="img">
+                            <img class="media-object" src="img/temporary.png" alt="img">
                           </a>
                         </div>
                         <div class="media-body">
@@ -212,7 +212,7 @@
                       <div class="media">
                         <div class="media-left">
                           <a class="news_img" href="#">
-                            <img class="media-object" src="img/notice.jpg" alt="img">
+                            <img class="media-object" src="img/temporary.png" alt="img">
                           </a>
                         </div>
                         <div class="media-body">
@@ -231,7 +231,7 @@
                     <div class="media">
                       <div class="media-left">
                         <a class="news_img" href="#">
-                          <img class="media-object" src="img/news.jpg" alt="img">
+                          <img class="media-object" src="img/temporary.png" alt="img">
                         </a>
                       </div>
                       <div class="media-body">
@@ -244,7 +244,7 @@
                     <div class="media">
                       <div class="media-left">
                         <a class="news_img" href="#">
-                          <img class="media-object" src="img/news.jpg" alt="img">
+                          <img class="media-object" src="img/temporary.png" alt="img">
                         </a>
                       </div>
                       <div class="media-body">
@@ -257,7 +257,7 @@
                     <div class="media">
                       <div class="media-left">
                         <a class="news_img" href="#">
-                          <img class="media-object" src="img/news.jpg" alt="img">
+                          <img class="media-object" src="img/temporary.png" alt="img">
                         </a>
                       </div>
                       <div class="media-body">
@@ -340,6 +340,7 @@
       </div>
       <!-- End why us top -->
 
+      <!--What happened here? -->
       <!-- Start why us bottom -->
       <div class="row">        
         <div class="col-lg-12 col-sm-12">
@@ -417,7 +418,7 @@
                     <!--<p>when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>-->
                     </div>
                     <!--<div class="singCourse_author">
-                      <img src="img/author.jpg" alt="img">
+                      <img src="img/temporary.png" alt="img">
                       <p>Richard Remus, Teacher</p>
                     </div>-->
                   </div>
@@ -436,7 +437,7 @@
                     <p>when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>-->
                     </div>
                     <!--<div class="singCourse_author">
-                      <img src="img/author.jpg" alt="img">
+                      <img src="img/temporary.png" alt="img">
                       <p>Richard Remus, Teacher</p>
                     </div>-->
                   </div>
@@ -455,7 +456,7 @@
                     <p>when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>-->
                     </div>
                     <!--<div class="singCourse_author">
-                      <img src="img/author.jpg" alt="img">
+                      <img src="img/temporary.png" alt="img">
                       <p>Richard Remus, Teacher</p>
                     </div>-->
                   </div>
@@ -474,7 +475,7 @@
                     <p>when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>-->
                     </div>
                     <!--<div class="singCourse_author">
-                      <img src="img/author.jpg" alt="img">
+                      <img src="img/temporary.png" alt="img">
                       <p>Richard Remus, Teacher</p>
                     </div>-->
                   </div>
@@ -493,7 +494,7 @@
                     <p>when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
                     </div>
                     <div class="singCourse_author">
-                      <img src="img/author.jpg" alt="img">
+                      <img src="img/temporary.png" alt="img">
                       <p>Richard Remus, Teacher</p>
                     </div>
                   </div>
@@ -512,7 +513,7 @@
                     <p>when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
                     </div>
                     <div class="singCourse_author">
-                      <img src="img/author.jpg" alt="img">
+                      <img src="img/temporary.png" alt="img">
                       <p>Richard Remus, Teacher</p>
                     </div>
                   </div>
@@ -549,7 +550,7 @@
                 <li>
                   <div class="single_tutors">
                     <div class="tutors_thumb">
-                      <img src="img/pexels-photo-69205.jpeg" />                      
+                      <img src="img/temporary.png" />                      
                     </div>
                     <div class="singTutors_content">
                       <h3 class="tutors_name">Jame Burns</h3>
@@ -569,7 +570,7 @@
                 <li>
                   <div class="single_tutors">
                     <div class="tutors_thumb">
-                      <img src="img/pexels-photo-69205.jpeg" />                      
+                      <img src="img/temporary.png" />                      
                     </div>
                     <div class="singTutors_content">
                       <h3 class="tutors_name">Jame Burns</h3>
@@ -589,7 +590,7 @@
                 <li>
                   <div class="single_tutors">
                     <div class="tutors_thumb">
-                      <img src="img/pexels-photo-69205.jpeg" />                      
+                      <img src="img/temporary.png" />                      
                     </div>
                     <div class="singTutors_content">
                       <h3 class="tutors_name">Jame Burns</h3>
@@ -609,7 +610,7 @@
                 <li>
                   <div class="single_tutors">
                     <div class="tutors_thumb">
-                      <img src="img/pexels-photo-69205.jpeg" />                      
+                      <img src="img/temporary.png" />                      
                     </div>
                     <div class="singTutors_content">
                       <h3 class="tutors_name">Jame Burns</h3>
@@ -629,7 +630,7 @@
                 <li>
                   <div class="single_tutors">
                     <div class="tutors_thumb">
-                      <img src="img/pexels-photo-69205.jpeg" />                      
+                      <img src="img/temporary.png" />                      
                     </div>
                     <div class="singTutors_content">
                       <h3 class="tutors_name">Jame Burns</h3>
@@ -649,7 +650,7 @@
                 <li>
                   <div class="single_tutors">
                     <div class="tutors_thumb">
-                      <img src="img/pexels-photo-69205.jpeg" />                      
+                      <img src="img/temporary.png" />                      
                     </div>
                     <div class="singTutors_content">
                       <h3 class="tutors_name">Jame Burns</h3>
@@ -700,7 +701,7 @@
                     <div class="stsTestimonial_msgbox">
                       <p>when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
                     </div>
-                    <img class="stsTesti_img" src="img/author.jpg" alt="img">
+                    <img class="stsTesti_img" src="img/temporary.png" alt="img">
                     <div class="stsTestimonial_content">
                       <h3>Johnathan Doe</h3>                      
                       <span>Ex. Student</span>
@@ -715,7 +716,7 @@
                     <div class="stsTestimonial_msgbox">
                       <p>when an unknown printer took a galley of type and scrambled it to make a type specimen book.scrambled it to make a type specimen book</p>
                     </div>
-                    <img class="stsTesti_img" src="img/author.jpg" alt="img">
+                    <img class="stsTesti_img" src="img/temporary.png" alt="img">
                     <div class="stsTestimonial_content">
                       <h3>Johnathan Doe</h3>                      
                       <span>Ex. Student</span>
@@ -730,7 +731,7 @@
                     <div class="stsTestimonial_msgbox">
                       <p>when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
                     </div>
-                    <img class="stsTesti_img" src="img/author.jpg" alt="img">
+                    <img class="stsTesti_img" src="img/temporary.png" alt="img">
                     <div class="stsTestimonial_content">
                       <h3>Johnathan Doe</h3>                      
                       <span>Ex. Student</span>

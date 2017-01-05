@@ -43,7 +43,7 @@
                 <div class="col-lg-6 col-md-6 col-sm-6">
                   <div class="single_course wow fadeInUp">
                     <div class="singCourse_imgarea">
-                      <img src="img/course-1.jpg" />
+                      <img src="../img/temporary.png" />
                       <div class="mask">                         
                         <a href="course-single.php" class="course_more">View Course</a>
                       </div>
@@ -54,7 +54,7 @@
                     <p>when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
                     </div>
                     <div class="singCourse_author">
-                      <img src="img/author.jpg" alt="img">
+                      <img src="../img/temporary.png" alt="img">
                       <p>Richard Remus, Teacher</p>
                     </div>
                   </div>
@@ -64,7 +64,7 @@
                 <div class="col-lg-6 col-md-6 col-sm-6">
                   <div class="single_course wow fadeInUp">
                     <div class="singCourse_imgarea">
-                      <img src="img/course-1.jpg" />
+                      <img src="../img/temporary.png" />
                       <div class="mask">                         
                         <a href="course-single.php" class="course_more">View Course</a>
                       </div>
@@ -75,7 +75,7 @@
                     <p>when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
                     </div>
                     <div class="singCourse_author">
-                      <img src="img/author.jpg" alt="img">
+                      <img src="../img/temporary.png" alt="img">
                       <p>Richard Remus, Teacher</p>
                     </div>
                   </div>
@@ -85,7 +85,7 @@
                 <div class="col-lg-6 col-md-6 col-sm-6">
                   <div class="single_course wow fadeInUp">
                     <div class="singCourse_imgarea">
-                      <img src="img/course-1.jpg" />
+                      <img src="../img/temporary.png" />
                       <div class="mask">                         
                         <a href="course-single.php" class="course_more">View Course</a>
                       </div>
@@ -96,7 +96,7 @@
                     <p>when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
                     </div>
                     <div class="singCourse_author">
-                      <img src="img/author.jpg" alt="img">
+                      <img src="../img/temporary.png" alt="img">
                       <p>Richard Remus, Teacher</p>
                     </div>
                   </div>
@@ -106,7 +106,7 @@
                 <div class="col-lg-6 col-md-6 col-sm-6">
                   <div class="single_course wow fadeInUp">
                     <div class="singCourse_imgarea">
-                      <img src="img/course-1.jpg" />
+                      <img src="../img/temporary.png" />
                       <div class="mask">                         
                         <a href="course-single.php" class="course_more">View Course</a>
                       </div>
@@ -117,7 +117,7 @@
                     <p>when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
                     </div>
                     <div class="singCourse_author">
-                      <img src="img/author.jpg" alt="img">
+                      <img src="../img/temporary.png" alt="img">
                       <p>Richard Remus, Teacher</p>
                     </div>
                   </div>
@@ -127,7 +127,7 @@
                 <div class="col-lg-6 col-md-6 col-sm-6">
                   <div class="single_course wow fadeInUp">
                     <div class="singCourse_imgarea">
-                      <img src="img/course-1.jpg" />
+                      <img src="../img/temporary.png" />
                       <div class="mask">                         
                         <a href="course-single.php" class="course_more">View Course</a>
                       </div>
@@ -138,7 +138,7 @@
                     <p>when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
                     </div>
                     <div class="singCourse_author">
-                      <img src="img/author.jpg" alt="img">
+                      <img src="../img/temporary.png" alt="img">
                       <p>Richard Remus, Teacher</p>
                     </div>
                   </div>
@@ -148,7 +148,7 @@
                 <div class="col-lg-6 col-md-6 col-sm-6">
                   <div class="single_course wow fadeInUp">
                     <div class="singCourse_imgarea">
-                      <img src="img/course-1.jpg" />
+                      <img src="../img/temporary.png" />
                       <div class="mask">                         
                         <a href="course-single.php" class="course_more">View Course</a>
                       </div>
@@ -159,7 +159,7 @@
                     <p>when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
                     </div>
                     <div class="singCourse_author">
-                      <img src="img/author.jpg" alt="img">
+                      <img src="../img/temporary.png" alt="img">
                       <p>Richard Remus, Teacher</p>
                     </div>
                   </div>
@@ -186,7 +186,7 @@
                     <div class="media">
                       <div class="media-left">
                         <a href="#" class="news_img">
-                          <img alt="img" src="img/news.jpg" class="media-object">
+                          <img alt="img" src="../img/temporary.png" class="media-object">
                         </a>
                       </div>
                       <div class="media-body">
@@ -199,7 +199,7 @@
                     <div class="media">
                       <div class="media-left">
                         <a href="#" class="news_img">
-                          <img alt="img" src="img/news.jpg" class="media-object">
+                          <img alt="img" src="../img/temporary.png" class="media-object">
                         </a>
                       </div>
                       <div class="media-body">
@@ -212,7 +212,7 @@
                     <div class="media">
                       <div class="media-left">
                         <a href="#" class="news_img">
-                          <img alt="img" src="img/news.jpg" class="media-object">
+                          <img alt="img" src="../img/temporary.png" class="media-object">
                         </a>
                       </div>
                       <div class="media-body">
@@ -239,7 +239,7 @@
               <!-- start single sidebar -->
               <div class="single_sidebar">
                 <h2>Sponsor Add <span class="fa fa-angle-double-right"></span></h2>
-                <a class="side_add" href="#"><img src="img/side-add.jpg" alt="img"></a>
+                <a class="side_add" href="#"><img src="../img/temporary.png" alt="img"></a>
               </div>
               <!-- End single sidebar -->
             </div>

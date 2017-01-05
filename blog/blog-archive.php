@@ -45,7 +45,7 @@
                   <div class="single_blog_archive wow fadeInUp">
                     <div class="blogimg_container">
                       <a href="#" class="blog_img">
-                        <img alt="img" src="../img/blog.jpg">
+                        <img alt="img" src="../img/temporary.png">
                       </a>
                     </div>
                     <h2 class="blog_title"><a href="blog-single.php"> Curabitur ac dictum nisl eu hendrerit ante</a></h2>
@@ -64,7 +64,7 @@
                   <div class="single_blog_archive wow fadeInUp">
                     <div class="blogimg_container">
                       <a href="#" class="blog_img">
-                        <img alt="img" src="../img/blog.jpg">
+                        <img alt="img" src="../img/temporary.png">
                       </a>
                     </div>
                     <h2 class="blog_title"><a href="blog-single.php"> Curabitur ac dictum nisl eu hendrerit ante</a></h2>
@@ -83,7 +83,7 @@
                   <div class="single_blog_archive wow fadeInUp">
                     <div class="blogimg_container">
                       <a href="#" class="blog_img">
-                        <img alt="img" src="../img/blog.jpg">
+                        <img alt="img" src="../img/temporary.png">
                       </a>
                     </div>
                     <h2 class="blog_title"><a href="../blog-single.php"> Curabitur ac dictum nisl eu hendrerit ante</a></h2>
@@ -125,7 +125,7 @@
                     <div class="media">
                       <div class="media-left">
                         <a href="#" class="news_img">
-                          <img alt="img" src="../img/news.jpg" class="media-object">
+                          <img alt="img" src="../img/temporary.png" class="media-object">
                         </a>
                       </div>
                       <div class="media-body">
@@ -138,7 +138,7 @@
                     <div class="media">
                       <div class="media-left">
                         <a href="#" class="news_img">
-                          <img alt="img" src="../img/news.jpg" class="media-object">
+                          <img alt="img" src="../img/temporary.png" class="media-object">
                         </a>
                       </div>
                       <div class="media-body">
@@ -151,7 +151,7 @@
                     <div class="media">
                       <div class="media-left">
                         <a href="#" class="news_img">
-                          <img alt="img" src="../img/news.jpg" class="media-object">
+                          <img alt="img" src="../img/temporary.png" class="media-object">
                         </a>
                       </div>
                       <div class="media-body">
@@ -191,7 +191,7 @@
               <!-- start single sidebar -->
               <div class="single_sidebar">
                 <h2>Sponsor Add <span class="fa fa-angle-double-right"></span></h2>
-                <a class="side_add" href="#"><img src="../img/side-add.jpg" alt="img"></a>
+                <a class="side_add" href="#"><img src="../img/temporary.png" alt="img"></a>
               </div>
               <!-- End single sidebar -->
             </div>
