@@ -45,10 +45,6 @@
             </li>
 
             <li>
-              <a href=<?php echo "'" . $root . "gallery'"; ?>>Gallery</a>
-            </li>
-
-            <li>
               <a href=<?php echo "'" . $root . "blog/blog-archive.php'"; ?>>Blog</a>
             </li>
 
@@ -70,6 +66,10 @@
                 <li><a href='#'>Link Three</a></li>               
               </ul>
             </li>-->
+
+            <li>
+              <a href=<?php echo "'" . $root . "donate'"; ?>>Donate</a>
+            </li>
 
             <li>
               <a href=<?php echo "'" . $root . "contact'"; ?>>Contact</a>

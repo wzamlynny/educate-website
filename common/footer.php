@@ -58,7 +58,7 @@
     <!-- End footer top area -->
 
     <!-- Start footer bottom area -->
-    <div class="footer_bottom">
+    <!--<div class="footer_bottom">
     <div class="container">
         <div class="row">
         <div class="col-lg-6 col-md-6 col-sm-6">
@@ -73,6 +73,6 @@
         </div>
         </div>
     </div>
-    </div>
+    </div>-->
     <!-- End footer bottom area -->
 </footer>

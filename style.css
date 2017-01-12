@@ -455,6 +455,14 @@ img{
   text-align: center;
   text-transform: uppercase;
 }
+.title_three {
+  padding-bottom: 0;
+  position: relative;
+  text-align: center;
+  text-transform: uppercase;
+  color: white;
+  z-index: 10;
+}
 .whyus_icon{
   border-radius: 150px;
   color: #ffffff;
@@ -919,7 +927,8 @@ div[data-dimension] {
   display: inline;
   width: 100%;
   background-color: #1e2223;
-  padding: 60px 0px;
+  /*padding: 60px 0px;*/
+  padding: 40px 0px;
 }
 .single_footer_widget {
   display: inline;

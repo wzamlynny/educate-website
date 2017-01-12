@@ -62,7 +62,7 @@
              <div class="address_group">
                <p>Hillside, NJ 07205​</p>
                <p>Phone: (908)967-3058</p>
-               <p>Email:educatethefuturenow@gmail.com</p>
+               <p>Email: <a href:"mailto:educatethefuturenow@gmail.com">educatethefuturenow@gmail.com</a></p>
              </div>
              <div class="address_group">
               <ul class="footer_social">

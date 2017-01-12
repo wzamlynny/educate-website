@@ -279,12 +279,67 @@
 
     <!--=========== BEGIN WHY US SECTION ================-->
     <section id="whyUs">
+      
+
+      <!--What happened here? -->
+      <!-- Start why does it matter bottom -->
+      <div class="row">        
+        <div class="col-lg-12 col-sm-12">
+          <div class="whyus_bottom">            
+            <div class="slider_overlay"></div>
+            <div class="container">
+              <!-- Start Why does it matter top title -->
+              <div class="row">
+                <div class="col-lg-12 col-md-12"> 
+                  <div class="title_area">
+                    <h2 class="title_three">Why Does it Matter?</h2>
+                    <span></span> 
+                  </div>
+                </div>
+              </div>
+              <!-- End Why does it matter top title -->        
+              <div class="skills">                
+                <!-- START SINGLE SKILL-->
+                <div class="col-lg-3 col-md-3 col-sm-3">
+                 <div class="single_skill wow fadeInUp">
+                   <div id="myStat" data-dimension="150" data-text="35%" data-info="" data-width="10" data-fontsize="25" data-percent="35" data-fgcolor="#999" data-bgcolor="#fff"  data-icon="fa-task"></div>
+                    <h4>Repeate Learners</h4>                      
+                  </div>
+                </div>
+                <!-- START SINGLE SKILL-->
+                <div class="col-lg-3 col-md-3 col-sm-3">
+                  <div class="single_skill wow fadeInUp">
+                    <div id="myStathalf2" data-dimension="150" data-text="90%" data-info="" data-width="10" data-fontsize="25" data-percent="90" data-fgcolor="#999" data-bgcolor="#fff"  data-icon="fa-task"></div>
+                    <h4>Success Rate</h4>
+                  </div>
+                </div>
+                <!-- START SINGLE SKILL-->
+                <div class="col-lg-3 col-md-3 col-sm-3">                 
+                  <div class="single_skill wow fadeInUp">
+                    <div id="myStat2" data-dimension="150" data-text="100%" data-info="" data-width="10" data-fontsize="25" data-percent="100" data-fgcolor="#999" data-bgcolor="#fff"  data-icon="fa-task"></div>
+                    <h4>Student Engagement</h4>
+                  </div>
+                </div>
+                <!-- START SINGLE SKILL-->
+                <div class="col-lg-3 col-md-3 col-sm-3">                 
+                  <div class="single_skill wow fadeInUp">
+                    <div id="myStat3" data-dimension="150" data-text="65%" data-info="" data-width="10" data-fontsize="25" data-percent="65" data-fgcolor="#999" data-bgcolor="#fff"  data-icon="fa-task"></div>
+                    <h4>Certified Courses</h4>
+                  </div>
+                </div>
+              </div>
+            </div>            
+          </div>
+        </div>        
+      </div>
+      <!-- End why us bottom -->
+
       <!-- Start why us top -->
       <div class="row">        
         <div class="col-lg-12 col-sm-12">
           <div class="whyus_top">
             <div class="container">
-              <!-- Why us top titile -->
+              <!-- Why us top title -->
               <div class="row">
                 <div class="col-lg-12 col-md-12"> 
                   <div class="title_area">
@@ -293,7 +348,7 @@
                   </div>
                 </div>
               </div>
-              <!-- End Why us top titile -->
+              <!-- End Why us top title -->
               <!-- Start Why us top content  -->
               <div class="row">
                 <div class="col-lg-3 col-md-3 col-sm-3">
@@ -340,197 +395,13 @@
       </div>
       <!-- End why us top -->
 
-      <!--What happened here? -->
-      <!-- Start why us bottom -->
-      <div class="row">        
-        <div class="col-lg-12 col-sm-12">
-          <div class="whyus_bottom">            
-            <div class="slider_overlay"></div>
-            <div class="container">               
-              <div class="skills">                
-                <!-- START SINGLE SKILL-->
-                <div class="col-lg-3 col-md-3 col-sm-3">
-                 <div class="single_skill wow fadeInUp">
-                   <div id="myStat" data-dimension="150" data-text="35%" data-info="" data-width="10" data-fontsize="25" data-percent="35" data-fgcolor="#999" data-bgcolor="#fff"  data-icon="fa-task"></div>
-                    <h4>Repeate Learners</h4>                      
-                  </div>
-                </div>
-                <!-- START SINGLE SKILL-->
-                <div class="col-lg-3 col-md-3 col-sm-3">
-                  <div class="single_skill wow fadeInUp">
-                    <div id="myStathalf2" data-dimension="150" data-text="90%" data-info="" data-width="10" data-fontsize="25" data-percent="90" data-fgcolor="#999" data-bgcolor="#fff"  data-icon="fa-task"></div>
-                    <h4>Success Rate</h4>
-                  </div>
-                </div>
-                <!-- START SINGLE SKILL-->
-                <div class="col-lg-3 col-md-3 col-sm-3">                 
-                  <div class="single_skill wow fadeInUp">
-                    <div id="myStat2" data-dimension="150" data-text="100%" data-info="" data-width="10" data-fontsize="25" data-percent="100" data-fgcolor="#999" data-bgcolor="#fff"  data-icon="fa-task"></div>
-                    <h4>Student Engagement</h4>
-                  </div>
-                </div>
-                <!-- START SINGLE SKILL-->
-                <div class="col-lg-3 col-md-3 col-sm-3">                 
-                  <div class="single_skill wow fadeInUp">
-                    <div id="myStat3" data-dimension="150" data-text="65%" data-info="" data-width="10" data-fontsize="25" data-percent="65" data-fgcolor="#999" data-bgcolor="#fff"  data-icon="fa-task"></div>
-                    <h4>Certified Courses</h4>
-                  </div>
-                </div>
-              </div>
-            </div>            
-          </div>
-        </div>        
-      </div>
-      <!-- End why us bottom -->
     </section>
     <!--=========== END WHY US SECTION ================-->
-
-    <!--=========== BEGIN OUR COURSES SECTION ================-->
-    <section id="ourCourses">
-      <div class="container">
-       <!-- Our courses titile -->
-        <div class="row">
-          <div class="col-lg-12 col-md-12"> 
-            <div class="title_area">
-              <h2 class="title_two">Our Courses</h2>
-              <span></span> 
-            </div>
-          </div>
-        </div>
-        <!-- End Our courses titile -->
-        <!-- Start Our courses content -->
-        <!-- TODO AUTO GENERATE LIST -->
-        <div class="row">
-          <div class="col-lg-12 col-md-12 col-sm-12">
-            <div class="ourCourse_content">
-              <ul class="course_nav">
-                <li>
-                  <div class="single_course">
-                    <div class="singCourse_imgarea">
-                      <img src="img/courses/books-education-school-literature-48126.jpeg" />
-                      <div class="mask">                         
-                        <a href="#" class="course_more">View Course</a>
-                      </div>
-                    </div>
-                    <div class="singCourse_content">
-                    <h3 class="singCourse_title"><a href="#">English</a></h3>
-                    <!--<p class="singCourse_price"><span>$20</span> Per One Month</p>-->
-                    <!--<p>when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>-->
-                    </div>
-                    <!--<div class="singCourse_author">
-                      <img src="img/temporary.png" alt="img">
-                      <p>Richard Remus, Teacher</p>
-                    </div>-->
-                  </div>
-                </li>
-                <li>
-                  <div class="single_course">
-                    <div class="singCourse_imgarea">
-                      <img src="img/courses/calculator-scientific.jpg" />
-                      <div class="mask">                         
-                        <a href="#" class="course_more">View Course</a>
-                      </div>
-                    </div>
-                    <div class="singCourse_content">
-                    <h3 class="singCourse_title"><a href="#">Mathematics</a></h3>
-                    <!--<p class="singCourse_price"><span>$20</span> Per One Month</p>
-                    <p>when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>-->
-                    </div>
-                    <!--<div class="singCourse_author">
-                      <img src="img/temporary.png" alt="img">
-                      <p>Richard Remus, Teacher</p>
-                    </div>-->
-                  </div>
-                </li> 
-                <li>
-                  <div class="single_course">
-                    <div class="singCourse_imgarea">
-                      <img src="img/courses/pexels-photo.jpg" />
-                      <div class="mask">                         
-                        <a href="#" class="course_more">View Course</a>
-                      </div>
-                    </div>
-                    <div class="singCourse_content">
-                    <h3 class="singCourse_title"><a href="#">Biology</a></h3>
-                    <!--<p class="singCourse_price"><span>$20</span> Per One Month</p>
-                    <p>when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>-->
-                    </div>
-                    <!--<div class="singCourse_author">
-                      <img src="img/temporary.png" alt="img">
-                      <p>Richard Remus, Teacher</p>
-                    </div>-->
-                  </div>
-                </li>  
-                <li>
-                  <div class="single_course">
-                    <div class="singCourse_imgarea">
-                      <img src="img/courses/renaissance-schallaburg-figures-facade.jpg" />
-                      <div class="mask">                         
-                        <a href="#" class="course_more">View Course</a>
-                      </div>
-                    </div>
-                    <div class="singCourse_content">
-                    <h3 class="singCourse_title"><a href="#">History</a></h3>
-                    <!--<p class="singCourse_price"><span>$20</span> Per One Month</p>
-                    <p>when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>-->
-                    </div>
-                    <!--<div class="singCourse_author">
-                      <img src="img/temporary.png" alt="img">
-                      <p>Richard Remus, Teacher</p>
-                    </div>-->
-                  </div>
-                </li>
-                <!--<li>
-                  <div class="single_course">
-                    <div class="singCourse_imgarea">
-                      <img src="img/course-1.jpg" />
-                      <div class="mask">                         
-                        <a href="#" class="course_more">View Course</a>
-                      </div>
-                    </div>
-                    <div class="singCourse_content">
-                    <h3 class="singCourse_title"><a href="#">Introduction To Matrix</a></h3>
-                    <p class="singCourse_price"><span>$20</span> Per One Month</p>
-                    <p>when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
-                    </div>
-                    <div class="singCourse_author">
-                      <img src="img/temporary.png" alt="img">
-                      <p>Richard Remus, Teacher</p>
-                    </div>
-                  </div>
-                </li> 
-                <li>
-                  <div class="single_course">
-                    <div class="singCourse_imgarea">
-                      <img src="img/course-2.jpg" />
-                      <div class="mask">                         
-                        <a href="#" class="course_more">View Course</a>
-                      </div>
-                    </div>
-                    <div class="singCourse_content">
-                    <h3 class="singCourse_title"><a href="#">Introduction To Matrix</a></h3>
-                    <p class="singCourse_price"><span>$20</span> Per One Month</p>
-                    <p>when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
-                    </div>
-                    <div class="singCourse_author">
-                      <img src="img/temporary.png" alt="img">
-                      <p>Richard Remus, Teacher</p>
-                    </div>
-                  </div>
-                </li>                -->
-              </ul>
-            </div>
-          </div>
-        </div>
-        <!-- End Our courses content -->
-      </div>
-    </section>
-    <!--=========== END OUR COURSES SECTION ================-->  
 
     <!--=========== BEGIN OUR TUTORS SECTION ================-->
     <section id="ourTutors">
       <div class="container">
-       <!-- Our courses titile -->
+       <!-- Our courses title -->
         <div class="row">
           <div class="col-lg-12 col-md-12"> 
             <div class="title_area">
@@ -539,7 +410,7 @@
             </div>
           </div>
         </div>
-        <!-- End Our courses titile -->
+        <!-- End Our courses title -->
 
         <!-- Start Our courses content -->
         <div class="row">
@@ -679,16 +550,16 @@
     <!--=========== BEGIN STUDENTS TESTIMONIAL SECTION ================-->
     <section id="studentsTestimonial">
       <div class="container">
-       <!-- Our courses titile -->
+       <!-- Our courses title -->
         <div class="row">
           <div class="col-lg-12 col-md-12"> 
             <div class="title_area">
-              <h2 class="title_two">What our Student says</h2>
+              <h2 class="title_two">Featured Tutors</h2>
               <span></span> 
             </div>
           </div>
         </div>
-        <!-- End Our courses titile -->
+        <!-- End Our courses title -->
 
         <!-- Start Our courses content -->
         <div class="row">
