@@ -101,13 +101,13 @@ img{
 /*scrol to top*/
 
 .scrollToTop {
-  background: url("img/bootom-top-arrow.png") no-repeat scroll 13px 12px #ffffff;
+  background: url("img/bottom-top-arrow.png") no-repeat scroll 13px 12px #ffffff;
   border: 3px solid #f0f1f3;
   border-radius: 5px;
   bottom: 20px;
   display: inline-block;
   height: 54px;
-  opacity: 0;
+  opacity: 0.2;
   position: fixed;
   right: 20px;
   text-align: center;
@@ -122,6 +122,7 @@ img{
   background-position: 13px -50px;  
   text-decoration: none;
   outline: none;
+  opacity: 0.8;
 }
 
 /*--------------------*/
@@ -983,9 +984,11 @@ div[data-dimension] {
 /*--------------------*/
 
 #imgBanner {
-  background-image: url("img/banner.png"); /* BANNER IMAGE */
+  background-image: url("img/banner.jpeg"); 
   background-repeat: no-repeat;
-  background-size: 100% 100%;
+  /*background-size: 100% 100%;*/
+  background-size: cover;
+  background-position: center;
   display: inline;
   float: left;
   height: 300px;
@@ -993,6 +996,10 @@ div[data-dimension] {
   padding: 118px 0;
   text-align: center;
   width: 100%;
+}
+.tutors-banner {
+  /* Create one of these for each page */
+  background-image: url("img/bench-people-smartphone-sun.jpg") !important;
 }
 #imgBanner h2 {
   color: #fff;
@@ -1513,6 +1520,88 @@ div[data-dimension] {
 }
 
 /*--------------------*/
+/* TUTORS */
+/*--------------------*/
+
+#tutors {
+  display: inline;
+  float: left;
+  padding: 60px 0;
+  width: 100%;
+}
+.tutors_area{
+  float: left;
+  display: inline;
+  width: 100%;
+}
+.tutors_area div {
+  display: inline-block;
+  height: 239px;
+  margin: 0 9px 2px;
+  width: 23%;
+  position: relative;
+  overflow: hidden;
+  -webkit-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+}
+.tutors_area a {  
+  display: inline-block;
+  height: 200px;
+  /*margin: 0 9px 18px;*/
+  /*width: 23%;*/
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+  -webkit-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;  
+}
+.tutors_area a>img{
+  width: 100%;
+  height: 100%;  
+  -webkit-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;
+}
+.tutors_area a:hover .tutors_img{
+  transform: scale(2.2);
+}
+.subject_view {
+  display: none;
+  left: -100%;
+  -webkit-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;  
+}
+.tutors_area a:hover .subject_view{
+  display: block;
+  background-color: rgba(0, 0, 0, 0.9);
+  color: #fff;
+  font-size: 18px;
+  font-weight: bold;
+  height: 100%;
+  left:0;
+  padding-top: 25%;
+  /*vertical-align: middle;*/
+  position: absolute;
+  text-align: center;
+  text-transform: uppercase;
+  top: 0;
+  width: 100%;
+  -webkit-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;
+}
+.tos-caption-0{ 
+  font-family: 'Varela', sans-serif;
+  font-size: 22px;
+}
+.tutors_area h4 {
+  text-align: center;
+}
+
+/*--------------------*/
 /* CONTACT */
 /*--------------------*/
 
@@ -1845,3 +1934,7 @@ div[data-dimension] {
 
 	
 }
+/*
+.single-tutor {
+  display: inline;
+}*/

@@ -32,21 +32,34 @@
           <ul id='top-menu' class='nav navbar-nav navbar-right main-nav'>
             <!--<li class='active'><a href='index.php'>Home</a></li>-->
             <!--<li><a href=<?php echo "'" . $root . "index.php'"; ?>>Home</a></li>-->
+
             <li>
-                <a href=<?php echo "'" . $root . "courses/course-archive.php'"; ?>>Courses</a>
+                <a href=<?php echo "'" . $root . "aboutUs'"; ?>>About Us</a>
+            </li>
+
+            <li class='dropdown'>
+            <!-- LINK ON LOCATIONS - Disabled is not mobile friendly TODO -->
+              <a href=<?php echo "'" . $root . "apply'"; ?> class='dropdown-toggle disabled' data-toggle='dropdown' role='button' aria-expanded='false'>Apply<span class='caret'></span></a>
+              <ul class='dropdown-menu' role='menu'>
+                <li><a href=<?php echo "'" . $root . "apply/families.php'"; ?> >Families</a></li>
+                <li><a href=<?php echo "'" . $root . "apply/tutors.php'"; ?> >Tutors</a></li>
+                <li><a href=<?php echo "'" . $root . "apply/staff.php'"; ?> >Staff</a></li>               
+              </ul>
             </li>
 
             <li>
+                <a href=<?php echo "'" . $root . "tutors'"; ?>>Meet our Tutors</a>
+            </li>
+
+            <!--<li>
               <a href=<?php echo "'" . $root . "scholarship'"; ?>'scholarship'>Scholarship</a>
-            </li>
+            </li>-->
 
-            <li>
+            <!--<li>
               <a href=<?php echo "'" . $root . "events/events-archive.php'"; ?>>Events</a>
-            </li>
+            </li>-->
 
-            <li>
-              <a href=<?php echo "'" . $root . "blog/blog-archive.php'"; ?>>Blog</a>
-            </li>
+            
 
             <li class='dropdown'>
             <!-- LINK ON LOCATIONS - Disabled is not mobile friendly TODO -->
@@ -58,6 +71,10 @@
               </ul>
             </li>
 
+            <li>
+              <a href=<?php echo "'" . $root . "blog/blog-archive.php'"; ?>>Blog</a>
+            </li>
+            
             <!--<li class='dropdown'>
               <a href='#' class='dropdown-toggle' data-toggle='dropdown' role='button' aria-expanded='false'>Page<span class='caret'></span></a>
               <ul class='dropdown-menu' role='menu'>
@@ -67,9 +84,9 @@
               </ul>
             </li>-->
 
-            <li>
+            <!--<li>
               <a href=<?php echo "'" . $root . "donate'"; ?>>Donate</a>
-            </li>
+            </li>-->
 
             <li>
               <a href=<?php echo "'" . $root . "contact'"; ?>>Contact</a>

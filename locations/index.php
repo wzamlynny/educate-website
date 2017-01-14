@@ -27,7 +27,6 @@
 
     <!--=========== BEGIN BANNER SECTION ================-->
     <section id="imgBanner">
-      <img class = "banner_image" src="../img/coffee-cup-mug-desk.jpg">
       <h2>Locations</h2>
     </section>
     <!--=========== END BANNER SECTION ================-->
