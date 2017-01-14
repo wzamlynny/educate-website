@@ -4,6 +4,9 @@
 #slides .slides-container {
   display: none;
 }
+#slides .slides-image {
+  /*height: 60%;*/
+}
 #slides .scrollable {
   *zoom: 1;
   position: relative;

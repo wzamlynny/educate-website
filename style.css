@@ -305,12 +305,12 @@ img{
 .aboutus_area p {
   line-height: 22px;
 }
-.titile{
+.title{
   text-transform: uppercase;
   position: relative;
   margin-bottom: 20px;
 }
-.titile:after{
+.title:after{
   content: "";
   position: absolute;
   left: 0;  
@@ -497,7 +497,7 @@ img{
   width: 100%;
   min-height: 350px;
   padding: 85px 0px;
-  background-image: url(img/skills_bg.jpg);
+  background-image: url(img/pexels-photo.jpeg);
   background-repeat: no-repeat;
   background-size: 100% 100%;
   position: relative;

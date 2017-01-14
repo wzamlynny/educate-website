@@ -2,7 +2,7 @@
     <!--=========== BEGIN OUR COURSES SECTION ================-->
     <section id="ourCourses">
       <div class="container">
-       <!-- Our courses titile -->
+       <!-- Our courses title -->
         <div class="row">
           <div class="col-lg-12 col-md-12"> 
             <div class="title_area">
@@ -11,7 +11,7 @@
             </div>
           </div>
         </div>
-        <!-- End Our courses titile -->
+        <!-- End Our courses title -->
         <!-- Start Our courses content -->
         <!-- TODO AUTO GENERATE LIST -->
         <div class="row">

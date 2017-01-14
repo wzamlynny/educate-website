@@ -29,7 +29,8 @@
     <!-- smooth animate css file -->
     <link rel="stylesheet" href=<?php echo "'" . $root . "css/animate.css'"; ?>> 
     <!-- preloader -->
-    <link rel="stylesheet" href=<?php echo "'" . $root . "css/queryLoader.css'"; ?> type="text/css" />
+    <!-- What is this? This has never existed? -->
+    <!--<link rel="stylesheet" href=<?php echo "'" . $root . "css/queryLoader.css'"; ?> type="text/css" />-->
     <!-- gallery slider css -->
     <link type="text/css" media="all" rel="stylesheet" href=<?php echo "'" . $root . "css/jquery.tosrus.all.css'"; ?> />    
     <!-- Default Theme css file -->

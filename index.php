@@ -34,29 +34,29 @@
             <div id="slides">
               <ul class="slides-container">                          
                 <li>
-                  <img src="img/slider/books-magazines-building-school.jpg" alt="img">
+                  <img class="slides-image" src="img/slider/books-magazines-building-school.jpg" alt="img">
                    <div class="slider_caption">
                     <h2>Our Mission</h2>
                     <p>Educate the Future strives to provide free, quality, educational opportunities to children of low-income families in need.</p>
-                    <!--<a class="slider_btn" href="#">Know More</a>-->
+                    <a class="slider_btn" href="#">Learn More</a>
                   </div>
                   </li>
                 <!-- Start single slider-->
                 <li>
-                  <img src="img/slider/telescope-science-discover-world.jpg" alt="img">
+                  <img class="slides-image" src="img/slider/telescope-science-discover-world.jpg" alt="img">
                    <div class="slider_caption slider_right_caption">
                     <h2>Better Education Environment</h2>
                     <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search</p>
-                    <a class="slider_btn" href="#">Know More</a>
+                    <a class="slider_btn" href="#">Learn More</a>
                   </div>
                 </li>
                 <!-- Start single slider-->
                 <li>
-                  <img src="img/slider/woman-notebook-working-girl.jpg" alt="img">
+                  <img class="slides-image" src="img/slider/woman-notebook-working-girl.jpg" alt="img">
                    <div class="slider_caption">
                     <h2>Find out you in better way</h2>
                     <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search</p>
-                    <a class="slider_btn" href="#">Know More</a>
+                    <a class="slider_btn" href="#">Learn More</a>
                   </div>
                 </li>
               </ul>
@@ -354,9 +354,18 @@
                 <div class="col-lg-3 col-md-3 col-sm-3">
                   <div class="single_whyus_top wow fadeInUp">
                     <div class="whyus_icon">
-                      <span class="fa fa-desktop"></span>
+                      <span class="fa fa-dollar"></span>
                     </div>
-                    <h3>Technology</h3>
+                    <h3>100% Free</h3>
+                    <p>when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
+                  </div>
+                </div>
+                <div class="col-lg-3 col-md-3 col-sm-3">
+                  <div class="single_whyus_top wow fadeInUp">
+                    <div class="whyus_icon">
+                      <span class="fa fa-child"></span>
+                    </div>
+                    <h3>Specialized service</h3>
                     <p>when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
                   </div>
                 </div>
@@ -365,25 +374,16 @@
                     <div class="whyus_icon">
                       <span class="fa fa-users"></span>
                     </div>
-                    <h3>Best Tutor</h3>
+                    <h3>Community Oriented</h3>
                     <p>when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
                   </div>
                 </div>
                 <div class="col-lg-3 col-md-3 col-sm-3">
                   <div class="single_whyus_top wow fadeInUp">
                     <div class="whyus_icon">
-                      <span class="fa fa-flask"></span>
+                      <span class="fa fa-graduation-cap"></span>
                     </div>
-                    <h3>Practical Training</h3>
-                    <p>when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
-                  </div>
-                </div>
-                <div class="col-lg-3 col-md-3 col-sm-3">
-                  <div class="single_whyus_top wow fadeInUp">
-                    <div class="whyus_icon">
-                      <span class="fa fa-support"></span>
-                    </div>
-                    <h3>Support</h3>
+                    <h3>Passion for Success</h3>
                     <p>when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
                   </div>
                 </div>
@@ -405,7 +405,7 @@
         <div class="row">
           <div class="col-lg-12 col-md-12"> 
             <div class="title_area">
-              <h2 class="title_two">Our Tutors</h2>
+              <h2 class="title_two">Meet the Team</h2>
               <span></span> 
             </div>
           </div>
