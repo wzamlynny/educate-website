@@ -30,168 +30,57 @@
       <h2>Locations</h2>
     </section>
     <!--=========== END BANNER SECTION ================-->
-    
-    <!--=========== BEGIN BODY SECTION ================-->
-    <section id="courseArchive">
+        <!-- unused code removed from home page, storing in case needed -->
+    <!--=========== BEGIN OUR COURSES SECTION ================-->
+    <section id="Locations">
       <div class="container">
+        <!-- Start Our courses content -->
+        <!-- TODO AUTO GENERATE LIST -->
         <div class="row">
-          <!-- start course content -->
-          <div class="col-lg-8 col-md-8 col-sm-8">
-            <div class="courseArchive_content">
-              <!-- start blog archive  -->
-              <div class="row">
-                <!-- start single blog archive -->
-                <div class="col-lg-12 col-12 col-sm-12">
-                  <div class="single_blog_archive wow fadeInUp">
-                    <div class="blogimg_container">
-                      <a href="#" class="blog_img">
-                        <img alt="img" src="../img/temporary.png">
-                      </a>
+          <div class="col-lg-12 col-md-12 col-sm-12">
+            <div class="Location_content">
+              <ul class="location_nav">
+                <li>
+                  <div class="single_location">
+                    <div class="singLocation_imgarea">
+                      <iframe class="location_map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d24201.03431832766!2d-74.24669904614339!3d40.69315011654921!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c3ad37bcec46dd%3A0x53285b0f966ec6b3!2sHillside%2C+NJ!5e0!3m2!1sen!2sus!4v1464581202757"></iframe>
                     </div>
-                    <h2 class="blog_title"><a href="events-single.php"> Curabitur ac dictum nisl eu hendrerit ante</a></h2>
-                    <div class="blog_commentbox">
-                      <p><i class="fa fa-clock-o"></i>Time: 7pm,15 March 2015</p>
-                      <p><i class="fa fa-map-marker"></i>Location: London,UK</p>                      
+                    <div class="singLocation_content">
+                    <h3 class="singLocation_title"><a href="hillside.php">Hillside, NJ</a></h3>
+                    <!--<p>when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>-->
                     </div>
-                    <p class="blog_summary">Duis erat purus, tincidunt vel ullamcorper ut, consequat tempus nibh. Proin condimentum risus ligula, dignissim mollis tortor hendrerit vel. Aliquam...</p>
-                    <a class="blog_readmore" href="events-single.php">Read More</a>
                   </div>
-                </div>
-                <!-- End single blog archive -->
-                <!-- start single blog archive -->
-                <div class="col-lg-12 col-12 col-sm-12">
-                  <div class="single_blog_archive wow fadeInUp">
-                    <div class="blogimg_container">
-                      <a href="#" class="blog_img">
-                        <img alt="img" src="../img/temporary.png">
-                      </a>
+                </li>
+                <li>
+                  <div class="single_location">
+                    <div class="singLocation_imgarea">
+                      <iframe class="location_map"src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d48424.47881289317!2d-74.23164791592359!3d40.6622913842669!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24d5fee42051d%3A0x3285591b526b03ad!2sElizabeth%2C+NJ!5e0!3m2!1sen!2sus!4v1484434917562"></iframe>
                     </div>
-                    <h2 class="blog_title"><a href="events-single.php"> Curabitur ac dictum nisl eu hendrerit ante</a></h2>
-                    <div class="blog_commentbox">
-                      <p><i class="fa fa-clock-o"></i>Time: 7pm</p>
-                      <p><i class="fa fa-map-marker"></i>Location: London,UK</p>                      
+                    <div class="singLocation_content">
+                    <h3 class="singLocation_title"><a href="elizabeth.php">Elizabeth, NJ</a></h3>
+                    <!--<p>when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>-->
                     </div>
-                    <p class="blog_summary">Duis erat purus, tincidunt vel ullamcorper ut, consequat tempus nibh. Proin condimentum risus ligula, dignissim mollis tortor hendrerit vel. Aliquam...</p>
-                    <a class="blog_readmore" href="events-single.php">Read More</a>
                   </div>
-                </div>
-                <!-- End single blog archive -->
-                <!-- start single blog archive -->
-                <div class="col-lg-12 col-12 col-sm-12">
-                  <div class="single_blog_archive wow fadeInUp">
-                    <div class="blogimg_container">
-                      <a href="#" class="blog_img">
-                        <img alt="img" src="../img/temporary.png">
-                      </a>
+                </li> 
+                <li>
+                  <div class="single_location">
+                    <div class="singLocation_imgarea">
+                      <iframe class="location_map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d24199.920277411795!2d-74.28481239189162!3d40.69621712084519!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c3ad9f6f9daa9b%3A0x570322a196f054c!2sUnion%2C+NJ!5e0!3m2!1sen!2sus!4v1484435052837"></iframe>
                     </div>
-                    <h2 class="blog_title"><a href="events-single.php"> Curabitur ac dictum nisl eu hendrerit ante</a></h2>
-                    <div class="blog_commentbox">
-                      <p><i class="fa fa-clock-o"></i>Time: 7pm</p>
-                      <p><i class="fa fa-map-marker"></i>Location: London,UK</p>                      
+                    <div class="singLocation_content">
+                    <h3 class="singLocation_title"><a href="union.php">Union, NJ</a></h3>
+                    <!--<p>when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>-->
                     </div>
-                    <p class="blog_summary">Duis erat purus, tincidunt vel ullamcorper ut, consequat tempus nibh. Proin condimentum risus ligula, dignissim mollis tortor hendrerit vel. Aliquam...</p>
-                    <a class="blog_readmore" href="events-single.php">Read More</a>
                   </div>
-                </div>
-                <!-- start single blog archive -->
-              </div>
-              <!-- end blog archive  -->
-              <!-- start previous & next button -->
-              <div class="single_blog_prevnext">
-                <a href="#" class="prev_post wow fadeInLeft animated" style="visibility: visible; animation-name: fadeInLeft;"><i class="fa fa-angle-left"></i>Previous</a>
-                <a href="#" class="next_post wow fadeInRight animated" style="visibility: visible; animation-name: fadeInRight;">Next<i class="fa fa-angle-right"></i></a>
-              </div>
+                </li>
+              </ul>
             </div>
           </div>
-          <!-- End course content -->
-
-          <!-- start course archive sidebar -->
-          <div class="col-lg-4 col-md-4 col-sm-4">
-            <div class="courseArchive_sidebar">
-              <!-- start single sidebar -->
-              <div class="single_sidebar">
-                <h2>Popular Events <span class="fa fa-angle-double-right"></span></h2>
-                <ul class="news_tab">
-                  <li>
-                    <div class="media">
-                      <div class="media-left">
-                        <a href="#" class="news_img">
-                          <img alt="img" src="../img/temporary.png" class="media-object">
-                        </a>
-                      </div>
-                      <div class="media-body">
-                       <a href="#">Dummy text of the printing and typesetting industry</a>
-                       <span class="feed_date">27.02.15</span>
-                      </div>
-                    </div>
-                  </li>
-                  <li>
-                    <div class="media">
-                      <div class="media-left">
-                        <a href="#" class="news_img">
-                          <img alt="img" src="../img/temporary.png" class="media-object">
-                        </a>
-                      </div>
-                      <div class="media-body">
-                       <a href="#">Dummy text of the printing and typesetting industry</a>
-                       <span class="feed_date">28.02.15</span>                
-                      </div>
-                    </div>
-                  </li>
-                  <li>
-                    <div class="media">
-                      <div class="media-left">
-                        <a href="#" class="news_img">
-                          <img alt="img" src="../img/temporary.png" class="media-object">
-                        </a>
-                      </div>
-                      <div class="media-body">
-                       <a href="#">Dummy text of the printing and typesetting industry</a>
-                       <span class="feed_date">28.02.15</span>                
-                      </div>
-                    </div>
-                  </li>                  
-                </ul>
-              </div>
-              <!-- End single sidebar -->
-              <!-- start single sidebar -->
-              <div class="single_sidebar">
-                <h2>Category <span class="fa fa-angle-double-right"></span></h2>
-                <ul>
-                  <li><a href="#">Food</a></li>
-                  <li><a href="#">Technology</a></li>
-                  <li><a href="#">Fashion</a></li>
-                  <li><a href="#">Business</a></li>
-                  <li><a href="#">Games</a></li>
-                </ul>
-              </div>
-              <!-- End single sidebar -->
-              <!-- start single sidebar -->
-              <div class="single_sidebar">
-                <h2>Tags <span class="fa fa-angle-double-right"></span></h2>
-                <ul class="tags_nav">
-                  <li><a href="#"><i class="fa fa-tags"></i>Creative</a></li>
-                  <li><a href="#"><i class="fa fa-tags"></i>News</a></li>
-                  <li><a href="#"><i class="fa fa-tags"></i>Technology</a></li>
-                  <li><a href="#"><i class="fa fa-tags"></i>Art</a></li>
-                  <li><a href="#"><i class="fa fa-tags"></i>Audio</a></li>
-                  <li><a href="#"><i class="fa fa-tags"></i>video</a></li>
-                </ul>
-              </div>
-              <!-- End single sidebar -->
-              <!-- start single sidebar -->
-              <div class="single_sidebar">
-                <h2>Sponsor Add <span class="fa fa-angle-double-right"></span></h2>
-                <a class="side_add" href="#"><img src="../img/temporary.png" alt="img"></a>
-              </div>
-              <!-- End single sidebar -->
-            </div>
-          </div>
-          <!-- start course archive sidebar -->
         </div>
+        <!-- End Our courses content -->
       </div>
     </section>
-    <!--=========== END BODY SECTION ================-->
+    <!--=========== END OUR COURSES SECTION ================-->
     
     <!--=========== BEGIN FOOTER SECTION ================-->
     <?php include('../common/footer.php'); ?>

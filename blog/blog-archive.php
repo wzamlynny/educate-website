@@ -119,7 +119,7 @@
             <div class="courseArchive_sidebar">
               <!-- start single sidebar -->
               <div class="single_sidebar">
-                <h2>Popular post <span class="fa fa-angle-double-right"></span></h2>
+                <h2>Featured Posts <span class="fa fa-angle-double-right"></span></h2>
                 <ul class="news_tab">
                   <li>
                     <div class="media">
@@ -184,15 +184,15 @@
                   <li><a href="#"><i class="fa fa-tags"></i>Technology</a></li>
                   <li><a href="#"><i class="fa fa-tags"></i>Art</a></li>
                   <li><a href="#"><i class="fa fa-tags"></i>Audio</a></li>
-                  <li><a href="#"><i class="fa fa-tags"></i>video</a></li>
+                  <li><a href="#"><i class="fa fa-tags"></i>Video</a></li>
                 </ul>
               </div>
               <!-- End single sidebar -->
               <!-- start single sidebar -->
-              <div class="single_sidebar">
+              <!--<div class="single_sidebar">
                 <h2>Sponsor Add <span class="fa fa-angle-double-right"></span></h2>
                 <a class="side_add" href="#"><img src="../img/temporary.png" alt="img"></a>
-              </div>
+              </div>-->
               <!-- End single sidebar -->
             </div>
           </div>

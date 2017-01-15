@@ -200,10 +200,10 @@
               </div>
               <!-- End single sidebar -->
               <!-- start single sidebar -->
-              <div class="single_sidebar">
+              <!--<div class="single_sidebar">
                 <h2>Sponsor Add <span class="fa fa-angle-double-right"></span></h2>
                 <a class="side_add" href="#"><img src="../img/temporary.png" alt="img"></a>
-              </div>
+              </div>-->
               <!-- End single sidebar -->
             </div>
           </div>

@@ -1,9 +1,7 @@
 <?php 
     if(!isset($root)) {
       // Root was not set in file that this was imported to, assume already at root
-      //$root = dirname(dirname(__FILE__)) . '/' ;
       $root = "";
-      //echo "<p>" . $root . "</p>";
     }
 ?>
 <header id='header'>
@@ -30,8 +28,6 @@
         </div>
         <div id='navbar' class='navbar-collapse collapse'>
           <ul id='top-menu' class='nav navbar-nav navbar-right main-nav'>
-            <!--<li class='active'><a href='index.php'>Home</a></li>-->
-            <!--<li><a href=<?php echo "'" . $root . "index.php'"; ?>>Home</a></li>-->
 
             <li>
                 <a href=<?php echo "'" . $root . "aboutUs'"; ?>>About Us</a>
@@ -49,17 +45,7 @@
 
             <li>
                 <a href=<?php echo "'" . $root . "tutors'"; ?>>Meet our Tutors</a>
-            </li>
-
-            <!--<li>
-              <a href=<?php echo "'" . $root . "scholarship'"; ?>'scholarship'>Scholarship</a>
-            </li>-->
-
-            <!--<li>
-              <a href=<?php echo "'" . $root . "events/events-archive.php'"; ?>>Events</a>
-            </li>-->
-
-            
+            </li>            
 
             <li class='dropdown'>
             <!-- LINK ON LOCATIONS - Disabled is not mobile friendly TODO -->
@@ -74,15 +60,6 @@
             <li>
               <a href=<?php echo "'" . $root . "blog/blog-archive.php'"; ?>>Blog</a>
             </li>
-            
-            <!--<li class='dropdown'>
-              <a href='#' class='dropdown-toggle' data-toggle='dropdown' role='button' aria-expanded='false'>Page<span class='caret'></span></a>
-              <ul class='dropdown-menu' role='menu'>
-                <li><a href=<?php echo "'" . $root . "404.php'"; ?>>404 Page</a></li>
-                <li><a href='#'>Link Two</a></li>
-                <li><a href='#'>Link Three</a></li>               
-              </ul>
-            </li>-->
 
             <!--<li>
               <a href=<?php echo "'" . $root . "donate'"; ?>>Donate</a>

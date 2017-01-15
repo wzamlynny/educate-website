@@ -19,10 +19,9 @@
             <div class="single_footer_widget">
             <h3>Community</h3>
             <ul class="footer_widget_nav">
-                <li><a href="#">Our Tutors</a></li>
-                <li><a href="#">Our Students</a></li>
                 <li><a href="#">Our Team</a></li>
-                <li><a href="#">Forum</a></li>
+                <li><a href=<?php echo "'" . $root . "tutors'"; ?>>Our Tutors</a></li>
+                <li><a href=<?php echo "'" . $root . "blog/blog-archive.php'"; ?>>Blog</a></li>
                 <li><a href="#">News &amp; Media</a></li>
             </ul>
             </div>
@@ -31,11 +30,10 @@
             <div class="single_footer_widget">
             <h3>Others</h3>
             <ul class="footer_widget_nav">
-                <li><a href="#">Link 1</a></li>
-                <li><a href="#">Link 2</a></li>
-                <li><a href="#">Link 3</a></li>
-                <li><a href="#">Link 4</a></li>
-                <li><a href="#">Link 5</a></li>
+                <li><a href=<?php echo "'" . $root . "apply/families.php'"; ?>>Family Application</a></li>
+                <li><a href=<?php echo "'" . $root . "apply/tutors.php'"; ?>>Tutor Application</a></li>
+                <li><a href="#">Calendar</a></li>
+                <li><a href=<?php echo "'" . $root . "contact'"; ?>>Contact Us</a></li>
             </ul>
             </div>
         </div>

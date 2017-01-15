@@ -1,5 +1,6 @@
 #slides {
   position: relative;
+  height: 65vh !important;
 }
 #slides .slides-container {
   display: none;

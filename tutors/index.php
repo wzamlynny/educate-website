@@ -37,7 +37,7 @@
         <div class="row">
           <div class="col-lg-12 col-md-12 col-sm-12">
             <div id="tutorsSLide" class="tutors_area">
-              <h2> Hillside </h2>
+              <h2> Hillside, NJ </h2>
                 <div class="single-tutor">
                   <a href="../img/gallery/img-large1.jpg" title="This is Title">
                     <img class="tutors_img" src="../img/gallery/img-small1.jpg" alt="img" />
@@ -68,7 +68,7 @@
                   </a>
                   <h4> FirstName LastName </h4>
                 </div>
-                <h2> Elizabeth </h2>
+                <h2> Elizabeth, NJ </h2>
                 <div class="single-tutor">
                   <a href="../img/gallery/img-large1.jpg" title="This is Title5">
                     <img class="tutors_img" src="../img/gallery/img-small1.jpg" alt="img" />
@@ -97,6 +97,7 @@
                   </a>
                   <h4> FirstName LastName </h4>
                 </div>
+                <h2> Union, NJ </h2>
                 <div>
                   <a href="../img/gallery/img-large1.jpg" title="This is Title5">
                     <img class="tutors_img" src="../img/gallery/img-small1.jpg" alt="img" />

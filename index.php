@@ -36,6 +36,7 @@
                 <li>
                   <img class="slides-image" src="img/slider/books-magazines-building-school.jpg" alt="img">
                    <div class="slider_caption">
+                    <!--<img src="img/educate_logo.png"> </img>-->
                     <h2>Our Mission</h2>
                     <p>Educate the Future strives to provide free, quality, educational opportunities to children of low-income families in need.</p>
                     <a class="slider_btn" href="#">Learn More</a>
@@ -85,190 +86,19 @@
         <div class="col-lg-6 col-md-6 col-sm-6">
           <div class="newsfeed_area wow fadeInRight">
             <ul class="nav nav-tabs feed_tabs" id="myTab2">
-              <li class="active"><a href="#news" data-toggle="tab">News</a></li>
-              <li><a href="#notice" data-toggle="tab">Notice</a></li>
+              <li class="active"><a href="#notice" data-toggle="tab">Notice</a></li>
+              <li><a href="#news" data-toggle="tab">News</a></li>
               <li><a href="#events" data-toggle="tab">Events</a></li>         
             </ul>
 
             <!-- Tab panes -->
             <div class="tab-content">
               <!-- Start news tab content -->
-              <div class="tab-pane fade in active" id="news">                
-                <ul class="news_tab">
-                  <li>
-                    <div class="media">
-                      <div class="media-left">
-                        <a class="news_img" href="#">
-                          <img class="media-object" src="img/temporary.png" alt="img">
-                        </a>
-                      </div>
-                      <div class="media-body">
-                       <a href="#">Dummy text of the printing and typesetting industry</a>
-                       <span class="feed_date">27.02.15</span>
-                      </div>
-                    </div>                    
-                  </li>
-                  <li>
-                    <div class="media">
-                      <div class="media-left">
-                        <a class="news_img" href="#">
-                          <img class="media-object" src="img/temporary.png" alt="img">
-                        </a>
-                      </div>
-                      <div class="media-body">
-                       <a href="#">Dummy text of the printing and typesetting industry</a>
-                       <span class="feed_date">28.02.15</span>
-                      </div>
-                    </div>
-                  </li>
-                  <li>
-                    <div class="media">
-                      <div class="media-left">
-                        <a class="news_img" href="#">
-                          <img class="media-object" src="img/temporary.png" alt="img">
-                        </a>
-                      </div>
-                      <div class="media-body">
-                       <a href="#">Dummy text of the printing and typesetting industry</a>
-                       <span class="feed_date">28.02.15</span>
-                      </div>
-                    </div>
-                  </li>
-                </ul>                
-                <a class="see_all" href="#">See All</a>
-              </div>
+              <?php include('common/news-tab-content.php'); ?>
               <!-- Start notice tab content -->  
-              <div class="tab-pane fade " id="notice">
-                <div class="single_notice_pane">
-                  <ul class="news_tab">
-                    <li>
-                      <div class="media">
-                        <div class="media-left">
-                          <a class="news_img" href="#">
-                            <img class="media-object" src="img/temporary.png" alt="img">
-                          </a>
-                        </div>
-                        <div class="media-body">
-                         <a href="#">Dummy text of the printing and typesetting industry</a>
-                         <span class="feed_date">27.02.15</span>
-                        </div>
-                      </div>                   
-                    </li>
-                    <li>
-                      <div class="media">
-                        <div class="media-left">
-                          <a class="news_img" href="#">
-                            <img class="media-object" src="img/temporary.png" alt="img">
-                          </a>
-                        </div>
-                        <div class="media-body">
-                         <a href="#">Dummy text of the printing and typesetting industry</a>
-                         <span class="feed_date">28.02.15</span>             
-                        </div>
-                      </div>
-                    </li>
-                    <li>
-                      <div class="media">
-                        <div class="media-left">
-                          <a class="news_img" href="#">
-                            <img class="media-object" src="img/temporary.png" alt="img">
-                          </a>
-                        </div>
-                        <div class="media-body">
-                         <a href="#">Dummy text of the printing and typesetting industry</a>
-                         <span class="feed_date">28.02.15</span>             
-                        </div>
-                      </div>
-                    </li>                                    
-                  </ul>
-                  <ul class="news_tab">
-                    <li>
-                      <div class="media">
-                        <div class="media-left">
-                          <a class="news_img" href="#">
-                            <img class="media-object" src="img/temporary.png" alt="img">
-                          </a>
-                        </div>
-                        <div class="media-body">
-                         <a href="#">Contrary to popular belief, Lorem Ipsum is not simply random text</a>
-                         <span class="feed_date">27.02.15</span>
-                        </div>
-                      </div>
-                    </li>
-                    <li>
-                      <div class="media">
-                        <div class="media-left">
-                          <a class="news_img" href="#">
-                            <img class="media-object" src="img/temporary.png" alt="img">
-                          </a>
-                        </div>
-                        <div class="media-body">
-                         <a href="#">Dummy text of the printing and typesetting industry</a>
-                         <span class="feed_date">28.02.15</span>          
-                        </div>
-                      </div>
-                    </li>
-                    <li>
-                      <div class="media">
-                        <div class="media-left">
-                          <a class="news_img" href="#">
-                            <img class="media-object" src="img/temporary.png" alt="img">
-                          </a>
-                        </div>
-                        <div class="media-body">
-                         <a href="#">Contrary to popular belief, Lorem Ipsum is not simply random text</a>
-                         <span class="feed_date">28.02.15</span>
-                        </div>
-                      </div>
-                    </li>                                    
-                  </ul>
-                </div>               
-              </div>
+              <?php include('common/notice-tab-content.php'); ?>
               <!-- Start events tab content -->
-              <div class="tab-pane fade " id="events">
-                <ul class="news_tab">
-                  <li>
-                    <div class="media">
-                      <div class="media-left">
-                        <a class="news_img" href="#">
-                          <img class="media-object" src="img/temporary.png" alt="img">
-                        </a>
-                      </div>
-                      <div class="media-body">
-                       <a href="#">Dummy text of the printing and typesetting industry</a>
-                       <span class="feed_date">27.02.15</span>
-                      </div>
-                    </div>
-                  </li>
-                  <li>
-                    <div class="media">
-                      <div class="media-left">
-                        <a class="news_img" href="#">
-                          <img class="media-object" src="img/temporary.png" alt="img">
-                        </a>
-                      </div>
-                      <div class="media-body">
-                       <a href="#">Dummy text of the printing and typesetting industry</a>
-                       <span class="feed_date">28.02.15</span>                
-                      </div>
-                    </div>
-                  </li>
-                  <li>
-                    <div class="media">
-                      <div class="media-left">
-                        <a class="news_img" href="#">
-                          <img class="media-object" src="img/temporary.png" alt="img">
-                        </a>
-                      </div>
-                      <div class="media-body">
-                       <a href="#">Dummy text of the printing and typesetting industry</a>
-                       <span class="feed_date">28.02.15</span>                
-                      </div>
-                    </div>
-                  </li>                  
-                </ul>
-                <a class="see_all" href="#">See All</a>
-              </div>
+              <?php include('common/events-tab-content.php'); ?>
             </div>
           </div>
         </div>
