@@ -93,12 +93,20 @@
 
             <!-- Tab panes -->
             <div class="tab-content">
+              <!-- Start notice tab content -->
+              <div class="tab-pane fade in active" id="notice">
+              <!--<div class="single_notice_pane">-->
+                <?php include('common/notice-tab-content.php'); ?>
+              <!--</div>         -->
+              </div>
               <!-- Start news tab content -->
-              <?php include('common/news-tab-content.php'); ?>
-              <!-- Start notice tab content -->  
-              <?php include('common/notice-tab-content.php'); ?>
+              <div class="tab-pane fade" id="news"> 
+                <?php include('common/news-tab-content.php'); ?>
+              </div>
               <!-- Start events tab content -->
-              <?php include('common/events-tab-content.php'); ?>
+              <div class="tab-pane fade " id="events">
+                <?php include('common/events-tab-content.php'); ?>
+              </div>
             </div>
           </div>
         </div>
@@ -183,38 +191,46 @@
               <div class="row">
                 <div class="col-lg-3 col-md-3 col-sm-3">
                   <div class="single_whyus_top wow fadeInUp">
+                    <a href="aboutUs/why-us.php#free"> 
                     <div class="whyus_icon">
                       <span class="fa fa-dollar"></span>
                     </div>
+                    </a>
                     <h3>100% Free</h3>
-                    <p>when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
+                    <!--<p>when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>-->
                   </div>
                 </div>
                 <div class="col-lg-3 col-md-3 col-sm-3">
                   <div class="single_whyus_top wow fadeInUp">
+                    <a href="aboutUs/why-us.php#specialized"> 
                     <div class="whyus_icon">
                       <span class="fa fa-child"></span>
                     </div>
+                    </a>
                     <h3>Specialized service</h3>
-                    <p>when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
+                    <!--<p>when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>-->
                   </div>
                 </div>
                 <div class="col-lg-3 col-md-3 col-sm-3">
                   <div class="single_whyus_top wow fadeInUp">
+                    <a href="aboutUs/why-us.php#community"> 
                     <div class="whyus_icon">
                       <span class="fa fa-users"></span>
                     </div>
+                    </a>
                     <h3>Community Oriented</h3>
-                    <p>when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
+                    <!--<p>when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>-->
                   </div>
                 </div>
                 <div class="col-lg-3 col-md-3 col-sm-3">
                   <div class="single_whyus_top wow fadeInUp">
+                    <a href="aboutUs/why-us.php#success"> 
                     <div class="whyus_icon">
                       <span class="fa fa-graduation-cap"></span>
                     </div>
+                    </a>
                     <h3>Passion for Success</h3>
-                    <p>when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
+                    <!--<p>when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>-->
                   </div>
                 </div>
               </div>
@@ -251,123 +267,74 @@
                 <li>
                   <div class="single_tutors">
                     <div class="tutors_thumb">
-                      <img src="img/temporary.png" />                      
+                      <img src="img/team/NunoPereira.jpg" />                      
                     </div>
                     <div class="singTutors_content">
-                      <h3 class="tutors_name">Jame Burns</h3>
-                      <span>Technology Teacher</span>
-                      <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+                      <h3 class="tutors_name">Nuno<br/>Pereira</h3>
+                      <span>President</span>
                     </div>
-                    <!--<div class="singTutors_social">
-                      <ul class="tutors_socnav">
-                        <li><a class="fa fa-facebook" href="#"></a></li>
-                        <li><a class="fa fa-twitter" href="#"></a></li>
-                        <li><a class="fa fa-instagram" href="#"></a></li>
-                        <li><a class="fa fa-google-plus" href="#"></a></li>
-                      </ul>
-                    </div>-->
                   </div>
                 </li>
+
                 <li>
                   <div class="single_tutors">
                     <div class="tutors_thumb">
                       <img src="img/temporary.png" />                      
                     </div>
                     <div class="singTutors_content">
-                      <h3 class="tutors_name">Jame Burns</h3>
-                      <span>Technology Teacher</span>
-                      <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+                      <h3 class="tutors_name">Nate</br>Weiss</h3>
+                      <span>Treasurer</span>
                     </div>
-                    <!--<div class="singTutors_social">
-                      <ul class="tutors_socnav">
-                        <li><a class="fa fa-facebook" href="#"></a></li>
-                        <li><a class="fa fa-twitter" href="#"></a></li>
-                        <li><a class="fa fa-instagram" href="#"></a></li>
-                        <li><a class="fa fa-google-plus" href="#"></a></li>
-                      </ul>
-                    </div>-->
                   </div>
                 </li>
+             
                 <li>
                   <div class="single_tutors">
                     <div class="tutors_thumb">
                       <img src="img/temporary.png" />                      
                     </div>
                     <div class="singTutors_content">
-                      <h3 class="tutors_name">Jame Burns</h3>
-                      <span>Technology Teacher</span>
-                      <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+                      <h3 class="tutors_name">Yujerly</br>Cruz</h3>
+                      <span>Cheif of Staff</span>
                     </div>
-                    <!--<div class="singTutors_social">
-                      <ul class="tutors_socnav">
-                        <li><a class="fa fa-facebook" href="#"></a></li>
-                        <li><a class="fa fa-twitter" href="#"></a></li>
-                        <li><a class="fa fa-instagram" href="#"></a></li>
-                        <li><a class="fa fa-google-plus" href="#"></a></li>
-                      </ul>
-                    </div>-->
                   </div>
                 </li>
+
                 <li>
                   <div class="single_tutors">
                     <div class="tutors_thumb">
                       <img src="img/temporary.png" />                      
                     </div>
                     <div class="singTutors_content">
-                      <h3 class="tutors_name">Jame Burns</h3>
-                      <span>Technology Teacher</span>
-                      <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+                      <h3 class="tutors_name">Devlin</br>Ly</h3>
+                      <span>Director of Outreach and Public Affairs</span>
                     </div>
-                    <!--<div class="singTutors_social">
-                      <ul class="tutors_socnav">
-                        <li><a class="fa fa-facebook" href="#"></a></li>
-                        <li><a class="fa fa-twitter" href="#"></a></li>
-                        <li><a class="fa fa-instagram" href="#"></a></li>
-                        <li><a class="fa fa-google-plus" href="#"></a></li>
-                      </ul>
-                    </div>-->
                   </div>
                 </li>
+
+                <li>
+                  <div class="single_tutors">
+                    <div class="tutors_thumb">
+                      <img src="img/team/WeronikaZamlynny.jpg" />                      
+                    </div>
+                    <div class="singTutors_content">
+                      <h3 class="tutors_name">Weronika</br>Zamlynny</h3>
+                      <span>Web Developer</span>
+                    </div>
+                  </div>
+                </li>
+
                 <li>
                   <div class="single_tutors">
                     <div class="tutors_thumb">
                       <img src="img/temporary.png" />                      
                     </div>
                     <div class="singTutors_content">
-                      <h3 class="tutors_name">Jame Burns</h3>
-                      <span>Technology Teacher</span>
-                      <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
-                    </div>
-                    <!--<div class="singTutors_social">
-                      <ul class="tutors_socnav">
-                        <li><a class="fa fa-facebook" href="#"></a></li>
-                        <li><a class="fa fa-twitter" href="#"></a></li>
-                        <li><a class="fa fa-instagram" href="#"></a></li>
-                        <li><a class="fa fa-google-plus" href="#"></a></li>
-                      </ul>
-                    </div>-->
-                  </div>
-                </li>
-                <li>
-                  <div class="single_tutors">
-                    <div class="tutors_thumb">
-                      <img src="img/temporary.png" />                      
-                    </div>
-                    <div class="singTutors_content">
-                      <h3 class="tutors_name">Jame Burns</h3>
-                      <span>Technology Teacher</span>
-                      <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
-                    </div>
-                    <!--<div class="singTutors_social">
-                      <ul class="tutors_socnav">
-                        <li><a class="fa fa-facebook" href="#"></a></li>
-                        <li><a class="fa fa-twitter" href="#"></a></li>
-                        <li><a class="fa fa-instagram" href="#"></a></li>
-                        <li><a class="fa fa-google-plus" href="#"></a></li>
-                      </ul>-->
+                      <h3 class="tutors_name">Wilber</br>Perez</h3>
+                      <span>Social Media Coordinator</span>
                     </div>
                   </div>
-                </li>                                             
+                </li>                                          
               </ul>
             </div>
           </div>

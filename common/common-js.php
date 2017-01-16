@@ -10,6 +10,7 @@
 
     <!-- initialize jQuery Library -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <!--<script src=<?php echo "'" . $root . "js/jquery-3.1.1.min.js'"; ?> type="text/javascript"></script>-->
     <!-- Preloader js file -->
     <script src=<?php echo "'" . $root . "js/queryloader2.min.js'"; ?> type="text/javascript"></script>
     <!-- For smooth animatin  -->
@@ -29,3 +30,5 @@
    
     <!-- Custom js-->
     <script src=<?php echo "'" . $root . "js/custom.js'"; ?>></script>
+
+    <script src=<?php echo "'" . $root . "js/educate.js'"; ?>></script> 

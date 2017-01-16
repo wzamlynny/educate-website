@@ -144,7 +144,8 @@
               <!-- start single sidebar -->
               <div class="single_sidebar">
                 <h2>Events <span class="fa fa-angle-double-right"></span></h2>
-                <ul class="news_tab">
+                <h4 style="text-align:center"> Coming Soon </h4>
+                <!--<ul class="news_tab">
                   <li>
                     <div class="media">
                       <div class="media-left">
@@ -184,27 +185,33 @@
                       </div>
                     </div>
                   </li>                  
-                </ul>
+                </ul>-->
               </div>
               <!-- End single sidebar -->
               <!-- start single sidebar -->
               <div class="single_sidebar">
                 <h2>Quick Links <span class="fa fa-angle-double-right"></span></h2>
                 <ul>
-                  <li><a href="#">Link 1</a></li>
-                  <li><a href="#">Link 2</a></li>
+                  <li><a href="../tutors/#elizabeth">Elizabeth Tutors</a></li>
+                  <li><a href="../apply/families.php">Family Application</a></li>
                   <li><a href="#">Link 3</a></li>
                   <li><a href="#">Link 4</a></li>
                   <li><a href="#">Link 5</a></li>
                 </ul>
               </div>
               <!-- End single sidebar -->
-              <!-- start single sidebar -->
+              <!-- Start Calendar Sidebar -->
               <div class="single_sidebar">
+                <h2>Calendar <span class="fa fa-angle-double-right"></span></h2>
+                <h4 style="text-align:center"> Coming Soon </h4>
+              </div>
+              <!-- End Calendar Sidebar -->
+              <!-- start ad sidebar -->
+              <!--<div class="single_sidebar">
                 <h2>Sponsor Add <span class="fa fa-angle-double-right"></span></h2>
                 <a class="side_add" href="#"><img src="../img/temporary.png" alt="img"></a>
-              </div>
-              <!-- End single sidebar -->
+              </div>-->
+              <!-- End ad sidebar -->
             </div>
           </div>
           <!-- start course archive sidebar -->

@@ -31,13 +31,15 @@
     </section>
     <!--=========== END COURSE BANNER SECTION ================-->
     
+    <a class="app-announcement" href="../apply/tutors.php">We are currently accepting applications for tutors</a>
+
     <!--=========== BEGIN TUTORS SECTION ================-->
     <section id="tutors">
       <div class="container">
         <div class="row">
           <div class="col-lg-12 col-md-12 col-sm-12">
             <div id="tutorsSLide" class="tutors_area">
-              <h2> Hillside, NJ </h2>
+              <h2 id="hillside"> Hillside, NJ </h2>
                 <div class="single-tutor">
                   <a href="../img/gallery/img-large1.jpg" title="This is Title">
                     <img class="tutors_img" src="../img/gallery/img-small1.jpg" alt="img" />
@@ -68,7 +70,7 @@
                   </a>
                   <h4> FirstName LastName </h4>
                 </div>
-                <h2> Elizabeth, NJ </h2>
+                <h2 id="elizabeth"> Elizabeth, NJ </h2>
                 <div class="single-tutor">
                   <a href="../img/gallery/img-large1.jpg" title="This is Title5">
                     <img class="tutors_img" src="../img/gallery/img-small1.jpg" alt="img" />
@@ -97,7 +99,7 @@
                   </a>
                   <h4> FirstName LastName </h4>
                 </div>
-                <h2> Union, NJ </h2>
+                <h2 id="union"> Union, NJ </h2>
                 <div>
                   <a href="../img/gallery/img-large1.jpg" title="This is Title5">
                     <img class="tutors_img" src="../img/gallery/img-small1.jpg" alt="img" />
