@@ -43,16 +43,18 @@
                 <!-- start single blog archive -->
                 <div class="col-lg-12 col-12 col-sm-12">
                   <div class="single_blog_archive wow fadeInUp">
-                    <div class="blogimg_container">
-                      <a href="#" class="blog_img">
+                    <div class="archive_blogimg_container">
+                      <a href="#" class="archive_blog_img">
                         <img alt="img" src="../img/temporary.png">
                       </a>
                     </div>
-                    <h2 class="blog_title"><a href="blog-single.php"> Curabitur ac dictum nisl eu hendrerit ante</a></h2>
-                    <div class="blog_commentbox">
-                      <p><i class="fa fa-user"></i>Richard Remus</p>
-                      <p><i class="fa fa-calendar"></i>15 March 2015</p>
-                      <a href="#"><i class="fa fa-comments"></i>20 Comments</a>
+                    <div class="archive_bloginfo_container">
+                      <h2 class="archive_blog_title"><a href="blog-single.php"> Curabitur ac dictum nisl eu hendrerit ante</a></h2>
+                      <div class="blog_commentbox">
+                        <p><i class="fa fa-user"></i>Richard Remus</p>
+                        <p><i class="fa fa-calendar"></i>15 March 2015</p>
+                        <a href="#"><i class="fa fa-comments"></i>20 Comments</a>
+                      </div>
                     </div>
                     <p class="blog_summary">Duis erat purus, tincidunt vel ullamcorper ut, consequat tempus nibh. Proin condimentum risus ligula, dignissim mollis tortor hendrerit vel. Aliquam...</p>
                     <a class="blog_readmore" href="blog-single.php">Read More</a>
@@ -62,16 +64,18 @@
                 <!-- start single blog archive -->
                 <div class="col-lg-12 col-12 col-sm-12">
                   <div class="single_blog_archive wow fadeInUp">
-                    <div class="blogimg_container">
-                      <a href="#" class="blog_img">
+                    <div class="archive_blogimg_container">
+                      <a href="#" class="archive_blog_img">
                         <img alt="img" src="../img/temporary.png">
                       </a>
                     </div>
-                    <h2 class="blog_title"><a href="blog-single.php"> Curabitur ac dictum nisl eu hendrerit ante</a></h2>
-                    <div class="blog_commentbox">
-                      <p><i class="fa fa-user"></i>Richard Remus</p>
-                      <p><i class="fa fa-calendar"></i>15 March 2015</p>
-                      <a href="#"><i class="fa fa-comments"></i>20 Comments</a>
+                    <div class="archive_bloginfo_container">
+                      <h2 class="archive_blog_title"><a href="blog-single.php"> Curabitur ac dictum nisl eu hendrerit ante</a></h2>
+                      <div class="blog_commentbox">
+                        <p><i class="fa fa-user"></i>Richard Remus</p>
+                        <p><i class="fa fa-calendar"></i>15 March 2015</p>
+                        <a href="#"><i class="fa fa-comments"></i>20 Comments</a>
+                      </div>
                     </div>
                     <p class="blog_summary">Duis erat purus, tincidunt vel ullamcorper ut, consequat tempus nibh. Proin condimentum risus ligula, dignissim mollis tortor hendrerit vel. Aliquam...</p>
                     <a class="blog_readmore" href="blog-single.php">Read More</a>
@@ -81,16 +85,18 @@
                 <!-- start single blog archive -->
                 <div class="col-lg-12 col-12 col-sm-12">
                   <div class="single_blog_archive wow fadeInUp">
-                    <div class="blogimg_container">
-                      <a href="#" class="blog_img">
+                    <div class="archive_blogimg_container">
+                      <a href="#" class="archive_blog_img">
                         <img alt="img" src="../img/temporary.png">
                       </a>
                     </div>
-                    <h2 class="blog_title"><a href="../blog-single.php"> Curabitur ac dictum nisl eu hendrerit ante</a></h2>
-                    <div class="blog_commentbox">
-                      <p><i class="fa fa-user"></i>Richard Remus</p>
-                      <p><i class="fa fa-calendar"></i>15 March 2015</p>
-                      <a href="#"><i class="fa fa-comments"></i>20 Comments</a>
+                    <div class="archive_bloginfo_container">
+                      <h2 class="archive_blog_title"><a href="blog-single.php"> Curabitur ac dictum nisl eu hendrerit ante</a></h2>
+                      <div class="blog_commentbox">
+                        <p><i class="fa fa-user"></i>Richard Remus</p>
+                        <p><i class="fa fa-calendar"></i>15 March 2015</p>
+                        <a href="#"><i class="fa fa-comments"></i>20 Comments</a>
+                      </div>
                     </div>
                     <p class="blog_summary">Duis erat purus, tincidunt vel ullamcorper ut, consequat tempus nibh. Proin condimentum risus ligula, dignissim mollis tortor hendrerit vel. Aliquam...</p>
                     <a class="blog_readmore" href="blog-single.php">Read More</a>

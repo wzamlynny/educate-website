@@ -291,7 +291,7 @@
                 <li>
                   <div class="single_tutors">
                     <div class="tutors_thumb">
-                      <img src="img/temporary.png" />                      
+                      <img src="img/team/YujerlyCruz.jpg" />                      
                     </div>
                     <div class="singTutors_content">
                       <h3 class="tutors_name">Yujerly</br>Cruz</h3>
@@ -303,10 +303,10 @@
                 <li>
                   <div class="single_tutors">
                     <div class="tutors_thumb">
-                      <img src="img/temporary.png" />                      
+                      <img src="img/team/DevinLy.jpg" />                      
                     </div>
                     <div class="singTutors_content">
-                      <h3 class="tutors_name">Devlin</br>Ly</h3>
+                      <h3 class="tutors_name">Devin</br>Ly</h3>
                       <span>Director of Outreach and Public Affairs</span>
                     </div>
                   </div>

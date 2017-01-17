@@ -41,16 +41,8 @@
             <div class="courseArchive_content">              
              <div class="singlecourse_ferimg_area">
                <div class="singlecourse_ferimg">
-                 <img src="../img/temporary.png" alt="img">
-               </div>  
-                <div class="singlecourse_bottom">
-                  <h2>Introduction To Matrix</h2>
-                  <span class="singlecourse_author">
-                    <img alt="img" src="../img/temporary.png">
-                    Richard Remus, Teacher
-                  </span>
-                  <span class="singlecourse_price">$20</span>
-                </div>
+                  <iframe class="single_location_map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d24201.03431832766!2d-74.24669904614339!3d40.69315011654921!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c3ad37bcec46dd%3A0x53285b0f966ec6b3!2sHillside%2C+NJ!5e0!3m2!1sen!2sus!4v1464581202757"></iframe>
+               </div>
              </div>
              <div class="single_course_content">
                <h2>About The Coures</h2>
