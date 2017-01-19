@@ -39,123 +39,205 @@
         <div class="row">
           <div class="col-lg-12 col-md-12 col-sm-12">
             <div id="tutorsSLide" class="tutors_area">
+
               <h2 id="hillside"> Hillside, NJ </h2>
+
                 <div class="single-tutor">
-                  <a href="../img/gallery/img-large1.jpg" title="This is Title">
-                    <img class="tutors_img" src="../img/gallery/img-small1.jpg" alt="img" />
-                  <span class="subject_view">Math<br/>Science</span>
+                  <a href="../apply/tutors.php" title="Apply Now">
+                    <img class="tutors_img" src="../img/educate_logo.png" alt="img" />
+                  <span class="subject_view">Apply Now</span>
                   </a>
-                  <h4> Nuno Pereira </h4>
+                  <h4>Tutor Slot Open</h4>
                 </div>
-                <!--<h3>Last Name, First Name</h3>-->
-                <!-- FIGURE OUT HOW TO ADD A NAME -->
+                
                 <div class="single-tutor">
-                  <a href="../img/gallery/img-large2.jpg" title="This is Title2">
-                    <img class="tutors_img" src="../img/gallery/img-small2.jpg" alt="img" />
-                    <span class="subject_view">English</span>
+                  <a href="../apply/tutors.php" title="Apply Now">
+                    <img class="tutors_img" src="../img/educate_logo.png" alt="img" />
+                  <span class="subject_view">Apply Now</span>
                   </a>
-                  <h4> FirstName LastName </h4>
+                  <h4>Tutor Slot Open</h4>
                 </div>
+
                 <div class="single-tutor">
-                  <a href="../img/gallery/img-large3.jpg" title="This is Title3">
-                    <img class="tutors_img" src="../img/gallery/img-small3.jpg" alt="img" />
-                    <span class="subject_view">History</span>
+                  <a href="../apply/tutors.php" title="Apply Now">
+                    <img class="tutors_img" src="../img/educate_logo.png" alt="img" />
+                  <span class="subject_view">Apply Now</span>
                   </a>
-                  <h4> FirstName LastName </h4>
+                  <h4>Tutor Slot Open</h4>
                 </div>
+
                 <div class="single-tutor">
-                  <a href="../img/gallery/img-large4.jpg" title="This is Title4">
-                    <img class="tutors_img" src="../img/gallery/img-small4.jpg" alt="img" />
-                    <span class="subject_view">English<br/>History<br/>Math</span>
+                  <a href="../apply/tutors.php" title="Apply Now">
+                    <img class="tutors_img" src="../img/educate_logo.png" alt="img" />
+                  <span class="subject_view">Apply Now</span>
                   </a>
-                  <h4> FirstName LastName </h4>
+                  <h4>Tutor Slot Open</h4>
                 </div>
+
+                <div class="single-tutor">
+                  <a href="../apply/tutors.php" title="Apply Now">
+                    <img class="tutors_img" src="../img/educate_logo.png" alt="img" />
+                  <span class="subject_view">Apply Now</span>
+                  </a>
+                  <h4>Tutor Slot Open</h4>
+                </div>
+
+                <div class="single-tutor">
+                  <a href="../apply/tutors.php" title="Apply Now">
+                    <img class="tutors_img" src="../img/educate_logo.png" alt="img" />
+                  <span class="subject_view">Apply Now</span>
+                  </a>
+                  <h4>Tutor Slot Open</h4>
+                </div>
+
+                <div class="single-tutor">
+                  <a href="../apply/tutors.php" title="Apply Now">
+                    <img class="tutors_img" src="../img/educate_logo.png" alt="img" />
+                  <span class="subject_view">Apply Now</span>
+                  </a>
+                  <h4>Tutor Slot Open</h4>
+                </div>
+
+                <div class="single-tutor">
+                  <a href="../apply/tutors.php" title="Apply Now">
+                    <img class="tutors_img" src="../img/educate_logo.png" alt="img" />
+                  <span class="subject_view">Apply Now</span>
+                  </a>
+                  <h4>Tutor Slot Open</h4>
+                </div>
+
                 <h2 id="elizabeth"> Elizabeth, NJ </h2>
+
                 <div class="single-tutor">
-                  <a href="../img/gallery/img-large1.jpg" title="This is Title5">
-                    <img class="tutors_img" src="../img/gallery/img-small1.jpg" alt="img" />
-                    <span class="subject_view">View</span>
+                  <a href="../apply/tutors.php" title="Apply Now">
+                    <img class="tutors_img" src="../img/educate_logo.png" alt="img" />
+                  <span class="subject_view">Apply Now</span>
                   </a>
-                  <h4> FirstName LastName </h4>
+                  <h4>Tutor Slot Open</h4>
                 </div>
+                
                 <div class="single-tutor">
-                  <a href="../img/gallery/img-large2.jpg">
-                    <img class="tutors_img" src="../img/gallery/img-small2.jpg" alt="img" />
-                    <span class="subject_view">View</span>
+                  <a href="../apply/tutors.php" title="Apply Now">
+                    <img class="tutors_img" src="../img/educate_logo.png" alt="img" />
+                  <span class="subject_view">Apply Now</span>
                   </a>
-                  <h4> FirstName LastName </h4>
+                  <h4>Tutor Slot Open</h4>
                 </div>
+
                 <div class="single-tutor">
-                  <a href="../img/gallery/img-large3.jpg">
-                    <img class="tutors_img" src="../img/gallery/img-small3.jpg" alt="img" />
-                    <span class="subject_view">View</span>
+                  <a href="../apply/tutors.php" title="Apply Now">
+                    <img class="tutors_img" src="../img/educate_logo.png" alt="img" />
+                  <span class="subject_view">Apply Now</span>
                   </a>
-                  <h4> FirstName LastName </h4>
+                  <h4>Tutor Slot Open</h4>
                 </div>
-                <div>
-                  <a href="../img/gallery/img-large4.jpg">
-                    <img class="tutors_img" src="../img/gallery/img-small4.jpg" alt="img" />
-                    <span class="subject_view">View</span>
+
+                <div class="single-tutor">
+                  <a href="../apply/tutors.php" title="Apply Now">
+                    <img class="tutors_img" src="../img/educate_logo.png" alt="img" />
+                  <span class="subject_view">Apply Now</span>
                   </a>
-                  <h4> FirstName LastName </h4>
+                  <h4>Tutor Slot Open</h4>
                 </div>
+
+                <div class="single-tutor">
+                  <a href="../apply/tutors.php" title="Apply Now">
+                    <img class="tutors_img" src="../img/educate_logo.png" alt="img" />
+                  <span class="subject_view">Apply Now</span>
+                  </a>
+                  <h4>Tutor Slot Open</h4>
+                </div>
+
+                <div class="single-tutor">
+                  <a href="../apply/tutors.php" title="Apply Now">
+                    <img class="tutors_img" src="../img/educate_logo.png" alt="img" />
+                  <span class="subject_view">Apply Now</span>
+                  </a>
+                  <h4>Tutor Slot Open</h4>
+                </div>
+
+                <div class="single-tutor">
+                  <a href="../apply/tutors.php" title="Apply Now">
+                    <img class="tutors_img" src="../img/educate_logo.png" alt="img" />
+                  <span class="subject_view">Apply Now</span>
+                  </a>
+                  <h4>Tutor Slot Open</h4>
+                </div>
+
+                <div class="single-tutor">
+                  <a href="../apply/tutors.php" title="Apply Now">
+                    <img class="tutors_img" src="../img/educate_logo.png" alt="img" />
+                  <span class="subject_view">Apply Now</span>
+                  </a>
+                  <h4>Tutor Slot Open</h4>
+                </div>
+
                 <h2 id="union"> Union, NJ </h2>
-                <div>
-                  <a href="../img/gallery/img-large1.jpg" title="This is Title5">
-                    <img class="tutors_img" src="../img/gallery/img-small1.jpg" alt="img" />
-                    <span class="subject_view">View</span>
-                  </a>
-                  <h4> FirstName LastName </h4>
-                </div>
+
                 <div class="single-tutor">
-                  <a href="../img/gallery/img-large2.jpg">
-                    <img class="tutors_img" src="../img/gallery/img-small2.jpg" alt="img" />
-                    <span class="subject_view">View</span>
+                  <a href="../apply/tutors.php" title="Apply Now">
+                    <img class="tutors_img" src="../img/educate_logo.png" alt="img" />
+                  <span class="subject_view">Apply Now</span>
                   </a>
-                  <h4> FirstName LastName </h4>
+                  <h4>Tutor Slot Open</h4>
                 </div>
+                
                 <div class="single-tutor">
-                  <a href="../img/gallery/img-large3.jpg">
-                    <img class="tutors_img" src="../img/gallery/img-small3.jpg" alt="img" />
-                    <span class="subject_view">View</span>
+                  <a href="../apply/tutors.php" title="Apply Now">
+                    <img class="tutors_img" src="../img/educate_logo.png" alt="img" />
+                  <span class="subject_view">Apply Now</span>
                   </a>
-                  <h4> FirstName LastName </h4>
+                  <h4>Tutor Slot Open</h4>
                 </div>
-                <div>
-                  <a href="../img/gallery/img-large4.jpg">
-                    <img class="tutors_img" src="../img/gallery/img-small4.jpg" alt="img" />
-                    <span class="subject_view">View</span>
-                  </a>
-                  <h4> FirstName LastName </h4>
-                </div>
-                <div>
-                  <a href="../img/gallery/img-large1.jpg" title="This is Title5">
-                    <img class="tutors_img" src="../img/gallery/img-small1.jpg" alt="img" />
-                    <span class="subject_view">View</span>
-                  </a>
-                  <h4> FirstName LastName </h4>
-                </div>
+
                 <div class="single-tutor">
-                  <a href="../img/gallery/img-large2.jpg">
-                    <img class="tutors_img" src="../img/gallery/img-small2.jpg" alt="img" />
-                    <span class="subject_view">View</span>
+                  <a href="../apply/tutors.php" title="Apply Now">
+                    <img class="tutors_img" src="../img/educate_logo.png" alt="img" />
+                  <span class="subject_view">Apply Now</span>
                   </a>
-                  <h4> FirstName LastName </h4>
+                  <h4>Tutor Slot Open</h4>
                 </div>
+
                 <div class="single-tutor">
-                  <a href="../img/gallery/img-large3.jpg">
-                    <img class="tutors_img" src="../img/gallery/img-small3.jpg" alt="img" />
-                    <span class="subject_view">View</span>
+                  <a href="../apply/tutors.php" title="Apply Now">
+                    <img class="tutors_img" src="../img/educate_logo.png" alt="img" />
+                  <span class="subject_view">Apply Now</span>
                   </a>
-                  <h4> FirstName LastName </h4>
+                  <h4>Tutor Slot Open</h4>
                 </div>
-                <div>
-                  <a href="../img/gallery/img-large4.jpg">
-                    <img class="tutors_img" src="../img/gallery/img-small4.jpg" alt="img" />
-                    <span class="subject_view">View</span>
+
+                <div class="single-tutor">
+                  <a href="../apply/tutors.php" title="Apply Now">
+                    <img class="tutors_img" src="../img/educate_logo.png" alt="img" />
+                  <span class="subject_view">Apply Now</span>
                   </a>
-                  <h4> FirstName LastName </h4>
+                  <h4>Tutor Slot Open</h4>
                 </div>
+
+                <div class="single-tutor">
+                  <a href="../apply/tutors.php" title="Apply Now">
+                    <img class="tutors_img" src="../img/educate_logo.png" alt="img" />
+                  <span class="subject_view">Apply Now</span>
+                  </a>
+                  <h4>Tutor Slot Open</h4>
+                </div>
+
+                <div class="single-tutor">
+                  <a href="../apply/tutors.php" title="Apply Now">
+                    <img class="tutors_img" src="../img/educate_logo.png" alt="img" />
+                  <span class="subject_view">Apply Now</span>
+                  </a>
+                  <h4>Tutor Slot Open</h4>
+                </div>
+
+                <div class="single-tutor">
+                  <a href="../apply/tutors.php" title="Apply Now">
+                    <img class="tutors_img" src="../img/educate_logo.png" alt="img" />
+                  <span class="subject_view">Apply Now</span>
+                  </a>
+                  <h4>Tutor Slot Open</h4>
+                </div>
+
             </div>
           </div>
         </div>

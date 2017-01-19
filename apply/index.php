@@ -44,8 +44,8 @@
                   <div class="single_whyus_top wow fadeInUp">
                     <a href="families.php"> 
                     <div class="whyus_icon">
-                      <!--<span class="fa fa-home"></span>-->
-                      <img src="../img/pexels-photo.jpg"></img>
+                      <span class="fa fa-home"></span>
+                      <!--<img src="../img/pexels-photo.jpg"></img>-->
                     </div>
                     </a>
                     <h3>Family Application</h3>
@@ -56,8 +56,8 @@
                   <div class="single_whyus_top wow fadeInUp">
                     <a href="tutors.php"> 
                     <div class="whyus_icon">
-                      <!--<span class="fa fa-university"></span>-->
-                      <img src="../img/pexels-photo-249360.jpeg"></img>
+                      <span class="fa fa-university"></span>
+                      <!--<img src="../img/pexels-photo-249360.jpeg"></img>-->
                     </div>
                     </a>
                     <h3>Tutor Application</h3>
@@ -68,8 +68,8 @@
                   <div class="single_whyus_top wow fadeInUp">
                     <a href="staff.php"> 
                     <div class="whyus_icon">
-                      <!--<span class="fa fa-users"></span>-->
-                      <img src="../img/people-woman-coffee-meeting.jpg"> </img>
+                      <span class="fa fa-users"></span>
+                      <!--<img src="../img/people-woman-coffee-meeting.jpg"> </img>-->
                     </div>
                     </a>
                     <h3>Staff Application</h3>

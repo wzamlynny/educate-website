@@ -43,7 +43,7 @@
                 <!-- start single blog -->
                 <div class="col-lg-12 col-12 col-sm-12">
                   <div class="single_blog">
-                    
+                    <p>Educate the Future strives to provide free, high-quality, educational opportunities to low-income families.</p>
                     
                   </div>
                 </div>

@@ -29,7 +29,8 @@
             </ul>
 
         <li><a href="our-team.php">Our Team</a></li>
-        <li><a href="#">Social Media</a></li>
+        <li><a href="#">News and Media</a></li>
+        <!--<li><a href="#">Social Media</a></li>-->
     </ul>
     </div>
     <!-- start single sidebar -->

@@ -19,7 +19,7 @@
             <div class="single_footer_widget">
             <h3>Community</h3>
             <ul class="footer_widget_nav">
-                <li><a href="#">Our Team</a></li>
+                <li><a href=<?php echo "'" . $root . "aboutUs/our-team.php'"; ?>>Our Team</a></li>
                 <li><a href=<?php echo "'" . $root . "tutors'"; ?>>Our Tutors</a></li>
                 <li><a href=<?php echo "'" . $root . "blog/blog-archive.php'"; ?>>Blog</a></li>
                 <li><a href="#">News &amp; Media</a></li>
