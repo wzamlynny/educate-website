@@ -1976,6 +1976,56 @@ div[data-dimension] {
 }
 
 /*--------------------*/
+/* APPLICATION */
+/*--------------------*/
+
+#application{
+  float: left;
+  display: inline;
+  width: 100%;
+  background-color: #f6f6f6;
+  padding: 60px 0;
+}
+.application_form{
+  float: left;
+  display: inline;
+  width: 100%;
+}
+ /*.wp-form-control {
+  border: 1px solid #ffffff;
+  border-radius: 5px;
+  display: inline;
+  float: left;
+  margin-bottom: 20px;
+  padding: 10px 12px;
+  -webkit-transition: all 0.4s ease 0s;
+  -o-transition: all 0.4s ease 0s;
+  -ms-transition: all 0.4s ease 0s;
+  transition: all 0.4s ease 0s;  
+  width: 100%;  
+}
+.wpcf7-text{
+  height: 45px;
+}
+.wpcf7-email{
+  height: 45px;
+}
+.wpcf7-textarea {
+  height: 200px;
+  padding: 15px;
+}
+.wpcf7-submit {
+  background-color: #fff;
+  padding: 10px 15px;
+  border-radius: 4px;
+  text-transform: uppercase;
+   -webkit-transition: all 0.4s ease 0s;
+  -o-transition: all 0.4s ease 0s;
+  -ms-transition: all 0.4s ease 0s;
+  transition: all 0.4s ease 0s; 
+}*/
+
+/*--------------------*/
 /* 404 page */
 /*--------------------*/
 
