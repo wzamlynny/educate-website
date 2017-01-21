@@ -10,7 +10,7 @@
     ================================================== -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-     <title>Educate the Future : Apply - Families</title>
+     <title>Educate the Future : In Class Assessment</title>
 
     <?php include('../common/common-head.php'); ?>
   
@@ -27,7 +27,7 @@
 
     <!--=========== BEGIN COURSE BANNER SECTION ================-->
     <section id="imgBanner">
-      <h2>Apply - Families</h2>
+      <h2>In Class Assessment</h2>
     </section>
     <!--=========== END COURSE BANNER SECTION ================-->
     
@@ -37,9 +37,9 @@
         <div class="row">
           <div class="col-lg-12 col-md-12">
             <div class="title_area">
-              <h2 class="title_two">Family Registration</h2>
+              <h2 class="title_two">In Class Assessment</h2>
               <span></span>
-              <p>Thank you very much for contacting Educate the Future. Please take a moment to complete our Family Registration form so that we may tailor your experience to better serve your child. We look forward to working with your child and ensuring a brighter future!</p>
+              <p>Thank you for taking the time to complete the In-Class Assessment Form. Your input and expertise into the areas of difficulty for the student will provide our tutors with the needed information to refine each session. Please complete the requested information and return this form to the family requesting assistance, or to the indicated email at the bottom of the page.</p>
             </div>
           </div>
         </div>

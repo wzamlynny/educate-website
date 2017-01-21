@@ -297,6 +297,13 @@ img{
   display: block !important;
 }
 
+.slides-image-text {
+  position: initial !important;
+  height: 100% !important;
+  width: 100% !important;
+  object-fit: contain;
+}
+
 /*--------------------*/
 /* HOME ABOUT US */
 /*--------------------*/
@@ -1991,39 +1998,45 @@ div[data-dimension] {
   display: inline;
   width: 100%;
 }
- /*.wp-form-control {
-  border: 1px solid #ffffff;
-  border-radius: 5px;
+
+#application .half{
+  width: calc(50% - 10px);
+  margin: 5px;
+}
+#application .third {
+  width: calc(33% - 10px);
+  margin: 5px;
+}
+#application .two-thirds {
+  width: calc(66% - 10px);
+  margin: 5px;
+}
+#application .three-quarters {
+  width: calc(75% - 10px);
+  margin: 5px;
+}
+#application .checkbox {
   display: inline;
   float: left;
-  margin-bottom: 20px;
-  padding: 10px 12px;
-  -webkit-transition: all 0.4s ease 0s;
-  -o-transition: all 0.4s ease 0s;
-  -ms-transition: all 0.4s ease 0s;
-  transition: all 0.4s ease 0s;  
-  width: 100%;  
-}
-.wpcf7-text{
   height: 45px;
-}
-.wpcf7-email{
-  height: 45px;
-}
-.wpcf7-textarea {
-  height: 200px;
   padding: 15px;
+  margin: 5px;
+  margin-left: 25px;
+  width: calc(33% - 30px);
 }
-.wpcf7-submit {
-  background-color: #fff;
-  padding: 10px 15px;
-  border-radius: 4px;
-  text-transform: uppercase;
-   -webkit-transition: all 0.4s ease 0s;
-  -o-transition: all 0.4s ease 0s;
-  -ms-transition: all 0.4s ease 0s;
-  transition: all 0.4s ease 0s; 
-}*/
+#application .checkbox-small {
+  display: inline;
+  float: left;
+  height: 45px;
+  padding: 15px;
+  margin: 5px;
+  margin-left: 25px;
+  width: calc(25% - 30px);
+}
+
+#otherForms {
+  min-height: 74vh
+}
 
 /*--------------------*/
 /* 404 page */

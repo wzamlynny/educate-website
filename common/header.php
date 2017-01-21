@@ -40,6 +40,7 @@
                 <li><a href=<?php echo "'" . $root . "apply/families.php'"; ?> >Families</a></li>
                 <li><a href=<?php echo "'" . $root . "apply/tutors.php'"; ?> >Tutors</a></li>
                 <li><a href=<?php echo "'" . $root . "apply/staff.php'"; ?> >Staff</a></li>               
+                <li><a href=<?php echo "'" . $root . "apply/forms.php'"; ?> >Forms</a></li>               
               </ul>
             </li>
 

@@ -76,6 +76,18 @@
                     <!--<p>when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>-->
                   </div>
                 </div>
+                <div class="col-lg-3 col-md-3 col-sm-3">
+                  <div class="single_whyus_top wow fadeInUp">
+                    <a href="forms.php"> 
+                    <div class="whyus_icon">
+                      <span class="fa fa-folder-open"></span>
+                      <!--<img src="../img/people-woman-coffee-meeting.jpg"> </img>-->
+                    </div>
+                    </a>
+                    <h3>Other Forms</h3>
+                    <!--<p>when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>-->
+                  </div>
+                </div>
               </div>
               <!-- End Why us top content  -->
             </div>

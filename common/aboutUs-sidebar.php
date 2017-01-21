@@ -13,9 +13,6 @@
     <h2><a href="our-team.php">Our Team <span class="fa fa-angle-double-right"></span></a></h2>-->
 
     <ul>
-        
-        
-        <li><a href="our-mission.php">Our Mission</a></li>
         <li><a href="index.php">About Us</a></li>
         <li><a href="why-does-it-matter.php">Why Does it Matter</a></li>
         <!--<li><a href="why-us.php">Why Us</a></li>-->

@@ -39,27 +39,24 @@
                     <!--<img src="img/educate_logo.png"> </img>-->
                     <h2>Our Mission</h2>
                     <p>Educate the Future strives to provide free, high-quality, educational opportunities to low-income families.</p>
-                    <a class="slider_btn" href="#">Learn More</a>
-                  </div>
-                  </li>
-                <!-- Start single slider-->
-                <li>
-                  <img class="slides-image" src="img/slider/telescope-science-discover-world.jpg" alt="img">
-                   <div class="slider_caption slider_right_caption">
-                    <h2>Better Education Environment</h2>
-                    <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search</p>
-                    <a class="slider_btn" href="#">Learn More</a>
+                    <a class="slider_btn" href="aboutUs">Learn More</a>
                   </div>
                 </li>
-                <!-- Start single slider-->
+
                 <li>
-                  <img class="slides-image" src="img/slider/woman-notebook-working-girl.jpg" alt="img">
-                   <div class="slider_caption">
-                    <h2>Find out you in better way</h2>
-                    <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters.Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search</p>
-                    <a class="slider_btn" href="#">Learn More</a>
-                  </div>
+                  <img class="slides-image" src="img/slider/apply-now-bg.jpg" alt="img">
+                  <a href="apply">
+                    <img class="slides-image-text" src="img/slider/apply-now-text.png">
+                  </a>
                 </li>
+
+                <li>
+                  <img class="slides-image" src="img/slider/tutors-bg.jpg" alt="img">
+                  <a href="apply/tutors.php">
+                    <img class="slides-image-text" src="img/slider/tutors-text.png">
+                  </a>
+                </li>
+
               </ul>
               <nav class="slides-navigation">
                 <a href="#" class="next"></a>
