@@ -146,29 +146,29 @@
                 <!-- START SINGLE SKILL-->
                 <div class="col-lg-3 col-md-3 col-sm-3">
                  <div class="single_skill wow fadeInUp">
-                   <div id="myStat" data-dimension="150" data-text="35%" data-info="" data-width="10" data-fontsize="25" data-percent="35" data-fgcolor="#999" data-bgcolor="#fff"  ></div>
-                    <h4>Repeate Learners</h4>                      
+                   <div id="myStat" data-dimension="150" data-text="of states" data-info="" data-width="10" data-fontsize="25" data-percent="60" data-fgcolor="#999" data-bgcolor="#fff"  ></div>
+                    <h4>Reduced Funding for Public Education</br>(2008-2014)</h4>   
                   </div>
                 </div>
                 <!-- START SINGLE SKILL-->
                 <div class="col-lg-3 col-md-3 col-sm-3">
                   <div class="single_skill wow fadeInUp">
-                    <div id="myStathalf2" data-dimension="150" data-text="90%" data-info="" data-width="10" data-fontsize="25" data-percent="90" data-fgcolor="#999" data-bgcolor="#fff"  ></div>
-                    <h4>Success Rate</h4>
+                    <div id="myStathalf2" data-dimension="150" data-text="of states" data-info="" data-width="10" data-fontsize="25" data-percent="50" data-fgcolor="#999" data-bgcolor="#fff"  ></div>
+                    <h4>Provide Less</br>Funding per Student</br>Compared to 2008</h4>
                   </div>
                 </div>
                 <!-- START SINGLE SKILL-->
                 <div class="col-lg-3 col-md-3 col-sm-3">                 
                   <div class="single_skill wow fadeInUp">
-                    <div id="myStat2" data-dimension="150" data-text="100%" data-info="" data-width="10" data-fontsize="25" data-percent="100" data-fgcolor="#999" data-bgcolor="#fff" ></div>
-                    <h4>Student Engagement</h4>
+                    <div id="myStat2" data-dimension="150" data-text="" data-info="" data-width="10" data-fontsize="25" data-percent="46" data-fgcolor="#999" data-bgcolor="#fff" ></div>
+                    <h4>Funding for K-12 Spending Comes</br>from State Funds</h4>
                   </div>
                 </div>
                 <!-- START SINGLE SKILL-->
                 <div class="col-lg-3 col-md-3 col-sm-3">                 
                   <div class="single_skill wow fadeInUp">
-                    <div id="myStat3" data-dimension="150" data-text="65%" data-info="" data-width="10" data-fontsize="25" data-percent="65" data-fgcolor="#999" data-bgcolor="#fff"  ></div>
-                    <h4>Certified Courses</h4>
+                    <div id="myStat3" data-dimension="150" data-text="" data-info="" data-width="10" data-fontsize="25" data-percent="37" data-fgcolor="#999" data-bgcolor="#fff"  ></div>
+                    <h4>Decrease of Capital Spending for K-12 Schools</h4>
                   </div>
                 </div>
               </div>
@@ -333,7 +333,7 @@
                 <li>
                   <div class="single_tutors">
                     <div class="tutors_thumb">
-                      <img src="img/temporary.png" />                      
+                      <img src="img/educate_logo.png" />                      
                     </div>
                     <div class="singTutors_content">
                       <h3 class="tutors_name">Wilber</br>Perez</h3>

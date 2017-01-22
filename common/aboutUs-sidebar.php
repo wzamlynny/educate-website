@@ -14,7 +14,7 @@
 
     <ul>
         <li><a href="index.php">About Us</a></li>
-        <li><a href="why-does-it-matter.php">Why Does it Matter</a></li>
+        <!--<li><a href="why-does-it-matter.php">Why Does it Matter</a></li>-->
         <!--<li><a href="why-us.php">Why Us</a></li>-->
         <li class="accordion">Why Us</li>
             <!--<h4 class="accordion">Why Us</h4>-->

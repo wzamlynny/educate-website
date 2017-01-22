@@ -10,7 +10,7 @@
     ================================================== -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-     <title>Educate the Future : Blog Archive</title>
+     <title>Educate the Future : Blog</title>
 
     <?php include('../common/common-head.php'); ?>
   
@@ -27,7 +27,7 @@
 
     <!--=========== BEGIN COURSE BANNER SECTION ================-->
     <section id="imgBanner">
-      <h2>Blog Archive</h2>
+      <h2>Blog</h2>
     </section>
     <!--=========== END COURSE BANNER SECTION ================-->
     
