@@ -1,5 +1,6 @@
 <ul class="news_tab">
-    <li>
+    <h4 style="text-align:center"> Coming Soon </h4>
+    <!--<li>
     <div class="media">
         <div class="media-left">
         <a class="news_img" href="#">
@@ -37,6 +38,6 @@
         <span class="feed_date">28.02.15</span>                
         </div>
     </div>
-    </li>                  
+    </li>-->
 </ul>
-<a class="see_all" href="#">See All</a>
+<!--<a class="see_all" href="#">See All</a>-->

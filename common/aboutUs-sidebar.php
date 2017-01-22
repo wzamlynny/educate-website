@@ -19,10 +19,10 @@
         <li class="accordion">Why Us</li>
             <!--<h4 class="accordion">Why Us</h4>-->
             <ul class="panel">
-                <li><a href="#">100% Free</a></li>
-                <li><a href="#">Specialized Service</a></li>
-                <li><a href="#">Community Oriented</a></li>
-                <li><a href="#">Passion for Success</a></li>
+                <li><a href="free.php">100% Free</a></li>
+                <li><a href="specialized.php">Specialized Service</a></li>
+                <li><a href="community.php">Community Oriented</a></li>
+                <li><a href="success.php">Passion for Success</a></li>
             </ul>
 
         <li><a href="our-team.php">Our Team</a></li>

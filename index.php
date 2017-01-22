@@ -78,6 +78,15 @@
           <div class="aboutus_area wow fadeInLeft">
             <h2 class="title">About Us</h2>
             <p>Educate the Future was launched on February 13, 2016 as a non-profit movement to provide all children a free tutoring service during their time in K-12. We believe that education is one of the most meaningful and life changing experiences, and move to ensure that all children have an opportunity to succeed. Although we stand as a young organization, we are eager to continue working closely with the community and providing a wide array of services to families in need: free tutoring, school supplies, social events, workshops, etc. Areas of tutoring and availability range based on the current staffing of tutors, but all efforts to accommodate requests will be made for our aspiring scholars. We urge you to join us in this movement for higher quality educational opportunities.</p>
+            </br>
+            <h4>Find us on Social Media</h4>
+            <div class="address_group">
+              <ul class="footer_social">
+                <li><a data-toggle="tooltip" data-placement="top" title="Facebook" class="home-soc-icons soc_tooltip" href="https://www.facebook.com/Freetutoringnow/"><i class="fa fa-facebook"></i></a></li>
+                <li><a data-toggle="tooltip" data-placement="top" title="Twitter" class="home-soc-icons soc_tooltip"  href="https://twitter.com/Edu_The_Future"><i class="fa fa-twitter"></i></a></li>
+                <li><a data-toggle="tooltip" data-placement="top" title="Instagram" class="home-soc-icons soc_tooltip"  href="https://www.instagram.com/educatethefuture/?hl=en"><i class="fa fa-instagram"></i></a></li>
+                </ul>
+             </div>
           </div>
         </div>
         <div class="col-lg-6 col-md-6 col-sm-6">
@@ -137,28 +146,28 @@
                 <!-- START SINGLE SKILL-->
                 <div class="col-lg-3 col-md-3 col-sm-3">
                  <div class="single_skill wow fadeInUp">
-                   <div id="myStat" data-dimension="150" data-text="35%" data-info="" data-width="10" data-fontsize="25" data-percent="35" data-fgcolor="#999" data-bgcolor="#fff"  data-icon="fa-task"></div>
+                   <div id="myStat" data-dimension="150" data-text="35%" data-info="" data-width="10" data-fontsize="25" data-percent="35" data-fgcolor="#999" data-bgcolor="#fff"  ></div>
                     <h4>Repeate Learners</h4>                      
                   </div>
                 </div>
                 <!-- START SINGLE SKILL-->
                 <div class="col-lg-3 col-md-3 col-sm-3">
                   <div class="single_skill wow fadeInUp">
-                    <div id="myStathalf2" data-dimension="150" data-text="90%" data-info="" data-width="10" data-fontsize="25" data-percent="90" data-fgcolor="#999" data-bgcolor="#fff"  data-icon="fa-task"></div>
+                    <div id="myStathalf2" data-dimension="150" data-text="90%" data-info="" data-width="10" data-fontsize="25" data-percent="90" data-fgcolor="#999" data-bgcolor="#fff"  ></div>
                     <h4>Success Rate</h4>
                   </div>
                 </div>
                 <!-- START SINGLE SKILL-->
                 <div class="col-lg-3 col-md-3 col-sm-3">                 
                   <div class="single_skill wow fadeInUp">
-                    <div id="myStat2" data-dimension="150" data-text="100%" data-info="" data-width="10" data-fontsize="25" data-percent="100" data-fgcolor="#999" data-bgcolor="#fff"  data-icon="fa-task"></div>
+                    <div id="myStat2" data-dimension="150" data-text="100%" data-info="" data-width="10" data-fontsize="25" data-percent="100" data-fgcolor="#999" data-bgcolor="#fff" ></div>
                     <h4>Student Engagement</h4>
                   </div>
                 </div>
                 <!-- START SINGLE SKILL-->
                 <div class="col-lg-3 col-md-3 col-sm-3">                 
                   <div class="single_skill wow fadeInUp">
-                    <div id="myStat3" data-dimension="150" data-text="65%" data-info="" data-width="10" data-fontsize="25" data-percent="65" data-fgcolor="#999" data-bgcolor="#fff"  data-icon="fa-task"></div>
+                    <div id="myStat3" data-dimension="150" data-text="65%" data-info="" data-width="10" data-fontsize="25" data-percent="65" data-fgcolor="#999" data-bgcolor="#fff"  ></div>
                     <h4>Certified Courses</h4>
                   </div>
                 </div>
