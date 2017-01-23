@@ -40,7 +40,7 @@
             <div class="title_area">
               <h2 class="title_two">Contact Educate the Future</h2>
               <span></span> 
-              <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>
+              <p>Thank you for your interest in Educate the Future. Please take a moment to fill out our contact form, and we will do our best to get back to you as soon as possible.</p>
             </div>
           </div>
        </div>

@@ -3,8 +3,9 @@
     <!-- start single sidebar -->
     <div class="single_sidebar">
     <h2>Featured Posts <span class="fa fa-angle-double-right"></span></h2>
+    <h4 style="text-align:center"> No Posts to Show</h4>
     <ul class="news_tab">
-        <li>
+        <!--<li>
         <div class="media">
             <div class="media-left">
             <a href="#" class="news_img">
@@ -42,7 +43,7 @@
             <span class="feed_date">28.02.15</span>                
             </div>
         </div>
-        </li>                  
+        </li>                  -->
     </ul>
     </div>
     <!-- End single sidebar -->
@@ -50,11 +51,8 @@
     <div class="single_sidebar">
     <h2>Category <span class="fa fa-angle-double-right"></span></h2>
     <ul>
-        <li><a href="#">Food</a></li>
-        <li><a href="#">Technology</a></li>
-        <li><a href="#">Fashion</a></li>
-        <li><a href="#">Business</a></li>
-        <li><a href="#">Games</a></li>
+        <li><a href="#">News</a></li>
+        <li><a href="#">Education</a></li>
     </ul>
     </div>
     <!-- End single sidebar -->
@@ -62,12 +60,12 @@
     <div class="single_sidebar">
     <h2>Tags <span class="fa fa-angle-double-right"></span></h2>
     <ul class="tags_nav">
-        <li><a href="#"><i class="fa fa-tags"></i>Creative</a></li>
+        <!--<li><a href="#"><i class="fa fa-tags"></i>Creative</a></li>
         <li><a href="#"><i class="fa fa-tags"></i>News</a></li>
         <li><a href="#"><i class="fa fa-tags"></i>Technology</a></li>
         <li><a href="#"><i class="fa fa-tags"></i>Art</a></li>
         <li><a href="#"><i class="fa fa-tags"></i>Audio</a></li>
-        <li><a href="#"><i class="fa fa-tags"></i>Video</a></li>
+        <li><a href="#"><i class="fa fa-tags"></i>Video</a></li>-->
     </ul>
     </div>
     <!-- End single sidebar -->

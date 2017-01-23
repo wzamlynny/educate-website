@@ -40,8 +40,10 @@
             <div class="courseArchive_content">
               <!-- start blog archive  -->
               <div class="row">
+                <h4 style="text-align:center"> Coming Soon </h4>
+
                 <!-- start single blog archive -->
-                <div class="col-lg-12 col-12 col-sm-12">
+                <!--<div class="col-lg-12 col-12 col-sm-12">
                   <div class="single_blog_archive wow fadeInUp">
                     <div class="archive_blogimg_container">
                       <a href="#" class="archive_blog_img">
@@ -59,10 +61,11 @@
                     <p class="blog_summary">Duis erat purus, tincidunt vel ullamcorper ut, consequat tempus nibh. Proin condimentum risus ligula, dignissim mollis tortor hendrerit vel. Aliquam...</p>
                     <a class="blog_readmore" href="blog-single.php">Read More</a>
                   </div>
-                </div>
+                </div>-->
+                <!-- end single blog archive -->
+
                 <!-- start single blog archive -->
-                <!-- start single blog archive -->
-                <div class="col-lg-12 col-12 col-sm-12">
+                <!--<div class="col-lg-12 col-12 col-sm-12">
                   <div class="single_blog_archive wow fadeInUp">
                     <div class="archive_blogimg_container">
                       <a href="#" class="archive_blog_img">
@@ -80,10 +83,11 @@
                     <p class="blog_summary">Duis erat purus, tincidunt vel ullamcorper ut, consequat tempus nibh. Proin condimentum risus ligula, dignissim mollis tortor hendrerit vel. Aliquam...</p>
                     <a class="blog_readmore" href="blog-single.php">Read More</a>
                   </div>
-                </div>
+                </div>-->
+                <!-- end single blog archive -->
+
                 <!-- start single blog archive -->
-                <!-- start single blog archive -->
-                <div class="col-lg-12 col-12 col-sm-12">
+                <!--<div class="col-lg-12 col-12 col-sm-12">
                   <div class="single_blog_archive wow fadeInUp">
                     <div class="archive_blogimg_container">
                       <a href="#" class="archive_blog_img">
@@ -101,11 +105,12 @@
                     <p class="blog_summary">Duis erat purus, tincidunt vel ullamcorper ut, consequat tempus nibh. Proin condimentum risus ligula, dignissim mollis tortor hendrerit vel. Aliquam...</p>
                     <a class="blog_readmore" href="blog-single.php">Read More</a>
                   </div>
-                </div>
-                <!-- start single blog archive -->
+                </div>-->
+                <!-- end single blog archive -->
+
               </div>
               <!-- end blog archive  -->
-              <nav>
+              <!--<nav>
                 <ul class="pagination wow fadeInLeft">
                   <li><a href="#"><span aria-hidden="true">«</span><span class="sr-only">Previous</span></a></li>
                   <li><a href="#">1</a></li>
@@ -115,7 +120,7 @@
                   <li><a href="#">5</a></li>
                   <li><a href="#"><span aria-hidden="true">»</span><span class="sr-only">Next</span></a></li>
                 </ul>
-              </nav>
+              </nav>-->
             </div>
           </div>
           <!-- End course content -->

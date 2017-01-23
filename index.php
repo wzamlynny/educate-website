@@ -168,7 +168,7 @@
                 <div class="col-lg-3 col-md-3 col-sm-3">                 
                   <div class="single_skill wow fadeInUp">
                     <div id="myStat3" data-dimension="150" data-text="" data-info="" data-width="10" data-fontsize="25" data-percent="37" data-fgcolor="#999" data-bgcolor="#fff"  ></div>
-                    <h4>Decrease of Capital Spending for K-12 Schools</h4>
+                    <h4>Decrease of Capital Spending for K-12</br>(2008-2013)</h4>
                   </div>
                 </div>
               </div>
@@ -197,7 +197,7 @@
               <div class="row">
                 <div class="col-lg-3 col-md-3 col-sm-3">
                   <div class="single_whyus_top wow fadeInUp">
-                    <a href="aboutUs/why-us.php#free"> 
+                    <a href="aboutUs/free.php"> 
                     <div class="whyus_icon">
                       <span class="fa fa-dollar"></span>
                     </div>
@@ -208,7 +208,7 @@
                 </div>
                 <div class="col-lg-3 col-md-3 col-sm-3">
                   <div class="single_whyus_top wow fadeInUp">
-                    <a href="aboutUs/why-us.php#specialized"> 
+                    <a href="aboutUs/specialized.php"> 
                     <div class="whyus_icon">
                       <span class="fa fa-child"></span>
                     </div>
@@ -219,7 +219,7 @@
                 </div>
                 <div class="col-lg-3 col-md-3 col-sm-3">
                   <div class="single_whyus_top wow fadeInUp">
-                    <a href="aboutUs/why-us.php#community"> 
+                    <a href="aboutUs/community.php"> 
                     <div class="whyus_icon">
                       <span class="fa fa-users"></span>
                     </div>
@@ -230,7 +230,7 @@
                 </div>
                 <div class="col-lg-3 col-md-3 col-sm-3">
                   <div class="single_whyus_top wow fadeInUp">
-                    <a href="aboutUs/why-us.php#success"> 
+                    <a href="aboutUs/success.php"> 
                     <div class="whyus_icon">
                       <span class="fa fa-graduation-cap"></span>
                     </div>
