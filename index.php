@@ -301,7 +301,7 @@
                     </div>
                     <div class="singTutors_content">
                       <h3 class="tutors_name">Yujerly</br>Cruz</h3>
-                      <span>Cheif of Staff</span>
+                      <span>Chief of Staff</span>
                     </div>
                   </div>
                 </li>

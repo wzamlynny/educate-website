@@ -27,7 +27,7 @@
 
     <!--=========== BEGIN COURSE BANNER SECTION ================-->
     <section id="imgBanner">
-      <h2>Why  - 100% Free</h2>
+      <h2>Why US - 100% Free</h2>
     </section>
     <!--=========== END COURSE BANNER SECTION ================-->
     
