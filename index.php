@@ -44,13 +44,6 @@
                 </li>
 
                 <li>
-                  <img class="slides-image" src="img/slider/apply-now-bg.jpg" alt="img">
-                  <a href="apply">
-                    <img class="slides-image-text" src="img/slider/apply-now-text.png">
-                  </a>
-                </li>
-
-                <li>
                   <img class="slides-image" src="img/slider/tutors-bg.jpg" alt="img">
                   <a href="apply/tutors.php">
                     <img class="slides-image-text" src="img/slider/tutors-text.png">
@@ -285,6 +278,18 @@
                 <li>
                   <div class="single_tutors">
                     <div class="tutors_thumb">
+                      <img src="img/team/DevinLy.jpg" />                      
+                    </div>
+                    <div class="singTutors_content">
+                      <h3 class="tutors_name">Devin</br>Ly</h3>
+                      <span>Vice President</span>
+                    </div>
+                  </div>
+                </li>
+
+                <li>
+                  <div class="single_tutors">
+                    <div class="tutors_thumb">
                       <img src="img/team/NateWeiss.jpg" />                      
                     </div>
                     <div class="singTutors_content">
@@ -293,31 +298,7 @@
                     </div>
                   </div>
                 </li>
-             
-                <li>
-                  <div class="single_tutors">
-                    <div class="tutors_thumb">
-                      <img src="img/team/YujerlyCruz.jpg" />                      
-                    </div>
-                    <div class="singTutors_content">
-                      <h3 class="tutors_name">Yujerly</br>Cruz</h3>
-                      <span>Chief of Staff</span>
-                    </div>
-                  </div>
-                </li>
-
-                <li>
-                  <div class="single_tutors">
-                    <div class="tutors_thumb">
-                      <img src="img/team/DevinLy.jpg" />                      
-                    </div>
-                    <div class="singTutors_content">
-                      <h3 class="tutors_name">Devin</br>Ly</h3>
-                      <span>Director of Outreach and Public Affairs</span>
-                    </div>
-                  </div>
-                </li>
-
+                
                 <li>
                   <div class="single_tutors">
                     <div class="tutors_thumb">
@@ -328,19 +309,7 @@
                       <span>Web Developer</span>
                     </div>
                   </div>
-                </li>
-
-                <li>
-                  <div class="single_tutors">
-                    <div class="tutors_thumb">
-                      <img src="img/educate_logo.png" />                      
-                    </div>
-                    <div class="singTutors_content">
-                      <h3 class="tutors_name">Wilber</br>Perez</h3>
-                      <span>Social Media Coordinator</span>
-                    </div>
-                  </div>
-                </li>                                          
+                </li>                                      
               </ul>
             </div>
           </div>

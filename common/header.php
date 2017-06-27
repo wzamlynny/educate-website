@@ -37,7 +37,6 @@
             <!-- LINK ON LOCATIONS - Disabled is not mobile friendly TODO -->
               <a href=<?php echo "'" . $root . "apply'"; ?> class='dropdown-toggle disabled' data-toggle='dropdown' role='button' aria-expanded='false'>Apply<span class='caret'></span></a>
               <ul class='dropdown-menu' role='menu'>
-                <li><a href=<?php echo "'" . $root . "apply/families.php'"; ?> >Families</a></li>
                 <li><a href=<?php echo "'" . $root . "apply/tutors.php'"; ?> >Tutors</a></li>
                 <li><a href=<?php echo "'" . $root . "apply/staff.php'"; ?> >Staff</a></li>               
                 <li><a href=<?php echo "'" . $root . "apply/forms.php'"; ?> >Forms</a></li>               
