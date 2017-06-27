@@ -159,7 +159,7 @@
                 <h2>Quick Links <span class="fa fa-angle-double-right"></span></h2>
                 <ul>
                   <li><a href="../tutors/#hillside">Hillside Tutors</a></li>
-                  <li><a href="../apply/families.php">Family Application</a></li>
+                  <!--<li><a href="../apply/families.php">Family Application</a></li>-->
                   <li><a href="http://hillsidenj.us/">Hillside Website</a></li>
                 </ul>
               </div>

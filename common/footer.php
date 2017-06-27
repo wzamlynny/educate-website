@@ -30,7 +30,6 @@
             <div class="single_footer_widget">
             <h3>Others</h3>
             <ul class="footer_widget_nav">
-                <li><a href=<?php echo "'" . $root . "apply/families.php'"; ?>>Family Application</a></li>
                 <li><a href=<?php echo "'" . $root . "apply/tutors.php'"; ?>>Tutor Application</a></li>
                 <!--<li><a href="#">Calendar</a></li>-->
                 <li><a href=<?php echo "'" . $root . "contact'"; ?>>Contact Us</a></li>

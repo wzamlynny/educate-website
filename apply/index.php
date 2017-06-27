@@ -40,18 +40,16 @@
             <div class="container apply-container">
               <!-- Start Why us top content  -->
               <div class="row">
-                <div class="col-lg-3 col-md-3 col-sm-3">
+                <!--<div class="col-lg-3 col-md-3 col-sm-3">
                   <div class="single_whyus_top wow fadeInUp">
                     <a href="families.php"> 
                     <div class="whyus_icon">
                       <span class="fa fa-home"></span>
-                      <!--<img src="../img/pexels-photo.jpg"></img>-->
                     </div>
                     </a>
                     <h3>Family Application</h3>
-                    <!--<p>when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>-->
                   </div>
-                </div>
+                </div>-->
                 <div class="col-lg-3 col-md-3 col-sm-3">
                   <div class="single_whyus_top wow fadeInUp">
                     <a href="tutors.php"> 

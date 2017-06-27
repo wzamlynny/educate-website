@@ -1,5 +1,5 @@
 <ul class="news_tab">
-<li>
+<!--<li>
     <div class="media">
     <div class="media-left">
         <a class="news_img" href=<?php echo "'" . $root . "apply/families.php'"; ?>>
@@ -11,7 +11,7 @@
         <span class="feed_date">17 Jan 2017</span>
     </div>
     </div>                   
-</li>
+</li>-->
 <li>
     <div class="media">
     <div class="media-left">
