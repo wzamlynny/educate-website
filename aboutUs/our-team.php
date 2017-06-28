@@ -54,6 +54,16 @@
                       </div>
                    </div>
 
+                  <div class="our-team single_tutors">
+                    <div class="tutors_thumb large_thumb">
+                      <img src="../img/team/DevinLy.jpg" />                      
+                    </div>
+                    <div class="singTutors_content">
+                      <h3 class="tutors_name">Devin</br>Ly</h3>
+                      <span>Vice President</span>
+                    </div>
+                  </div>
+
                    <div class="our-team single_tutors">
                     <div class="tutors_thumb large_thumb">
                       <img src="../img/team/NateWeiss.jpg" />                      
@@ -63,26 +73,8 @@
                       <span>Treasurer</span>
                     </div>
                   </div>
-
-                  <div class="our-team single_tutors">
-                    <div class="tutors_thumb large_thumb">
-                      <img src="../img/team/YujerlyCruz.jpg" />                      
-                    </div>
-                    <div class="singTutors_content">
-                      <h3 class="tutors_name">Yujerly</br>Cruz</h3>
-                      <span>Cheif of Staff</span>
-                    </div>
-                  </div>
                   
-                  <div class="our-team single_tutors">
-                    <div class="tutors_thumb large_thumb">
-                      <img src="../img/team/DevinLy.jpg" />                      
-                    </div>
-                    <div class="singTutors_content">
-                      <h3 class="tutors_name">Devin</br>Ly</h3>
-                      <span>Director of Outreach and Public Affairs</span>
-                    </div>
-                  </div>
+
 
                   <div class="our-team single_tutors">
                     <div class="tutors_thumb large_thumb">
@@ -91,16 +83,6 @@
                     <div class="singTutors_content">
                       <h3 class="tutors_name">Weronika</br>Zamlynny</h3>
                       <span>Web Developer</span>
-                    </div>
-                  </div>
-
-                  <div class="our-team single_tutors">
-                    <div class="tutors_thumb large_thumb">
-                      <img src="../img/educate_logo.png" />                      
-                    </div>
-                    <div class="singTutors_content">
-                      <h3 class="tutors_name">Wilber</br>Perez</h3>
-                      <span>Social Media Coordinator</span>
                     </div>
                   </div>
 
