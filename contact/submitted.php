@@ -14,10 +14,9 @@
      <title>Educate the Future : Contact</title>
 
      <?php include('../common/common-head.php'); ?>
-  
+
   </head>
   <body>
-
     <!-- SCROLL TOP BUTTON -->
     <a class="scrollToTop" href="#"></a>
     <!-- END SCROLL TOP BUTTON -->
@@ -35,12 +34,22 @@
     <!--=========== BEGIN CONTACT SECTION ================-->
     <section id="contact">
       <div class="container">
+        <div class="row">
+            <!-- Database Connection -->
+            <?php 
+                include('../php/db-connection.php'); 
+
+                $db = new Database();
+                $db->connection();
+                $db->send_message();            
+            ?>
+        </div>
        <div class="row">
           <div class="col-lg-12 col-md-12"> 
             <div class="title_area">
               <h2 class="title_two">Contact Educate the Future</h2>
               <span></span> 
-              <p>Thank you for your interest in Educate the Future. Please take a moment to fill out our contact form, and we will do our best to get back to you as soon as possible.</p>
+              <p>Thank you for reaching out to us! We will get back to you as soon as possible.</p>
             </div>
           </div>
        </div>
