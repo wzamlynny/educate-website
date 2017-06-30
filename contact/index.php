@@ -51,7 +51,7 @@
                 <input type="text" name="name" class="wp-form-control wpcf7-text" placeholder="Your name">
                 <input type="mail" name="email" class="wp-form-control wpcf7-email" placeholder="Email address">          
                 <input type="text" name="subject" class="wp-form-control wpcf7-text" placeholder="Subject">
-                <textarea name="message" class="wp-form-control wpcf7-textarea"  cols="30" rows="10" placeholder="What would you like to tell us"></textarea>
+                <textarea name="message" maxlength="4096" class="wp-form-control wpcf7-textarea"  cols="30" rows="10" placeholder="What would you like to tell us"></textarea>
                 <input type="submit" value="Submit" class="wpcf7-submit">
               </form>
            </div>
