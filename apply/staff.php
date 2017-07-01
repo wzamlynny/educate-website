@@ -59,14 +59,15 @@
                   </select>
                   <input type="text" class="half wp-form-control wpcf7-text" placeholder="Phone Number" name="phoneNumber"></input>
                   <input type="text" class="half wp-form-control wpcf7-text" placeholder="EMail Address" name="email"></input>
+                  
+                  <input type="text" class="wp-form-control wpcf7-text" placeholder="How did you learn about our organization?" name="howDidYouLearn"></input>
               
               <h3>Position</h3>
-                <input type="text" class="wp-form-control wpcf7-text" placeholder="How did you learn about our organization?" name="howDidYouLearn"></input>
 
                 <input type="text" class="third wp-form-control wpcf7-text" placeholder="Position Sought" name="position"></input>
                 <input type="text" class="third wp-form-control wpcf7-text" placeholder="Available Start Data" name="startDate"></input>
                 <input type="text" class="third wp-form-control wpcf7-text" placeholder="Are you currently Employed?" name="currentlyEmployed"></input>
-                
+              
               <h3>Education</h3>
                 <h4>High School</h4>
                   <input type="text" class="third wp-form-control wpcf7-text" placeholder="Name" name="highschoolName"></input>

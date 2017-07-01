@@ -39,7 +39,7 @@
             <h2>Teacher Forms</h3>
             <ul>
               <li><span class="fa fa-angle-double-right"></span>
-                <a href="in-class-assessment.php">In Class Assessment</a>
+                <a href="https://drive.google.com/file/d/0BwS65p4S5L_mdnVldU15QTNHVTQ/view" target="_blank">In Class Assessment</a>
               </li>
             </ul>
           </div>

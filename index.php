@@ -38,7 +38,7 @@
                    <div class="slider_caption">
                     <!--<img src="img/educate_logo.png"> </img>-->
                     <h2>Our Mission</h2>
-                    <p>Educate the Future strives to provide free, high-quality, educational opportunities to low-income families.</p>
+                    <p><?php include($root . '/content/our-mission.txt'); ?></p>
                     <a class="slider_btn" href="aboutUs">Learn More</a>
                   </div>
                 </li>
@@ -70,7 +70,7 @@
         <div class="col-lg-6 col-md-6 col-sm-6">
           <div class="aboutus_area wow fadeInLeft">
             <h2 class="title">About Us</h2>
-            <p>Educate the Future was launched on February 13, 2016 as a non-profit movement to provide all children a free tutoring service during their time in K-12. We believe that education is one of the most meaningful and life changing experiences, and move to ensure that all children have an opportunity to succeed. Although we stand as a young organization, we are eager to continue working closely with the community and providing a wide array of services to families in need: free tutoring, school supplies, social events, workshops, etc. Areas of tutoring and availability range based on the current staffing of tutors, but all efforts to accommodate requests will be made for our aspiring scholars. We urge you to join us in this movement for higher quality educational opportunities.</p>
+            <p><?php include($root . '/content/about-us-short.txt'); ?></p>
             </br>
             <h4>Find us on Social Media</h4>
             <div class="address_group">
