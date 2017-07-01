@@ -40,28 +40,29 @@
             <div class="courseArchive_content">
               <!-- start blog archive  -->
               <div class="row">
-                <h4 style="text-align:center"> Coming Soon </h4>
+                <!--<h4 style="text-align:center"> Coming Soon </h4>-->
 
                 <!-- start single blog archive -->
-                <!--<div class="col-lg-12 col-12 col-sm-12">
+                <div class="col-lg-12 col-12 col-sm-12">
                   <div class="single_blog_archive wow fadeInUp">
                     <div class="archive_blogimg_container">
                       <a href="#" class="archive_blog_img">
-                        <img alt="img" src="../img/temporary.png">
+                        <img alt="img" src="../img/educate_logo.png" width="100px">
                       </a>
                     </div>
                     <div class="archive_bloginfo_container">
-                      <h2 class="archive_blog_title"><a href="blog-single.php"> Curabitur ac dictum nisl eu hendrerit ante</a></h2>
+                      <h2 class="archive_blog_title"><a href="welcome-20170701.php">Welcome to Educate the Future</a></h2>
                       <div class="blog_commentbox">
-                        <p><i class="fa fa-user"></i>Richard Remus</p>
-                        <p><i class="fa fa-calendar"></i>15 March 2015</p>
-                        <a href="#"><i class="fa fa-comments"></i>20 Comments</a>
+                        <p><i class="fa fa-user"></i>Nuno Pereira</p>
+                        <p><i class="fa fa-calendar"></i>01 July 2017</p>
+                        <!-- TODO: Figure out comment count -->
+                        <!--<a href="#"><i class="fa fa-comments"></i>20 Comments</a> -->
                       </div>
                     </div>
-                    <p class="blog_summary">Duis erat purus, tincidunt vel ullamcorper ut, consequat tempus nibh. Proin condimentum risus ligula, dignissim mollis tortor hendrerit vel. Aliquam...</p>
-                    <a class="blog_readmore" href="blog-single.php">Read More</a>
+                    <p class="blog_summary">My name is Nuno, Founder and President of the movement, and I want to say thank you for visiting our page...</p>
+                    <a class="blog_readmore" name="Welcome Blog" href="welcome-20170701.php">Read More</a>
                   </div>
-                </div>-->
+                </div>
                 <!-- end single blog archive -->
 
                 <!-- start single blog archive -->

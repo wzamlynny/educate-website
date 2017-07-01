@@ -37,6 +37,8 @@
     <link id="switcher" href=<?php echo "'" . $root . "css/themes/lite-blue-theme.css'"; ?> rel="stylesheet">
     <!-- Main structure css file -->
     <link href=<?php echo "'" . $root . "style.css'"; ?> rel="stylesheet">
+    <!-- custom css file -->
+    <link href=<?php echo "'" . $root . "css/educate.css'"; ?> rel="stylesheet">
    
     <!-- Google fonts -->
     <link href='http://fonts.googleapis.com/css?family=Merriweather' rel='stylesheet' type='text/css'>   

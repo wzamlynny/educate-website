@@ -25,4 +25,17 @@
     </div>
     </div>
 </li>
+<li>
+    <div class="media">
+    <div class="media-left">
+        <a class="news_img" href=<?php echo "'" . $root . "blog/welcome-20170701.php'"; ?>>
+        <img class="media-object" src=<?php echo "'" . $root . "img/educate_logo.png'"; ?> alt="img">
+        </a>
+    </div>
+    <div class="media-body">
+        <a href=<?php echo "'" . $root . "blog/welcome-20170701.php'"; ?>>Blog: Welcome to Educate the Future</a>
+        <span class="feed_date">01 July 2017</span>             
+    </div>
+    </div>
+</li>
 </ul>

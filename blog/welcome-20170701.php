@@ -10,7 +10,7 @@
     ================================================== -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-     <title>Educate the Future : About Us</title>
+     <title>Educate the Future : Blog</title>
 
     <?php include('../common/common-head.php'); ?>
   
@@ -27,7 +27,7 @@
 
     <!--=========== BEGIN COURSE BANNER SECTION ================-->
     <section id="imgBanner">
-      <h2>About Us</h2>
+      <h2>Blog</h2>
     </section>
     <!--=========== END COURSE BANNER SECTION ================-->
     
@@ -44,24 +44,37 @@
                 <div class="col-lg-12 col-12 col-sm-12">
                   <div class="single_blog">
                     
-                    <!-- Start Our Mission -->
-                    <h2> Our Mission </h2>
-                    <p><?php include($root . 'content/our-mission.txt'); ?></p>
+                    <h2 class="blog_title">Welcome to Educate the Future</h2>
+                    <div class="blog_commentbox">
+                      <p><i class="fa fa-user"></i>Nuno Pereira</p>
+                      <p><i class="fa fa-calendar"></i>01 July 2017</p>
+                      <!--<a href="#"><i class="fa fa-comments"></i>20 Comments</a>-->
+                    </div>
+                    <div class="blogimg_container">
+                      <a href="#" class="blog_img">
+                        <img alt="img" src="../img/blog/Pereira_20170701.jpg">
+                      </a>
+                    </div>
+                    <h3>It's time to put our children first as the future of our world.</h3>
 
-                    <?php include($root . 'content/about-us-long.html'); ?>
-
+                      <!-- IMPORT BLOG CONTENT -->
+                      <?php include($root . "content/blog/Pereira_20170701.html"); ?>
+                  </div>
+                  <!-- single blog nex & prev button -->
+                  <div class="single_blog_prevnext">
+                    <a class="prev_post wow fadeInLeft"><i class="fa fa-angle-left"></i>Previous Post</a>
+                    <a class="next_post wow fadeInRight">Next Post<i class="fa fa-angle-right"></i></a>
                   </div>
                 </div>
                 <!-- End single blog -->                
               </div>
-              <!-- end blog archive  -->
-                      
+              <!-- end blog archive  -->    
             </div>
           </div>
           <!-- End course content -->
 
           <!-- start  sidebar -->
-          <?php include('../common/aboutUs-sidebar.php'); ?>
+          <?php include('../common/blog-sidebar.php'); ?>
           <!-- end sidebar -->
         </div>
       </div>

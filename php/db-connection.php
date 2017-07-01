@@ -1,9 +1,8 @@
 <?php
 
 class Database {
-
-
     public function connection() {
+        include("_dbp.php");
         // Create connection
         $this->conn = new mysqli($this->servername, $this->username, $this->password, $this->dbname);
 

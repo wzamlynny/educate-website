@@ -1,3 +1,4 @@
+<?php $root = ""; ?>
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -38,7 +39,7 @@
                    <div class="slider_caption">
                     <!--<img src="img/educate_logo.png"> </img>-->
                     <h2>Our Mission</h2>
-                    <p><?php include($root . '/content/our-mission.txt'); ?></p>
+                    <p><?php include($root . 'content/our-mission.txt'); ?></p>
                     <a class="slider_btn" href="aboutUs">Learn More</a>
                   </div>
                 </li>
@@ -70,7 +71,7 @@
         <div class="col-lg-6 col-md-6 col-sm-6">
           <div class="aboutus_area wow fadeInLeft">
             <h2 class="title">About Us</h2>
-            <p><?php include($root . '/content/about-us-short.txt'); ?></p>
+            <p><?php include($root . 'content/about-us-short.txt'); ?></p>
             </br>
             <h4>Find us on Social Media</h4>
             <div class="address_group">
@@ -139,15 +140,15 @@
                 <!-- START SINGLE SKILL-->
                 <div class="col-lg-3 col-md-3 col-sm-3">
                  <div class="single_skill wow fadeInUp">
-                   <div id="myStat" data-dimension="150" data-text="of states" data-info="" data-width="10" data-fontsize="25" data-percent="60" data-fgcolor="#999" data-bgcolor="#fff"  ></div>
-                    <h4>Reduced Funding for Public Education</br>(2008-2014)</h4>   
+                   <div id="myStat" data-dimension="150" data-text="" data-info="" data-width="10" data-fontsize="25" data-percent="60" data-fgcolor="#999" data-bgcolor="#fff"  ></div>
+                    <h4>Of States Reduced Funding for Public Education (2008-2014)</h4>   
                   </div>
                 </div>
                 <!-- START SINGLE SKILL-->
                 <div class="col-lg-3 col-md-3 col-sm-3">
                   <div class="single_skill wow fadeInUp">
-                    <div id="myStathalf2" data-dimension="150" data-text="of states" data-info="" data-width="10" data-fontsize="25" data-percent="50" data-fgcolor="#999" data-bgcolor="#fff"  ></div>
-                    <h4>Provide Less</br>Funding per Student</br>Compared to 2008</h4>
+                    <div id="myStathalf2" data-dimension="150" data-text="" data-info="" data-width="10" data-fontsize="25" data-percent="50" data-fgcolor="#999" data-bgcolor="#fff"  ></div>
+                    <h4>Of States Provide Less</br>Funding per Student</br>Compared to 2008</h4>
                   </div>
                 </div>
                 <!-- START SINGLE SKILL-->

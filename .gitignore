@@ -1,3 +1,5 @@
 .htaccess
 educatethefuturenow.org/
 old/
+error_log
+_dbp.php
