@@ -46,9 +46,9 @@
                     
                     <!-- Start Our Mission -->
                     <h2> Our Mission </h2>
-                    <p>Educate the Future strives to provide free, high-quality, educational opportunities to low-income families.</p>
+                    <p><?php include($root . '/content/our-mission.txt'); ?></p>
 
-                    <?php include('../content/AboutUs.html'); ?>
+                    <?php include($root . '/content/about-us-long.html'); ?>
 
                   </div>
                 </div>

@@ -12,7 +12,7 @@
         <div class="col-ld-3  col-md-3 col-sm-3">
             <div class="single_footer_widget">
             <h3>Our Mission</h3>
-            <p>Educate the Future strives to provide free, quality, educational opportunities to children of low-income families in need.</p>
+            <p><?php include($root . '/content/our-mission.txt') ?></p>
             </div>
         </div>
         <div class="col-ld-3  col-md-3 col-sm-3">

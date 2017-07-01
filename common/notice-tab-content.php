@@ -21,7 +21,7 @@
     </div>
     <div class="media-body">
         <a href=<?php echo "'" . $root . "apply/tutors.php'"; ?>>Tutor applications are now open</a>
-        <span class="feed_date">17 Jan 2017</span>             
+        <span class="feed_date">01 July 2017</span>             
     </div>
     </div>
 </li>

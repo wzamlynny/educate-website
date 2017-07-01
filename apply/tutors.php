@@ -37,9 +37,10 @@
         <div class="row">
           <div class="col-lg-12 col-md-12">
             <div class="title_area">
-              <h2 class="title_two">Volunteer Tutor Registration</h2>
+              <h2 class="title_two">Tutor Registration</h2>
               <span></span>
               <p>Thank you very much for contacting Educate the Future. Please take a moment to complete our Volunteer Tutor Registration form so that we may accurately assign you to a family in need near you. We look forward to working together to ensure a bright future for all children!</p>
+              <p>Please note, at this current time all applications will be sent to a waitlist.</p>
             </div>
           </div>
         </div>
@@ -118,32 +119,14 @@
                 </div>
                   <input type="form" class="two-thirds wp-form-control wpcf7-text" placeholder="Hours" name="sundayDetails"></input>
             
-                <h3>Expected Time Committment</h3>
-                <div class="checkbox-small">
-                  <input type="checkbox" name="timeCommitment" value="1month"> 1 Month</input>
-                </div>
-                <div class="checkbox-small">
-                  <input type="checkbox" name="timeCommitment" value="2month"> 2 Months</input>
-                </div>
-                <div class="checkbox-small">
-                  <input type="checkbox" name="timeCommitment" value="3month"> 3 Months</input>
-                </div>
-                <div class="checkbox-small">
-                  <input type="checkbox" name="timeCommitment" value="summerBreak"> Summer Break</input>
-                </div>
-                <div class="checkbox-small">
-                  <input type="checkbox" name="timeCommitment" value="Other"> Other</input>
-                </div>
-                <input type="form" class="three-quarters wp-form-control wpcf7-text" placeholder="Specify" name="timeDetails"></input>
-
-                </br>
+                <br/>
                 <p>We at Educate the Future strive to provide free high quality educational opportunities to all families in need. In the space provided below, please let us know what about our mission has attracted you to assisting in our goal.</p>
                 
                 <textarea class="wp-form-control wpcf7-textarea" cols="30" rows="10" placeholder=""></textarea>
 
                 <input type="checkbox" name="agreement" value="accept">
                   I allow the review panel of Educate the Future to perform a background check. I recognize the purpose of this check is to ensure the safety for the children of families, and denying this check will result in an incomplete registration form.
-                  </br>
+                  <br/>
                 </input>
 
                 <input type="form" class="wp-form-control wpcf7-text" placeholder="Signature of Tutor" name="signature"></input>

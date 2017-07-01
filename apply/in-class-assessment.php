@@ -73,58 +73,6 @@
                 <input type="text" class="third wp-form-control wpcf7-text" placeholder="Grade" name="studentGrade"></input>
                 <input type="text" class="third wp-form-control wpcf7-text" placeholder="Gender" name="studentGender"></input>
                 
-                <h4>Subject of Tutor</h4>
-                <div class="checkbox"> 
-                  <input type="checkbox" name="subject" value="math"> Mathematics</input>
-                </div>
-                  <input type="form" class="two-thirds wp-form-control wpcf7-text" placeholder="Specify" name="mathDetails"></input>
-                <div class="checkbox">
-                  <input type="checkbox" name="subject" value="english"> English</input>
-                </div>
-                  <input type="form" class="two-thirds wp-form-control wpcf7-text" placeholder="Specify" name="englishDetails"></input>
-                <div class="checkbox">
-                  <input type="checkbox" name="subject" value="history"> History</input>
-                </div>
-                  <input type="form" class="two-thirds wp-form-control wpcf7-text" placeholder="Specify" name="historyDetails"></input>                
-                <div class="checkbox">
-                  <input type="checkbox" name="subject" value="spanish"> Spanish</input>
-                </div>
-                  <input type="form" class="two-thirds wp-form-control wpcf7-text" placeholder="Specify" name="spanishDetails"></input>               
-                <div class="checkbox">
-                  <input type="checkbox" name="subject" value="other"> Other</input>
-                </div>
-                  <input type="form" class="two-thirds wp-form-control wpcf7-text" placeholder="Specify" name="otherDetails"></input>                
-            
-                <h4>Availibility for Tutoring</h4>
-                <div class="checkbox"> 
-                  <input type="checkbox" name="day" value="monday"> Monday</input>
-                </div>
-                  <input type="form" class="two-thirds wp-form-control wpcf7-text" placeholder="Hours" name="mondayDetails"></input>
-                <div class="checkbox">
-                  <input type="checkbox" name="day" value="tuesday"> Tuesday</input>
-                </div>
-                  <input type="form" class="two-thirds wp-form-control wpcf7-text" placeholder="Hours" name="tuesdayDetails"></input>
-                <div class="checkbox">
-                  <input type="checkbox" name="day" value="wednesday"> Wednesday</input>
-                </div>
-                  <input type="form" class="two-thirds wp-form-control wpcf7-text" placeholder="Hours" name="wednesdayDetails"></input>                
-                <div class="checkbox">
-                  <input type="checkbox" name="day" value="thursday"> Thursday</input>
-                </div>
-                  <input type="form" class="two-thirds wp-form-control wpcf7-text" placeholder="Hours" name="thurdsayDetails"></input>               
-                <div class="checkbox">
-                  <input type="checkbox" name="day" value="friday"> Friday</input>
-                </div>
-                  <input type="form" class="two-thirds wp-form-control wpcf7-text" placeholder="Hours" name="fridayDetails"></input>   
-                <div class="checkbox">
-                  <input type="checkbox" name="day" value="saturday"> Saturday</input>
-                </div>
-                  <input type="form" class="two-thirds wp-form-control wpcf7-text" placeholder="Hours" name="saturdayDetails"></input>
-                <div class="checkbox">
-                  <input type="checkbox" name="day" value="sunday"> Sunday</input>
-                </div>
-                  <input type="form" class="two-thirds wp-form-control wpcf7-text" placeholder="Hours" name="sundayDetails"></input>
-            
                 </br></br></br></br></br>
                 <h3>Please Deliver the In-Class Assessment Form to the Student's Teacher (1 per Subject)</h3>
                 </br>
