@@ -45,7 +45,11 @@
         <div class="row">
           <div class="col-lg-12 col-md-12 col-sm-12">
             <div class="application_form wow fadeInLeft">
-            <form>
+
+            <!-- Temporary Google Form -->
+            <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc8anH1WLv290pNXKiWTzh-l8wwY3qNqqNoZ8UvD5CLLzHkDg/viewform?embedded=true" width="100%" height="7666" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+
+            <!--<form>
               <h3>Personal Information</h3>
                 <input type="text" class="half wp-form-control wpcf7-text" placeholder="First Name" name="firstName"></input>
                 <input type="text" class="half wp-form-control wpcf7-text" placeholder="Last Name" name="lastName"></input>
@@ -137,7 +141,7 @@
                 <input type="form" class="wp-form-control wpcf7-text" placeholder="Signature" name="signature"></input>
 
                 <input type="submit" class="wpcf7-submit"></input>
-            </form>
+            </form>-->
             </div>
           </div>
         <div>
