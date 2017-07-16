@@ -51,14 +51,14 @@
                     </div>
                   </div>
                 </li>
-                <li>
+
+                <!-- <li>
                   <div class="single_location">
                     <div class="singLocation_imgarea">
                       <iframe class="location_map"src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d48424.47881289317!2d-74.23164791592359!3d40.6622913842669!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24d5fee42051d%3A0x3285591b526b03ad!2sElizabeth%2C+NJ!5e0!3m2!1sen!2sus!4v1484434917562"></iframe>
                     </div>
                     <div class="singLocation_content">
                     <h3 class="singLocation_title"><a href="elizabeth.php">Elizabeth, NJ</a></h3>
-                    <!--<p>when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>-->
                     </div>
                   </div>
                 </li> 
@@ -69,10 +69,10 @@
                     </div>
                     <div class="singLocation_content">
                     <h3 class="singLocation_title"><a href="union.php">Union, NJ</a></h3>
-                    <!--<p>when an unknown printer took a galley of type and scrambled it to make a type specimen book</p>-->
                     </div>
                   </div>
-                </li>
+                </li> -->
+
               </ul>
             </div>
           </div>

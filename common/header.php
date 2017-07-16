@@ -43,22 +43,30 @@
               </ul>
             </li>
 
-            <li>
+            <!-- <li>
                 <a href=<?php echo "'" . $root . "tutors'"; ?>>Meet our Tutors</a>
-            </li>            
+            </li> -->
+            <li>
+                <a href=<?php echo "'" . $root . "events'"; ?>>Events</a>
+            </li>       
 
-            <li class='dropdown'>
+            <!-- Temporary - Hillside only  -->
+             <li>
+                <a href=<?php echo "'" . $root . "locations/hillside.php'"; ?>>Locations</a>
+            </li> 
+
             <!-- LINK ON LOCATIONS - Disabled is not mobile friendly TODO -->
+            <!-- <li class='dropdown'>
               <a href=<?php echo "'" . $root . "locations'"; ?> class='dropdown-toggle disabled' data-toggle='dropdown' role='button' aria-expanded='false'>Locations<span class='caret'></span></a>
               <ul class='dropdown-menu' role='menu'>
                 <li><a href=<?php echo "'" . $root . "locations/hillside.php'"; ?> >Hillside, NJ</a></li>
                 <li><a href=<?php echo "'" . $root . "locations/elizabeth.php'"; ?> >Elizabeth, NJ</a></li>
                 <li><a href=<?php echo "'" . $root . "locations/union.php'"; ?> >Union, NJ</a></li>               
               </ul>
-            </li>
+            </li> -->
 
             <li>
-              <a href=<?php echo "'" . $root . "blog/blog-archive.php'"; ?>>Blog</a>
+              <a href=<?php echo "'" . $root . "blog'"; ?>>Blog</a>
             </li>
 
             <!--<li>

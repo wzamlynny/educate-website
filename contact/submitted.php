@@ -75,7 +75,7 @@
              </div>
              <div class="address_group">
               <ul class="footer_social">
-                <li><a data-toggle="tooltip" data-placement="top" title="Facebook" class="soc_tooltip" href="https://www.facebook.com/Freetutoringnow/"><i class="fa fa-facebook"></i></a></li>
+                <li><a data-toggle="tooltip" data-placement="top" title="Facebook" class="soc_tooltip" href="https://www.facebook.com/EducatetheFutureNow/"><i class="fa fa-facebook"></i></a></li>
                 <li><a data-toggle="tooltip" data-placement="top" title="Twitter" class="soc_tooltip"  href="https://twitter.com/Edu_The_Future"><i class="fa fa-twitter"></i></a></li>
                 <li><a data-toggle="tooltip" data-placement="top" title="Instagram" class="soc_tooltip"  href="https://www.instagram.com/educatethefuture/?hl=en"><i class="fa fa-instagram"></i></a></li>
                 </ul>

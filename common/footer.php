@@ -21,7 +21,7 @@
             <ul class="footer_widget_nav">
                 <li><a href=<?php echo "'" . $root . "aboutUs/our-team.php'"; ?>>Our Team</a></li>
                 <li><a href=<?php echo "'" . $root . "tutors'"; ?>>Our Tutors</a></li>
-                <li><a href=<?php echo "'" . $root . "blog/blog-archive.php'"; ?>>Blog</a></li>
+                <li><a href=<?php echo "'" . $root . "blog'"; ?>>Blog</a></li>
                 <li><a href="#">News &amp; Media</a></li>
             </ul>
             </div>
@@ -40,7 +40,7 @@
             <div class="single_footer_widget">
             <h3>Follow Us</h3>
             <ul class="footer_social">
-                <li><a data-toggle="tooltip" data-placement="top" title="Facebook" class="soc_tooltip" href="https://www.facebook.com/Freetutoringnow/"><i class="fa fa-facebook"></i></a></li>
+                <li><a data-toggle="tooltip" data-placement="top" title="Facebook" class="soc_tooltip" href="https://www.facebook.com/EducatetheFutureNow/"><i class="fa fa-facebook"></i></a></li>
                 <li><a data-toggle="tooltip" data-placement="top" title="Twitter" class="soc_tooltip"  href="https://twitter.com/Edu_The_Future"><i class="fa fa-twitter"></i></a></li>
                 <li><a data-toggle="tooltip" data-placement="top" title="Instagram" class="soc_tooltip"  href="https://www.instagram.com/educatethefuture/?hl=en"><i class="fa fa-instagram"></i></a></li>
                 <!--<li><a data-toggle="tooltip" data-placement="top" title="Google+" class="soc_tooltip"  href="#"><i class="fa fa-google-plus"></i></a></li>-->
