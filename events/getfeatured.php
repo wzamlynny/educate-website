@@ -62,8 +62,8 @@
                   </div>
                   <!-- single blog nex & prev button -->
                   <div class="single_blog_prevnext">
-                    <a class="prev_post wow fadeInLeft"><i class="fa fa-angle-left"></i>Previous Post</a>
-                    <a class="next_post wow fadeInRight">Next Post<i class="fa fa-angle-right"></i></a>
+                    <a class="prev_post wow fadeInLeft" href="call-20170701.php"><i class="fa fa-angle-left"></i>Previous Post</a>
+                    <a class="next_post wow fadeInRight" href="call-20170722.php">Next Post<i class="fa fa-angle-right"></i></a>
                   </div>
                 </div>
                 <!-- End single blog -->                
@@ -74,7 +74,7 @@
           <!-- End course content -->
 
           <!-- start  sidebar -->
-          <?php include('../common/blog-sidebar.php'); ?>
+          <?php include('../common/events-sidebar.php'); ?>
           <!-- end sidebar -->
         </div>
       </div>

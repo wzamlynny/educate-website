@@ -50,11 +50,11 @@
                       <p><i class="fa fa-calendar"></i>22 July 2017</p>
                       <!--<a href="#"><i class="fa fa-comments"></i>20 Comments</a>-->
                     </div>
-                    <div class="blogimg_container">
+                    <!-- <div class="blogimg_container">
                       <a href="#" class="blog_img">
                         <img alt="img" src="../img/educate_logo.png">
                       </a>
-                    </div>
+                    </div> -->
                      <h3>Event Details</h3> 
 
                       <!-- IMPORT BLOG CONTENT -->
@@ -62,8 +62,8 @@
                   </div>
                   <!-- single blog nex & prev button -->
                   <div class="single_blog_prevnext">
-                    <a class="prev_post wow fadeInLeft"><i class="fa fa-angle-left"></i>Previous Post</a>
-                    <a class="next_post wow fadeInRight">Next Post<i class="fa fa-angle-right"></i></a>
+                    <a class="prev_post wow fadeInLeft" href="getfeatured.php"><i class="fa fa-angle-left"></i>Previous Post</a>
+                    <!-- <a class="next_post wow fadeInRight">Next Post<i class="fa fa-angle-right"></i></a> -->
                   </div>
                 </div>
                 <!-- End single blog -->                
@@ -74,7 +74,7 @@
           <!-- End course content -->
 
           <!-- start  sidebar -->
-          <?php include('../common/blog-sidebar.php'); ?>
+          <?php include('../common/events-sidebar.php'); ?>
           <!-- end sidebar -->
         </div>
       </div>
