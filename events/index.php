@@ -51,7 +51,7 @@
                       </a>
                     </div>
                     <div class="archive_bloginfo_container">
-                      <h2 class="archive_blog_title"><a href="getfeatured.php">Get Featured on Educate the Future!</a></h2>
+                      <h2 class="archive_blog_title"><a href="getfeatured">Get Featured on Educate the Future!</a></h2>
                       <div class="blog_commentbox">
                         <p><i class="fa fa-user"></i>Educate the Future</p>
                         <p><i class="fa fa-calendar"></i>16 July 2017</p>
@@ -60,7 +60,7 @@
                       </div>
                     </div>
                     <p class="blog_summary">We are now accepting work relating to education. You do not have to have a background in education; however, your piece of work must be about the field of education...</p>
-                    <a class="blog_readmore" name="Get Featured" href="getfeatured.php">Read More</a>
+                    <a class="blog_readmore" name="Get Featured" href="getfeatured">Read More</a>
                   </div>
                 </div>
                 <!-- end single blog archive -->
@@ -74,7 +74,7 @@
                       </a>
                     </div>
                     <div class="archive_bloginfo_container">
-                      <h2 class="archive_blog_title"><a href="call-20170722.php">Live Conference Call – What’s Next?</a></h2>
+                      <h2 class="archive_blog_title"><a href="call-20170722">Live Conference Call – What’s Next?</a></h2>
                       <div class="blog_commentbox">
                         <p><i class="fa fa-user"></i>Educate the Future</p>
                         <p><i class="fa fa-calendar"></i>22 July 2017</p>
@@ -83,7 +83,7 @@
                       </div>
                     </div>
                     <p class="blog_summary">We will be hosting another live conference call on Saturday, July 22nd, at 8:00 PM EST to go over our next steps for preparing to launch this coming fall of 2017...</p>
-                    <a class="blog_readmore" name="Conference Call" href="call-20170722.php">Read More</a>
+                    <a class="blog_readmore" name="Conference Call" href="call-20170722">Read More</a>
                   </div>
                 </div>
                 <!-- end single blog archive -->
@@ -97,7 +97,7 @@
                       </a>
                     </div>
                     <div class="archive_bloginfo_container">
-                      <h2 class="archive_blog_title"><a href="call-20170701.php">Live Conference Call – What is Educate the Future?</a></h2>
+                      <h2 class="archive_blog_title"><a href="call-20170701">Live Conference Call – What is Educate the Future?</a></h2>
                       <div class="blog_commentbox">
                         <p><i class="fa fa-user"></i>Educate the Future</p>
                         <p><i class="fa fa-calendar"></i>01 July 2017</p>
@@ -106,7 +106,7 @@
                       </div>
                     </div>
                     <p class="blog_summary">For the past year and some months, we have been working on planning an initiative called "Educate the Future," a community movement...</p>
-                    <a class="blog_readmore" name="Conference Call" href="call-20170701.php">Read More</a>
+                    <a class="blog_readmore" name="Conference Call" href="call-20170701">Read More</a>
                   </div>
                 </div>
                 <!-- end single blog archive -->

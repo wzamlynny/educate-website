@@ -18,11 +18,11 @@
           </button>
           <!-- LOGO -->
           <!-- IMG BASED LOGO  -->
-          <a class='navbar-brand' href=<?php echo "'" . $root . "index.php'"; ?> >
+          <a class='navbar-brand' href=<?php echo "'" . $root . "index'"; ?> >
             <img class='logo-wrapper' src= <?php echo "'" . $root . "img/educate_logo_v3.png'"; ?> alt='logo'>
           </a>
           <!-- TEXT BASED LOGO -->
-          <a class='navbar-brand' href=<?php echo "'" . $root . "index.php'"; ?> >Educate the <span>Future</span></a>              
+          <a class='navbar-brand' href=<?php echo "'" . $root . "index'"; ?> >Educate the <span>Future</span></a>              
           
                   
         </div>
@@ -37,9 +37,9 @@
             <!-- LINK ON LOCATIONS - Disabled is not mobile friendly TODO -->
               <a href=<?php echo "'" . $root . "apply'"; ?> class='dropdown-toggle disabled' data-toggle='dropdown' role='button' aria-expanded='false'>Apply<span class='caret'></span></a>
               <ul class='dropdown-menu' role='menu'>
-                <li><a href=<?php echo "'" . $root . "apply/tutors.php'"; ?> >Tutors</a></li>
-                <li><a href=<?php echo "'" . $root . "apply/staff.php'"; ?> >Staff</a></li>               
-                <li><a href=<?php echo "'" . $root . "apply/forms.php'"; ?> >Forms</a></li>               
+                <li><a href=<?php echo "'" . $root . "apply/tutors'"; ?> >Tutors</a></li>
+                <li><a href=<?php echo "'" . $root . "apply/staff'"; ?> >Staff</a></li>               
+                <li><a href=<?php echo "'" . $root . "apply/forms'"; ?> >Forms</a></li>               
               </ul>
             </li>
 
@@ -52,16 +52,16 @@
 
             <!-- Temporary - Hillside only  -->
              <li>
-                <a href=<?php echo "'" . $root . "locations/hillside.php'"; ?>>Locations</a>
+                <a href=<?php echo "'" . $root . "locations/hillside'"; ?>>Locations</a>
             </li> 
 
             <!-- LINK ON LOCATIONS - Disabled is not mobile friendly TODO -->
             <!-- <li class='dropdown'>
               <a href=<?php echo "'" . $root . "locations'"; ?> class='dropdown-toggle disabled' data-toggle='dropdown' role='button' aria-expanded='false'>Locations<span class='caret'></span></a>
               <ul class='dropdown-menu' role='menu'>
-                <li><a href=<?php echo "'" . $root . "locations/hillside.php'"; ?> >Hillside, NJ</a></li>
-                <li><a href=<?php echo "'" . $root . "locations/elizabeth.php'"; ?> >Elizabeth, NJ</a></li>
-                <li><a href=<?php echo "'" . $root . "locations/union.php'"; ?> >Union, NJ</a></li>               
+                <li><a href=<?php echo "'" . $root . "locations/hillside'"; ?> >Hillside, NJ</a></li>
+                <li><a href=<?php echo "'" . $root . "locations/elizabeth'"; ?> >Elizabeth, NJ</a></li>
+                <li><a href=<?php echo "'" . $root . "locations/union'"; ?> >Union, NJ</a></li>               
               </ul>
             </li> -->
 

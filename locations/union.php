@@ -160,7 +160,7 @@
                 <ul>
                   <li><a href="../tutors/#union">Union Tutors</a></li>
                   <!--<li><a href="../apply/families.php">Family Application</a></li>-->
-                  <li><a href="http://www.uniontownship.com/">Union Website</a></li>
+                  <li><a href="http://www.uniontownship.com/" target="_blank">Union Website</a></li>
                 </ul>
               </div>
               <!-- End single sidebar -->

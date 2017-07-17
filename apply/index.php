@@ -52,7 +52,7 @@
                 </div>-->
                 <div class="col-lg-3 col-md-3 col-sm-3">
                   <div class="single_whyus_top wow fadeInUp">
-                    <a href="tutors.php"> 
+                    <a href="tutors"> 
                     <div class="whyus_icon">
                       <span class="fa fa-university"></span>
                       <!--<img src="../img/pexels-photo-249360.jpeg"></img>-->
@@ -64,7 +64,7 @@
                 </div>
                 <div class="col-lg-3 col-md-3 col-sm-3">
                   <div class="single_whyus_top wow fadeInUp">
-                    <a href="staff.php"> 
+                    <a href="staff"> 
                     <div class="whyus_icon">
                       <span class="fa fa-users"></span>
                       <!--<img src="../img/people-woman-coffee-meeting.jpg"> </img>-->
@@ -76,7 +76,7 @@
                 </div>
                 <div class="col-lg-3 col-md-3 col-sm-3">
                   <div class="single_whyus_top wow fadeInUp">
-                    <a href="forms.php"> 
+                    <a href="forms"> 
                     <div class="whyus_icon">
                       <span class="fa fa-folder-open"></span>
                       <!--<img src="../img/people-woman-coffee-meeting.jpg"> </img>-->

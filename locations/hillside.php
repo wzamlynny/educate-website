@@ -160,7 +160,7 @@
                 <ul>
                   <li><a href="../tutors/#hillside">Hillside Tutors</a></li>
                   <!--<li><a href="../apply/families.php">Family Application</a></li>-->
-                  <li><a href="http://hillsidenj.us/">Hillside Website</a></li>
+                  <li><a href="http://hillsidenj.us/" target="_blank">Hillside Website</a></li>
                 </ul>
               </div>
               <!-- End single sidebar -->

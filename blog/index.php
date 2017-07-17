@@ -51,7 +51,7 @@
                       </a>
                     </div>
                     <div class="archive_bloginfo_container">
-                      <h2 class="archive_blog_title"><a href="welcome-20170701.php">Welcome to Educate the Future</a></h2>
+                      <h2 class="archive_blog_title"><a href="welcome-20170701">Welcome to Educate the Future</a></h2>
                       <div class="blog_commentbox">
                         <p><i class="fa fa-user"></i>Nuno Pereira</p>
                         <p><i class="fa fa-calendar"></i>01 July 2017</p>
@@ -60,7 +60,7 @@
                       </div>
                     </div>
                     <p class="blog_summary">My name is Nuno, Founder and President of the movement, and I want to say thank you for visiting our page...</p>
-                    <a class="blog_readmore" name="Welcome Blog" href="welcome-20170701.php">Read More</a>
+                    <a class="blog_readmore" name="Welcome Blog" href="welcome-20170701">Read More</a>
                   </div>
                 </div>
                 <!-- end single blog archive -->

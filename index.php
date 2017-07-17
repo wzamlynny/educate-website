@@ -46,7 +46,7 @@
 
                 <li>
                   <img class="slides-image" src="img/slider/tutors-bg.jpg" alt="img">
-                  <a href="apply/tutors.php">
+                  <a href="apply/tutors">
                     <img class="slides-image-text" src="img/slider/tutors-text.png">
                   </a>
                 </li>
@@ -76,9 +76,10 @@
             <h4>Find us on Social Media</h4>
             <div class="address_group">
               <ul class="footer_social">
-                <li><a data-toggle="tooltip" data-placement="top" title="Facebook" class="home-soc-icons soc_tooltip" href="https://www.facebook.com/EducatetheFutureNow/"><i class="fa fa-facebook"></i></a></li>
-                <li><a data-toggle="tooltip" data-placement="top" title="Twitter" class="home-soc-icons soc_tooltip"  href="https://twitter.com/Edu_The_Future"><i class="fa fa-twitter"></i></a></li>
-                <li><a data-toggle="tooltip" data-placement="top" title="Instagram" class="home-soc-icons soc_tooltip"  href="https://www.instagram.com/educatethefuture/?hl=en"><i class="fa fa-instagram"></i></a></li>
+                <li><a data-toggle="tooltip" data-placement="top" title="Facebook" class="home-soc-icons soc_tooltip" href="https://www.facebook.com/EducatetheFutureNow/" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                <li><a data-toggle="tooltip" data-placement="top" title="Youtube" class="home-soc-icons soc_tooltip" href="https://www.youtube.com/channel/UCT8YXQhHdYS0lPcH7ARhn-g" target="_blank"><i class="fa fa-youtube"></i></a></li>
+                <!-- <li><a data-toggle="tooltip" data-placement="top" title="Twitter" class="home-soc-icons soc_tooltip"  href="https://twitter.com/Edu_The_Future"><i class="fa fa-twitter"></i></a></li>
+                <li><a data-toggle="tooltip" data-placement="top" title="Instagram" class="home-soc-icons soc_tooltip"  href="https://www.instagram.com/educatethefuture/?hl=en"><i class="fa fa-instagram"></i></a></li> -->
                 </ul>
              </div>
           </div>
@@ -191,7 +192,7 @@
               <div class="row">
                 <div class="col-lg-3 col-md-3 col-sm-3">
                   <div class="single_whyus_top wow fadeInUp">
-                    <a href="aboutUs/free.php"> 
+                    <a href="aboutUs/free"> 
                     <div class="whyus_icon">
                       <span class="fa fa-dollar"></span>
                     </div>
@@ -202,7 +203,7 @@
                 </div>
                 <div class="col-lg-3 col-md-3 col-sm-3">
                   <div class="single_whyus_top wow fadeInUp">
-                    <a href="aboutUs/specialized.php"> 
+                    <a href="aboutUs/specialized"> 
                     <div class="whyus_icon">
                       <span class="fa fa-child"></span>
                     </div>
@@ -213,7 +214,7 @@
                 </div>
                 <div class="col-lg-3 col-md-3 col-sm-3">
                   <div class="single_whyus_top wow fadeInUp">
-                    <a href="aboutUs/community.php"> 
+                    <a href="aboutUs/community"> 
                     <div class="whyus_icon">
                       <span class="fa fa-users"></span>
                     </div>
@@ -224,7 +225,7 @@
                 </div>
                 <div class="col-lg-3 col-md-3 col-sm-3">
                   <div class="single_whyus_top wow fadeInUp">
-                    <a href="aboutUs/success.php"> 
+                    <a href="aboutUs/success"> 
                     <div class="whyus_icon">
                       <span class="fa fa-graduation-cap"></span>
                     </div>

@@ -6,8 +6,8 @@
     Visit our “Welcome Blog” and “About Us” to get an idea of who we are:
 </p>
 <ul>
-    <li><span class="fa fa-angle-double-right"></span><a href="educatethefuturenow.org/blog/welcome-20170701.php">Welcome Blog</a></li>
-    <li><span class="fa fa-angle-double-right"></span><a href="educatethefuturenow.org/aboutUs/">About Us</a></li>
+    <li><span class="fa fa-angle-double-right"></span><a href=<?php echo "'" . $root . "blog/welcome-20170701'"?>>Welcome Blog</a></li>
+    <li><span class="fa fa-angle-double-right"></span><a href=<?php echo "'" . $root . "aboutUs/'"?>>About Us</a></li>
 </ul>
 <h3>Submission Details</h3>
 <ul>

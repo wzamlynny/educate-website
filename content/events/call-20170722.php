@@ -1,17 +1,18 @@
 <p>
-    For the past year and some months, we have been working on planning an initiative called "Educate the Future," a community movement to (1) organize our community resources to provide free tutoring and mentoring to children in low-income neighborhoods during their time in K-12, (2) connect the resources of local businesses and corporations to update and revamp the quality of education being offered, and (3) generate curriculum and policy recommendations to create long-lasting change at a local, state, and federal level. We want to open this up to all of you and include anyone interested in creating change for our children. If you would like to learn more about this project, and possibly jump on board in a capacity to help secure a better future for children throughout the country, then make sure to join our call. At the moment, we are planning to set up small pilots within a limited number of schools in New Jersey (where we have ties and connections to leverage) just as a starting off point, but we have all the intention of growing and replicating this throughout the country once we show our success. You do not have to live in New Jersey to get involved; we want your expertise, knowledge, and passion for education above all else! Please join us this coming Saturday, 7/1, at 8:00 PM EST on our call where we will explain our mission and goals in more detail, along with a more detailed breakdown of the available positions.
+We will be hosting another live conference call on Saturday, July 22nd, at 8:00 PM EST to go over our next steps for preparing to launch this coming fall of 2017. This will serve as an opportunity to help us get feedback on our methods and steps towards a successful launch. This presentation will include an overview and breakdown of our estimated budget for the academic year, 2017-2018, as well as an overview of our fundraising campaign which will launch the same day. We will also continue to promote our open positions that anyone can apply for! There is no obligation to join the movement when coming onto the call, so invite friends and family who would be interested. Please share this event and let us know that you'll be there!
 <br/>
     Visit our “Welcome Blog” and “About Us” to get an idea of who we are:
 </p>
 <ul>
-    <li><span class="fa fa-angle-double-right"></span><a href="educatethefuturenow.org/blog/welcome-20170701.php">Welcome Blog</a></li>
-    <li><span class="fa fa-angle-double-right"></span><a href="educatethefuturenow.org/aboutUs/">About Us</a></li>
+    <li><span class="fa fa-angle-double-right"></span><a href=<?php echo "'" . $root . "blog/welcome-20170701'"?>>Welcome Blog</a></li>
+    <li><span class="fa fa-angle-double-right"></span><a href=<?php echo "'" . $root . "aboutUs/'"?>>About Us</a></li>
 </ul>
 <h3>Call Details</h3>
 <ul>
-    <li><span class="fa fa-angle-double-right"></span>Date: Saturday, 07/01/2017</li>
-    <li><span class="fa fa-angle-double-right"></span>Time: 8:00 PM until 9:30 PM EST</li>
-    <li><span class="fa fa-angle-double-right"></span><a href="https://www.facebook.com/events/471101003240153/" target="_blank">Facebook Event</a></li>
+    <li><span class="fa fa-angle-double-right"></span>Date: Saturday, 07/22/2017</li>
+    <li><span class="fa fa-angle-double-right"></span>Time: 8:00 PM until 8:45 PM EST</li>
+    <li><span class="fa fa-angle-double-right"></span><a href="https://www.eventbrite.com/e/educate-the-future-live-conference-call-tickets-36203918896" target="_blank">EventBrite Event</a></li>
+    <li><span class="fa fa-angle-double-right"></span><a href="https://www.facebook.com/events/881028892035244/" target="_blank">Facebook Event</a></li>
 </ul>
 <h3>Presenter Info</h3>
 <p>

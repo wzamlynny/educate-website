@@ -36,7 +36,7 @@
                 <a href="apply/"> Apply</a>
               </li>
               <li><span class="fa fa-angle-double-right"></span>If you would like to look through the site:
-                  <a href="index.php"> Home</a>
+                  <a href="./"> Home</a>
               </li>
               <li><span class="fa fa-angle-double-right"></span> If you would like to read our blog:
                 <a href="blog"> Blog</a>

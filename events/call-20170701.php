@@ -58,12 +58,12 @@
                      <h3>Event Details</h3> 
 
                       <!-- IMPORT BLOG CONTENT -->
-                      <?php include($root . "content/events/call-20170701.html"); ?>
+                      <?php include($root . "content/events/call-20170701.php"); ?>
                   </div>
                   <!-- single blog nex & prev button -->
                   <div class="single_blog_prevnext">
                     <!-- <a class="prev_post wow fadeInLeft"><i class="fa fa-angle-left"></i>Previous Post</a> -->
-                    <a class="next_post wow fadeInRight" href="getfeatured.php">Next Post<i class="fa fa-angle-right"></i></a>
+                    <a class="next_post wow fadeInRight" href="getfeatured">Next Post<i class="fa fa-angle-right"></i></a>
                   </div>
                 </div>
                 <!-- End single blog -->                

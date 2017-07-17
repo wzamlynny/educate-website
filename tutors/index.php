@@ -31,7 +31,7 @@
     </section>
     <!--=========== END COURSE BANNER SECTION ================-->
     
-    <a class="app-announcement" href="../apply/tutors.php">We are currently accepting applications for tutors</a>
+    <a class="app-announcement" href="../apply/tutors">We are currently accepting applications for tutors</a>
 
     <!--=========== BEGIN TUTORS SECTION ================-->
     <section id="tutors">
@@ -43,7 +43,7 @@
               <h2 id="hillside"> Hillside, NJ </h2>
 
                 <div class="single-tutor">
-                  <a href="../apply/tutors.php" title="Apply Now">
+                  <a href="../apply/tutors" title="Apply Now">
                     <img class="tutors_img" src="../img/educate_logo.png" alt="img" />
                   <span class="subject_view">Apply Now</span>
                   </a>
@@ -51,7 +51,7 @@
                 </div>
                 
                 <div class="single-tutor">
-                  <a href="../apply/tutors.php" title="Apply Now">
+                  <a href="../apply/tutors" title="Apply Now">
                     <img class="tutors_img" src="../img/educate_logo.png" alt="img" />
                   <span class="subject_view">Apply Now</span>
                   </a>
@@ -59,7 +59,7 @@
                 </div>
 
                 <div class="single-tutor">
-                  <a href="../apply/tutors.php" title="Apply Now">
+                  <a href="../apply/tutors" title="Apply Now">
                     <img class="tutors_img" src="../img/educate_logo.png" alt="img" />
                   <span class="subject_view">Apply Now</span>
                   </a>
@@ -67,7 +67,7 @@
                 </div>
 
                 <div class="single-tutor">
-                  <a href="../apply/tutors.php" title="Apply Now">
+                  <a href="../apply/tutors" title="Apply Now">
                     <img class="tutors_img" src="../img/educate_logo.png" alt="img" />
                   <span class="subject_view">Apply Now</span>
                   </a>
@@ -75,7 +75,7 @@
                 </div>
 
                 <div class="single-tutor">
-                  <a href="../apply/tutors.php" title="Apply Now">
+                  <a href="../apply/tutors" title="Apply Now">
                     <img class="tutors_img" src="../img/educate_logo.png" alt="img" />
                   <span class="subject_view">Apply Now</span>
                   </a>
@@ -83,7 +83,7 @@
                 </div>
 
                 <div class="single-tutor">
-                  <a href="../apply/tutors.php" title="Apply Now">
+                  <a href="../apply/tutors" title="Apply Now">
                     <img class="tutors_img" src="../img/educate_logo.png" alt="img" />
                   <span class="subject_view">Apply Now</span>
                   </a>
@@ -91,7 +91,7 @@
                 </div>
 
                 <div class="single-tutor">
-                  <a href="../apply/tutors.php" title="Apply Now">
+                  <a href="../apply/tutors" title="Apply Now">
                     <img class="tutors_img" src="../img/educate_logo.png" alt="img" />
                   <span class="subject_view">Apply Now</span>
                   </a>
@@ -99,7 +99,7 @@
                 </div>
 
                 <div class="single-tutor">
-                  <a href="../apply/tutors.php" title="Apply Now">
+                  <a href="../apply/tutors" title="Apply Now">
                     <img class="tutors_img" src="../img/educate_logo.png" alt="img" />
                   <span class="subject_view">Apply Now</span>
                   </a>
@@ -107,7 +107,7 @@
                 </div>
 
                 <div class="single-tutor">
-                  <a href="../apply/tutors.php" title="Apply Now">
+                  <a href="../apply/tutors" title="Apply Now">
                     <img class="tutors_img" src="../img/educate_logo.png" alt="img" />
                   <span class="subject_view">Apply Now</span>
                   </a>
@@ -115,7 +115,7 @@
                 </div>
 
                 <div class="single-tutor">
-                  <a href="../apply/tutors.php" title="Apply Now">
+                  <a href="../apply/tutors" title="Apply Now">
                     <img class="tutors_img" src="../img/educate_logo.png" alt="img" />
                   <span class="subject_view">Apply Now</span>
                   </a>
